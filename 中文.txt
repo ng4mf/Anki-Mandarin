@@ -1,0 +1,135 @@
+那	nǎ<div>that</div>	B1-L2-Family B1-L4-Hobbies
+的	de<div>(possesive particle or descriptive particle)</div>	B1-L2-Family
+照片	zhàopiàn<div>picture, photo</div>	B1-L2-Family
+这	zhè<div>this</div>	B1-L2-Family
+爸爸	bàba<div>father</div>	B1-L2-Family
+妈妈	māma<div>mother</div>	B1-L2-Family
+个	<div>gè / ge</div>(general measure word)	B1-L2-Family
+女	nǚ<div>female</div>	B1-L2-Family
+孩子	háizi<div>child</div>	B1-L2-Family
+谁	shéi<div>who, whom</div>	B1-L2-Family
+她	tā<div>she, her</div>	B1-L2-Family
+姐姐	jiějie<div>older sister</div>	B1-L2-Family
+男	nán<div>male</div>	B1-L2-Family
+弟弟	dìdi<div>younger brother</div>	B1-L2-Family
+他	tā<div>he, him</div>	B1-L2-Family
+大哥	dàgē<div>eldest/oldest brother</div>	B1-L2-Family
+儿子	érzi<div>son</div>	B1-L2-Family
+有	yǒu<div>to have, to exist</div>	B1-L2-Family
+女儿	nǚ'ér<div>daughter</div>	B1-L2-Family
+没	méi<div>not (used to negate verbs)</div>	B1-L2-Family
+高	gāo<div>- tall, high</div><div>- also a family name</div>	B1-L2-Family
+家	jiā<div>family, home</div>	B1-L2-Family
+几	jǐ<div>how many, some, a few</div>	B1-L2-Family
+口	kǒu<div>- measure word for num. family members</div>- measure word for bites of food<div>- mouth<br></div>	B1-L2-Family
+哥哥	gēge<div>older brother</div>	B1-L2-Family
+两	<div>liǎng</div>two, a couple of (used for objects, as opposed to 二）	B1-L2-Family
+妹妹	mèimei<div>younger sister</div>	B1-L2-Family
+和	hé<div>and</div>	B1-L2-Family
+大姐	dàjiě<div>eldest/oldest sister</div>	B1-L2-Family
+二姐	èrjiě<div>second oldest sister</div>	B1-L2-Family
+做	zuò<div>to do</div>	B1-L2-Family
+工作	gōngzuò<div>job; to work (can be used as noun and verb)</div>	B1-L2-Family
+律师	lǜshī<div>lawyer</div>	B1-L2-Family
+英文	Yīngwén<div>the English language</div>	B1-L2-Family
+都	dōu<div>both, all</div>	B1-L2-Family
+大学生	dàxuéshēng<div>college student</div>	B1-L2-Family
+大学	dàxué<div>university, college</div>	B1-L2-Family
+医生	yīshēng<div>doctor, physician</div>	B1-L2-Family
+兄弟姐妹	xiōngdìjiěmèi<div>siblings</div>	B1-L2-Family
+现在	xiànzài<div>now</div>	B1-L3-Time-and-Date
+刻	kè<div>quarter of an hour</div>	B1-L3-Time-and-Date
+事（儿）	shì(r)<div>matter, affair, event</div>	B1-L3-Time-and-Date
+今天	jīntiān<div>today</div>	B1-L3-Time-and-Date
+很	hěn<div>very</div>	B1-L3-Time-and-Date
+忙	máng<div>busy</div>	B1-L3-Time-and-Date
+明天	míngtiān<div>tomorrow</div>	B1-L3-Time-and-Date
+晚饭	wǎnfàn<div>dinner</div>	B1-L3-Time-and-Date
+为什么	wèishénme<div>why</div>	B1-L3-Time-and-Date
+为	wèi<div>for</div>	B1-L3-Time-and-Date
+因为	yīnwèi<div>because</div>	B1-L3-Time-and-Date
+还	hái<div>also, too, as well</div>	B1-L3-Time-and-Date
+同学	tóngxué<div>classmate</div>	B1-L3-Time-and-Date
+认识	rènshi<div>to recognize, to know (a person)</div>	B1-L3-Time-and-Date
+朋友	péngyou<div>friend</div>	B1-L3-Time-and-Date
+周末	zhōumò<div>weekend</div>	B1-L4-Hobbies
+打球	dǎqiú<div>to play ball</div>	B1-L4-Hobbies
+打	dǎ<div>to hit</div>	B1-L4-Hobbies
+球	qiú<div>ball</div>	B1-L4-Hobbies
+看	kàn<div>to watch, to look, to read</div>	B1-L4-Hobbies
+电视	diànshì<div>TV</div>	B1-L4-Hobbies
+电	diàn<div>electricity</div>	B1-L4-Hobbies
+视	shì<div>vision</div>	B1-L4-Hobbies
+唱歌(儿）	chànggē(r)<div>to sing (a song)</div>	B1-L4-Hobbies
+唱	chàng<div>to sing</div>	B1-L4-Hobbies
+歌	gē<div>song</div>	B1-L4-Hobbies
+跳舞	tiàowǔ<div>to dance</div>	B1-L4-Hobbies
+跳	tiào<div>to jump</div>	B1-L4-Hobbies
+舞	wǔ<div>dance (noun)</div>	B1-L4-Hobbies
+听	tīng<div>to listen</div>	B1-L4-Hobbies
+音乐	yīnyuè<div>music</div>	B1-L4-Hobbies
+书	shū<div>book</div>	B1-L4-Hobbies
+对	duì<div>right, correct, yes</div>	B1-L4-Hobbies
+有的	yǒude<div>some</div>	B1-L4-Hobbies
+时候	shíhou<div>a point in or duration of time</div>	B1-L4-Hobbies
+电影	diànyǐng<div>movie</div>	B1-L4-Hobbies
+影	yǐng<div>shadow</div>	B1-L4-Hobbies
+常常	chángcháng<div>often</div>	B1-L4-Hobbies
+去	qù<div>to go</div>	B1-L4-Hobbies
+外国	wàiguó<div>foreign country</div>	B1-L4-Hobbies
+外	wài<div>outside, foreign, external</div>	B1-L4-Hobbies
+请客	qǐngkè<div>to invite someone for dinner, coffee, etc., to play host</div>	B1-L4-Hobbies
+昨天	zuótiān<div>yesterday</div>	B1-L4-Hobbies
+所以	suǒyǐ<div>so</div>	B1-L4-Hobbies
+小	xiǎo<div>small, little</div>	B1-L4-Hobbies
+好久	hǎojiǔ<div>a long time</div>	B1-L4-Hobbies
+好	hǎo<div>- good</div><div>- very (doesn't seem interchangeable with 很)</div>	B1-L4-Hobbies
+久	jiǔ<div>long (in time)</div>	B1-L4-Hobbies
+不错	búcuò<div>not bad, fairly good</div>	B1-L4-Hobbies
+错	cuò<div>wrong</div>	B1-L4-Hobbies
+想	xiǎng<div>to want to, to want</div>	B1-L4-Hobbies
+觉得	juéde<div>to feel, to think</div>	B1-L4-Hobbies
+有意思	yǒuyìsi<div>interesting</div>	B1-L4-Hobbies
+意思	yìsi<div>meaning (noun)</div>	B1-L4-Hobbies
+只	zhǐ<div>only</div>	B1-L4-Hobbies
+睡觉	shuìjiào<div>to sleep</div>	B1-L4-Hobbies
+睡	shuì<div>to sleep (verb)</div>	B1-L4-Hobbies
+觉	jiào<div>sleep (noun)</div>	B1-L4-Hobbies
+算了	suànle<div>forget it, never mind</div>	B1-L4-Hobbies
+找	zhǎo<div>to look for</div>	B1-L4-Hobbies
+别人	biérén<div>other people, another person</div>	B1-L4-Hobbies
+别（的）	bié(de)<div>other (adverb)</div>	B1-L4-Hobbies
+月	yuè<div>month</div>	B1-L3-Time-and-Date
+号	<div>hào</div>measure word - days of month, position in numerical list, etc.	B1-L3-Time-and-Date
+星期	xīngqī<div>week</div>	B1-L3-Time-and-Date
+天	tiān<div>- day</div><div>- sky</div><div>- heaven</div>	B1-L3-Time-and-Date
+生日	shēngrì<div>birthday</div>	B1-L3-Time-and-Date
+生	shēng<div>to birth or be born</div>	B1-L3-Time-and-Date
+日	rì<div>- day</div><div>- sun</div>	B1-L3-Time-and-Date
+年	nián<div>- year</div>	B1-L3-Time-and-Date
+多	duō<div>- how many</div><div>- how much</div><div>- many</div>	B1-L3-Time-and-Date
+大	dà<div>- big</div><div>- old</div>	B1-L3-Time-and-Date
+岁	suì<div>- years old (i.e., describing age)</div>	B1-L3-Time-and-Date
+吃	chī<div>to eat</div>	B1-L3-Time-and-Date
+饭	fàn<div>meal</div>	B1-L3-Time-and-Date
+怎么样	zěnmeyàng<div>- how is that?</div><div>- is that okay?</div><div>- how are you?</div>	B1-L3-Time-and-Date
+太	tài<div>too, excessively, very</div>	B1-L3-Time-and-Date
+谢谢	xièxie<div>thank you</div>	B1-L3-Time-and-Date
+喜欢	xǐhuan<div>to like</div>	B1-L3-Time-and-Date
+菜	cài<div>dish or cuisine</div>	B1-L3-Time-and-Date
+还是	háishi<div>or</div>	B1-L3-Time-and-Date
+可是	kěshì<div>but</div>	B1-L3-Time-and-Date
+我们	wǒmen<div>- we, us</div>	B1-L3-Time-and-Date
+点	diǎn<div>o'clock</div>	B1-L3-Time-and-Date
+半	bàn<div>half</div>	B1-L3-Time-and-Date
+晚上	wǎnshang<div>- evening or night</div>	B1-L3-Time-and-Date
+见	jiàn<div>to see</div>	B1-L3-Time-and-Date
+再见	zàijiàn<div>- bye, until we see each other again</div>	B1-L3-Time-and-Date
+再	zài<div>again</div>	B1-L3-Time-and-Date
+英国	Yīngguó<div>United Kingdom</div>	B1-L3-Time-and-Date
+印度	Yìndù<div>India</div>	B1-L3-Time-and-Date
+德国	Déguó<div>Germany</div>	B1-L3-Time-and-Date
+韩国	Hánguó<div>South Korea (Republic of Korea)</div>	B1-L3-Time-and-Date
+美国	Měiguó<div>United States</div>	B1-L3-Time-and-Date
+日本	Rìběn<div>Japan</div>	B1-L3-Time-and-Date
+中国	Zhōngguó<div>China</div>	B1-L3-Time-and-Date
