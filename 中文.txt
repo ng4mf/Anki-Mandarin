@@ -17,7 +17,7 @@
 儿子	érzi<div>son</div>	B1-L2-Family
 有	yǒu<div>to have, to exist</div>	B1-L2-Family
 女儿	nǚ'ér<div>daughter</div>	B1-L2-Family
-没	méi<div>not (used to negate verbs)</div>	B1-L2-Family
+没	méi<div>not</div>	B1-L2-Family
 高	gāo<div>- tall, high</div><div>- also a family name</div>	B1-L2-Family
 家	jiā<div>family, home</div>	B1-L2-Family
 几	jǐ<div>how many, some, a few</div>	B1-L2-Family
@@ -133,3 +133,87 @@
 美国	Měiguó<div>United States</div>	B1-L3-Time-and-Date
 日本	Rìběn<div>Japan</div>	B1-L3-Time-and-Date
 中国	Zhōngguó<div>China</div>	B1-L3-Time-and-Date
+呀	ya<div>(particle used to soften a question)</div>	B1-L5-Visiting-Friends
+进	jìn<div>to enter</div>	B1-L5-Visiting-Friends
+快	<div>kuài</div>quickly; fast	B1-L5-Visiting-Friends
+进来	jìnlai<div>to come in</div>	B1-L5-Visiting-Friends
+来	lái<div>to come</div>	B1-L5-Visiting-Friends
+介绍	jièshào<div>to introduce</div>	B1-L5-Visiting-Friends
+一下	yíxià<div>once, a bit</div>	B1-L5-Visiting-Friends
+高兴	gāoxìng<div>happy</div>	B1-L5-Visiting-Friends
+漂亮	piàoliang<div>pretty</div>	B1-L5-Visiting-Friends
+坐	zuò<div>to sit</div>	B1-L5-Visiting-Friends
+在	zài<div>- at; in; on</div><div>- to be present or at a place</div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
+哪（儿）/&nbsp;哪	<div>nǎ(r)<br></div><div>- where</div><div><br></div><div><div>nǎ/něi<br></div><div>- which</div></div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
+学校	xuéxiào<div>school</div>	B1-L5-Visiting-Friends
+喝	hē<div>to drink</div>	B1-L5-Visiting-Friends
+点（儿）	diǎn (diǎr)<div>a bit; some</div>	B1-L5-Visiting-Friends
+茶	chá<div>tea</div>	B1-L5-Visiting-Friends
+咖啡	kāfēi<div>coffee</div>	B1-L5-Visiting-Friends
+吧	ba<div>(particle that ends a sentence)</div>	B1-L5-Visiting-Friends
+要	yào<div>- to want</div><div>- will, to be going to</div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
+瓶	píng<div>(measure word for bottles)</div>	B1-L5-Visiting-Friends
+可乐	kělè<div>cola</div>	B1-L5-Visiting-Friends
+可以	kěyǐ<div>can, may</div>	B1-L5-Visiting-Friends
+对不起	duìbuqǐ<div>sorry</div>	B1-L5-Visiting-Friends
+给	gěi<div>- to give</div><div>- to, for</div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
+杯	bēi<div>(measure word for cup/glass; e.g., of water)</div>	B1-L5-Visiting-Friends
+水	shuǐ<div>water</div>	B1-L5-Visiting-Friends
+玩（儿）	wān (wár)<div>to have fun</div>	B1-L5-Visiting-Friends
+了	le<div>- (used in many ways; e.g., to indicate past tense, exclamatory particle, change of state, among others)</div><div><br></div><div>liǎo<br></div><div>- to finish or achieve or understand</div>	B1-L5-Visiting-Friends
+图书馆	túshūguǎn<div>library</div>	B1-L5-Visiting-Friends
+一起	yìqǐ<div>together</div>	B1-L5-Visiting-Friends
+聊天（儿）	liáotiān / liáotiār<div>to chat</div>	B1-L5-Visiting-Friends
+聊	liáo<div>to chat</div>	B1-L5-Visiting-Friends
+才	cái<div>not until; only then</div>	B1-L5-Visiting-Friends
+回家	huíjiā<div>to return home</div>	B1-L5-Visiting-Friends
+回	huí<div>to return</div>	B1-L5-Visiting-Friends
+地电话	dǎdiànhuà<div>to make a phone call</div>	B1-L6-Making-Appointments
+电话	diànhuà<div>telephone</div>	B1-L6-Making-Appointments
+喂	wèi/wéi<div>(on phone) Hi</div>	B1-L6-Making-Appointments
+就	jiù<div>exactly; precisely</div>	B1-L6-Making-Appointments
+您	nín<div>- more respecful and formal 你</div>	B1-L6-Making-Appointments
+位	wèi<div>- (polite measure word for people)</div>	B1-L6-Making-Appointments
+下午	xiàwǔ<div>- afternoon</div>	B1-L6-Making-Appointments
+时间	shíjiān<div>- time</div>	B1-L6-Making-Appointments
+问题	wèntí<div>- question</div>	B1-L6-Making-Appointments
+开会	kāihuì<div>to have a meeting</div>	B1-L6-Making-Appointments
+开	kāi<div>to open or hold (e.g., meeting, party)</div>	B1-L6-Making-Appointments
+会	huì<div>meeting (noun)</div>	B1-L6-Making-Appointments
+上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
+节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
+课	kè<div>class; course; lesson</div>	B1-L6-Making-Appointments
+年级	niánjí<div>grade (i.e., which year of school)</div>	B1-L6-Making-Appointments
+考试	kǎoshì<div>to give/take a test</div>	B1-L6-Making-Appointments
+考	kǎo<div>to give/take a test</div>	B1-L6-Making-Appointments
+试	shì<div>- a test</div><div>- to try or experiment</div>	B1-L6-Making-Appointments
+以后	yǐhòu<div>after</div>	B1-L6-Making-Appointments
+空（儿）	kòng(r)<div>- free time</div>	B1-L6-Making-Appointments
+要是	yàoshi<div>if</div>	B1-L6-Making-Appointments
+方便	fāngbiàn<div>convenient</div>	B1-L6-Making-Appointments
+到	dào<div>to go to or arrive</div>	B1-L6-Making-Appointments
+办公室	bàngōngshì<div>office</div>	B1-L6-Making-Appointments
+行	xíng<div>all right, OK</div>	B1-L6-Making-Appointments
+等	děng<div>to wait</div>	B1-L6-Making-Appointments
+别	bié<div>- don't</div><div>- other</div>	B1-L6-Making-Appointments
+客气	<div>kèqi</div><div><div>- polite</div></div>	B1-L6-Making-Appointments
+下个	xiàge<div>next</div>	B1-L6-Making-Appointments
+下	xià<div>- below</div><div>- next</div>	B1-L6-Making-Appointments
+中文	Zhōngwén<div>Chinese language</div>	B1-L6-Making-Appointments
+德文	Déwén<div>German language</div>	B1-L6-Making-Appointments
+日文	Rìwén<div>Japanese language</div>	B1-L6-Making-Appointments
+韩语	Hányǔ<div>Korean langauge (esp. South Korean context)</div>	B1-L6-Making-Appointments
+印地语	Yìndìyǔ<div>Hindi language</div>	B1-L6-Making-Appointments
+马尔瓦里	Mǎ'ērwǎlǐ<div>Marwari language</div>	B1-L6-Making-Appointments
+文	wén<div>language; script; written language</div>	B1-L6-Making-Appointments
+帮	bāng<div>to help</div>	B1-L6-Making-Appointments
+准备	zhǔnbèi<div>to prepare</div>	B1-L6-Making-Appointments
+练习	liànxí<div>to practice</div>	B1-L6-Making-Appointments
+说	shuō<div>to say or speak</div>	B1-L6-Making-Appointments
+啊	a<div>(particle at end of sentence for exclaiming, questioning, etc.)</div>	B1-L6-Making-Appointments
+但是	dànshì<div>but</div>	B1-L6-Making-Appointments
+得	děi<div>must; to have to</div>	B1-L6-Making-Appointments
+跟	gēn<div>with</div>	B1-L6-Making-Appointments
+见面	jiànmiàn<div>to meet up or meet with</div>	B1-L6-Making-Appointments
+面	miàn<div>face (noun)</div>	B1-L6-Making-Appointments
+回来	huílai<div>to come back</div>	B1-L6-Making-Appointments
