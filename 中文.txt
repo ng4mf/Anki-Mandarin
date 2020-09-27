@@ -107,7 +107,7 @@
 生	shēng<div>to birth or be born</div>	B1-L3-Time-and-Date
 日	rì<div>- day</div><div>- sun</div>	B1-L3-Time-and-Date
 年	nián<div>- year</div>	B1-L3-Time-and-Date
-多	duō<div>- how many</div><div>- how much</div><div>- many</div>	B1-L3-Time-and-Date
+多	duō<div>- how many</div><div>- how much</div><div>- many</div><div>- much</div>	B1-L3-Time-and-Date B1-L7-Studying-Chinese
 大	dà<div>- big</div><div>- old</div>	B1-L3-Time-and-Date
 岁	suì<div>- years old (i.e., describing age)</div>	B1-L3-Time-and-Date
 吃	chī<div>to eat</div>	B1-L3-Time-and-Date
@@ -179,7 +179,7 @@
 问题	wèntí<div>- question</div>	B1-L6-Making-Appointments
 开会	kāihuì<div>to have a meeting</div>	B1-L6-Making-Appointments
 开	kāi<div>to open or hold (e.g., meeting, party)</div>	B1-L6-Making-Appointments
-会	huì<div>meeting (noun)</div>	B1-L6-Making-Appointments
+会	huì<div>- meeting (noun)</div><div>- can, know how to</div>	B1-L6-Making-Appointments B1-L8-School-Life
 上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
 节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
 课	kè<div>class; course; lesson</div>	B1-L6-Making-Appointments
@@ -212,8 +212,87 @@
 说	shuō<div>to say or speak</div>	B1-L6-Making-Appointments
 啊	a<div>(particle at end of sentence for exclaiming, questioning, etc.)</div>	B1-L6-Making-Appointments
 但是	dànshì<div>but</div>	B1-L6-Making-Appointments
-得	děi<div>must; to have to</div>	B1-L6-Making-Appointments
+得	děi<div>must; to have to</div><div><br></div><div>de</div><div>particle used after verb/adjective, preceding a descriptive complement</div><div>- e.g. L7 descriptive complements comment&nbsp; on the action described in the attached (preceding) verb</div><div>-- 他说普通话说得很好。</div>	B1-L6-Making-Appointments B1-L7-Studying-Chinese
 跟	gēn<div>with</div>	B1-L6-Making-Appointments
 见面	jiànmiàn<div>to meet up or meet with</div>	B1-L6-Making-Appointments
 面	miàn<div>face (noun)</div>	B1-L6-Making-Appointments
 回来	huílai<div>to come back</div>	B1-L6-Making-Appointments
+说话	shuōhuà<div>to talk</div>	B1-L7-Studying-Chinese
+话	huà<div>word, speech</div>	B1-L7-Studying-Chinese
+上个	shāngge<div>previous, last</div>	B1-L7-Studying-Chinese
+复习	fùxí<div>to review</div>	B1-L7-Studying-Chinese
+写	xiě<div>to write</div>	B1-L7-Studying-Chinese
+字	zì<div>a written character</div>	B1-L7-Studying-Chinese
+慢	màn<div>slow</div>	B1-L7-Studying-Chinese
+枝	zhī<div>measure word for thin, rigid, long things like pencils</div>	B1-L7-Studying-Chinese
+笔	bǐ<div>pen</div>	B1-L7-Studying-Chinese
+张	zhāng<div>measure word for flat things like paper, pictures</div>	B1-L7-Studying-Chinese
+纸	zhǐ<div>paper</div>	B1-L7-Studying-Chinese
+教	<div>jiāo</div>to teach	B1-L7-Studying-Chinese
+怎么	zěnme<div>how, how come</div>	B1-L7-Studying-Chinese
+懂	dǒng<div>understand</div>	B1-L7-Studying-Chinese
+真	zhēn<div>really</div>	B1-L7-Studying-Chinese
+那里	<div>nǎli</div>where	B1-L7-Studying-Chinese
+预习	yùxí<div>to preview</div>	B1-L7-Studying-Chinese
+学	xué<div>to study</div>	B1-L7-Studying-Chinese
+弟	"dì<div>- prefix used for numbering (e.g., ""first instance"" is 第一次）</div>"	B1-L7-Studying-Chinese
+语法	yǔfǎ<div>grammar</div>	B1-L7-Studying-Chinese
+容易	róngyì<div>easy</div>	B1-L7-Studying-Chinese
+生词	shēngcí<div>vocabulary</div>	B1-L7-Studying-Chinese
+汉字	Hànzì<div>Chinese characters</div>	B1-L7-Studying-Chinese
+难	nán<div>difficult</div>	B1-L7-Studying-Chinese
+平常	píngcháng<div>usually</div>	B1-L7-Studying-Chinese
+早	zǎo<div>early</div>	B1-L7-Studying-Chinese
+这么	zhème<div>so, this (late...)</div>	B1-L7-Studying-Chinese
+晚	wǎn<div>late</div>	B1-L7-Studying-Chinese
+早上	zǎoshang	B1-L7-Studying-Chinese
+功课	homework, schoolwork	B1-L7-Studying-Chinese
+大家	dàjiā<div>everybody</div>	B1-L7-Studying-Chinese
+上课	shàngkè<div>to go to, start, attend, be in class</div>	B1-L7-Studying-Chinese
+开始	kāishǐ	B1-L7-Studying-Chinese
+念	niàn<div>to real aloud</div>	B1-L7-Studying-Chinese
+课文	kèwén<div>text of lesson</div>	B1-L7-Studying-Chinese
+录音	lùyīn<div>- sound recording</div><div>- to record</div>	B1-L7-Studying-Chinese
+学习	xuéxí<div>- to study</div><div>- to learn</div>	B1-L7-Studying-Chinese
+帅	shuài<div>handsome</div>	B1-L7-Studying-Chinese
+酷	"kù<div>cool (as in ""that's looks cool"", referring to appearance or behavior)</div>"	B1-L7-Studying-Chinese
+篇	piān<div>measure word for essays，articles，papers</div>	B1-L8-School-Life
+日记	rìjì<div>diary</div>	B1-L8-School-Life
+累	lèi<div>tired</div>	B1-L8-School-Life
+起床	qǐchuáng<div>to get up</div>	B1-L8-School-Life
+床	chuáng<div>bed</div>	B1-L8-School-Life
+洗澡	<div>xǐzǎo</div>to take bath or shower	B1-L8-School-Life
+早饭	zǎofàn<div>breakfast</div>	B1-L8-School-Life
+一边	yìbiān<div>simultaneously, at the same time</div>	B1-L8-School-Life
+教室	jiàoshì<div>classroom</div>	B1-L8-School-Life
+发音	fāyīn<div>pronunciation</div>	B1-L8-School-Life
+新	xīn<div>new</div>	B1-L8-School-Life
+电脑	diànnǎo<div>computer</div>	B1-L8-School-Life
+脑	nǎo<div>brain</div>	B1-L8-School-Life
+中午	zhōngwǔ<div>noon （roughly 12-1 PM）</div>	B1-L8-School-Life
+餐厅	<div>cāntīng</div>dining room, cafeteria	B1-L8-School-Life
+午饭	wǔfàn<div>lunch</div>	B1-L8-School-Life
+上网	shàngwǎng<div>to surf Internet，to go online</div>	B1-L8-School-Life
+宿舍	sùshè<div>dormitory</div>	B1-L8-School-Life
+那儿	nǎr<div>there</div>	B1-L8-School-Life
+正在	zhèngzài<div>in the middle (of doing something)</div>	B1-L8-School-Life
+以前	yǐqián<div>before</div>	B1-L8-School-Life
+告诉	gàosu<div>to tell</div>	B1-L8-School-Life
+已经	yǐjīng<div>already</div>	B1-L8-School-Life
+知道	zhīdao<div>to know</div>	B1-L8-School-Life
+封	fēng<div>- measure word for letters</div>	B1-L8-School-Life
+信	xìn<div>- letter (as a correspondence, writing a letter to someone type of letter)</div>	B1-L8-School-Life
+最近	zuìjìn<div>recently</div>	B1-L8-School-Life
+最	zuì<div>- indicates highest degree (e.g., most, greatest, worst, etc.)</div>	B1-L8-School-Life
+近	jìn<div>close, near</div>	B1-L8-School-Life
+学期	xuéqī<div>school term, semester, quarter</div>	B1-L8-School-Life
+除了	chúle<div>in addition to, besides</div>	B1-L8-School-Life
+以外	yǐwài<div>- other than, apart from, except for, beyond</div><div>-- used with 除了as 除了。。。以外</div>	B1-L8-School-Life
+专业	zhuānyè<div>- major (in college)</div><div>- specialty</div><div>- professional</div>	B1-L8-School-Life
+后来	hòulái<div>later</div>	B1-L8-School-Life
+音乐会	yīnyuèhuì<div>concert</div>	B1-L8-School-Life
+希望	xīwàng<div>to hope; hope</div>	B1-L8-School-Life
+能	néng<div>can, to be able to</div>	B1-L8-School-Life
+用	yòng<div>to use</div>	B1-L8-School-Life
+笑	xiào<div>to laugh, to smile</div>	B1-L8-School-Life
+祝	zhù<div>to wish (well)</div>	B1-L8-School-Life
