@@ -1,9 +1,9 @@
 # Anki-Mandarin
 This deck is for 普通话， i.e., Mandarin. They are cards with characters on one side and pinyin+meaning (in English) on the other side. There are two versions of each card, one version only shows the character and you need to recall the pinyin + meaning, and in the other you need to remember how to write the character.
 
-This assumes you've installed ![Anki](https://apps.ankiweb.net/).
+This assumes you've installed [Anki](https://apps.ankiweb.net/).
 
-Cards Based on ![Integrated Chinese, 4th Edition](https://www.cheng-tsui.com/browse/integrated-chinese-4th-edition)
+Cards Based on [Integrated Chinese, 4th Edition](https://www.cheng-tsui.com/browse/integrated-chinese-4th-edition)
 
 Unsure if plain text version will create two versions of the cards.
 The apkg version should, at least, include two versions: one with front side being character and reverse being pinyin + meaning, and the reverse giving you pinyin and meaning, and you have to practice writing the character.
