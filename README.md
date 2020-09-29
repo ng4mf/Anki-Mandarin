@@ -10,7 +10,7 @@ This repository will be updated over time to include more of the vocabulary from
 
 ## Merging future updates
 ### Option 1
-When you first install the deck, rename it to something else. Then, when you wish to install an update, import the updated deck with it's original name. Go to Decks-><Deck_Name>->Browse. Here, you can see all the cards. Select all the cards you want to import to your renamed deck. Right click and then select "Move deck".
+When you first install the deck, rename it to something else. Then, when you wish to install an update, import the updated deck with it's original name. Go to Decks-><Deck_Name>->Browse. Here, you can see all the cards. Select all the new cards you want to import to your renamed deck. Right click and then select "Move deck".
 
 ### Option 2
 You could import the updated deck as a new (renamed) deck. Then follow steps in https://android.stackexchange.com/questions/87167/how-do-you-merge-decks-in-anki before deleting the newer deck.
