@@ -100,7 +100,7 @@
 别人	biérén<div>other people, another person</div>	B1-L4-Hobbies
 别（的）	bié(de)<div>other (adverb)</div>	B1-L4-Hobbies
 月	yuè<div>month</div>	B1-L3-Time-and-Date
-号	<div>hào</div>measure word - days of month, position in numerical list, etc.	B1-L3-Time-and-Date
+号	<div>hào</div>- measure word - days of month, position in numerical list, etc.<div>- size (e.g., for clothes)</div>	B1-L3-Time-and-Date B1-L9-Shopping
 星期	xīngqī<div>week</div>	B1-L3-Time-and-Date
 天	tiān<div>- day</div><div>- sky</div><div>- heaven</div>	B1-L3-Time-and-Date
 生日	shēngrì<div>birthday</div>	B1-L3-Time-and-Date
@@ -125,7 +125,7 @@
 晚上	wǎnshang<div>- evening or night</div>	B1-L3-Time-and-Date
 见	jiàn<div>to see</div>	B1-L3-Time-and-Date
 再见	zàijiàn<div>- bye, until we see each other again</div>	B1-L3-Time-and-Date
-再	zài<div>again</div>	B1-L3-Time-and-Date
+再	zài<div>again</div>	B1-L3-Time-and-Date B1-L9-Shopping
 英国	Yīngguó<div>United Kingdom</div>	B1-L3-Time-and-Date
 印度	Yìndù<div>India</div>	B1-L3-Time-and-Date
 德国	Déguó<div>Germany</div>	B1-L3-Time-and-Date
@@ -142,7 +142,7 @@
 一下	yíxià<div>once, a bit</div>	B1-L5-Visiting-Friends
 高兴	gāoxìng<div>happy</div>	B1-L5-Visiting-Friends
 漂亮	piàoliang<div>pretty</div>	B1-L5-Visiting-Friends
-坐	zuò<div>to sit</div>	B1-L5-Visiting-Friends
+坐	zuò<div>- to sit</div><div>- to travel by</div>	B1-L10-Transportation B1-L5-Visiting-Friends
 在	zài<div>- at; in; on</div><div>- to be present or at a place</div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
 哪（儿）/&nbsp;哪	<div>nǎ(r)<br></div><div>- where</div><div><br></div><div><div>nǎ/něi<br></div><div>- which</div></div>	B1-L5-Visiting-Friends B1-L6-Making-Appointments
 学校	xuéxiào<div>school</div>	B1-L5-Visiting-Friends
@@ -178,7 +178,7 @@
 时间	shíjiān<div>- time</div>	B1-L6-Making-Appointments
 问题	wèntí<div>- question</div>	B1-L6-Making-Appointments
 开会	kāihuì<div>to have a meeting</div>	B1-L6-Making-Appointments
-开	kāi<div>to open or hold (e.g., meeting, party)</div>	B1-L6-Making-Appointments
+开	kāi<div>- to open or hold (e.g., meeting, party)</div><div>- to drive, to operate</div>	B1-L10-Transportation B1-L6-Making-Appointments
 会	huì<div>- meeting (noun)</div><div>- can, know how to</div>	B1-L6-Making-Appointments B1-L8-School-Life
 上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
 节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
@@ -186,7 +186,7 @@
 年级	niánjí<div>grade (i.e., which year of school)</div>	B1-L6-Making-Appointments
 考试	kǎoshì<div>to give/take a test</div>	B1-L6-Making-Appointments
 考	kǎo<div>to give/take a test</div>	B1-L6-Making-Appointments
-试	shì<div>- a test</div><div>- to try or experiment</div>	B1-L6-Making-Appointments
+试	shì<div>- a test</div><div>- to try or experiment</div>	B1-L6-Making-Appointments B1-L9-Shopping
 以后	yǐhòu<div>after</div>	B1-L6-Making-Appointments
 空（儿）	kòng(r)<div>- free time</div>	B1-L6-Making-Appointments
 要是	yàoshi<div>if</div>	B1-L6-Making-Appointments
@@ -212,7 +212,7 @@
 说	shuō<div>to say or speak</div>	B1-L6-Making-Appointments
 啊	a<div>(particle at end of sentence for exclaiming, questioning, etc.)</div>	B1-L6-Making-Appointments
 但是	dànshì<div>but</div>	B1-L6-Making-Appointments
-得	děi<div>must; to have to</div><div><br></div><div>de</div><div>particle used after verb/adjective, preceding a descriptive complement</div><div>- e.g. L7 descriptive complements comment&nbsp; on the action described in the attached (preceding) verb</div><div>-- 他说普通话说得很好。</div>	B1-L6-Making-Appointments B1-L7-Studying-Chinese
+得	děi<div>must; to have to</div><div><br></div><div>de</div><div>particle used after verb/adjective, preceding a descriptive complement</div><div>- e.g. L7 descriptive complements comment&nbsp; on the action described in the attached (preceding) verb</div><div>-- 他说普通话说de很好。</div>	B1-L6-Making-Appointments B1-L7-Studying-Chinese
 跟	gēn<div>with</div>	B1-L6-Making-Appointments
 见面	jiànmiàn<div>to meet up or meet with</div>	B1-L6-Making-Appointments
 面	miàn<div>face (noun)</div>	B1-L6-Making-Appointments
@@ -232,10 +232,10 @@
 怎么	zěnme<div>how, how come</div>	B1-L7-Studying-Chinese
 懂	dǒng<div>understand</div>	B1-L7-Studying-Chinese
 真	zhēn<div>really</div>	B1-L7-Studying-Chinese
-那里	<div>nǎli</div>where	B1-L7-Studying-Chinese
+哪里	<div>nǎli</div>where	B1-L7-Studying-Chinese
 预习	yùxí<div>to preview</div>	B1-L7-Studying-Chinese
 学	xué<div>to study</div>	B1-L7-Studying-Chinese
-弟	"dì<div>- prefix used for numbering (e.g., ""first instance"" is 第一次）</div>"	B1-L7-Studying-Chinese
+第	"dì<div>- prefix used for numbering (e.g., ""first instance"" is dì一次）</div>"	B1-L7-Studying-Chinese
 语法	yǔfǎ<div>grammar</div>	B1-L7-Studying-Chinese
 容易	róngyì<div>easy</div>	B1-L7-Studying-Chinese
 生词	shēngcí<div>vocabulary</div>	B1-L7-Studying-Chinese
@@ -245,11 +245,11 @@
 早	zǎo<div>early</div>	B1-L7-Studying-Chinese
 这么	zhème<div>so, this (late...)</div>	B1-L7-Studying-Chinese
 晚	wǎn<div>late</div>	B1-L7-Studying-Chinese
-早上	zǎoshang	B1-L7-Studying-Chinese
-功课	homework, schoolwork	B1-L7-Studying-Chinese
+早上	zǎoshang<div>early morning</div>	B1-L7-Studying-Chinese
+功课	<div>gōngkè</div>homework, schoolwork	B1-L7-Studying-Chinese
 大家	dàjiā<div>everybody</div>	B1-L7-Studying-Chinese
 上课	shàngkè<div>to go to, start, attend, be in class</div>	B1-L7-Studying-Chinese
-开始	kāishǐ	B1-L7-Studying-Chinese
+开始	kāishǐ<div>to start</div>	B1-L7-Studying-Chinese
 念	niàn<div>to real aloud</div>	B1-L7-Studying-Chinese
 课文	kèwén<div>text of lesson</div>	B1-L7-Studying-Chinese
 录音	lùyīn<div>- sound recording</div><div>- to record</div>	B1-L7-Studying-Chinese
@@ -296,3 +296,99 @@
 用	yòng<div>to use</div>	B1-L8-School-Life
 笑	xiào<div>to laugh, to smile</div>	B1-L8-School-Life
 祝	zhù<div>to wish (well)</div>	B1-L8-School-Life
+商店	shāngdiàn<div>store, shop</div>	B1-L9-Shopping
+买	mǎi<div>to buy</div>	B1-L9-Shopping
+东西	dōngxi<div>things, objects</div>	B1-L9-Shopping
+售货员	shòuhuòyuán<div>shop assistant, salesclerk</div>	B1-L9-Shopping
+衣服	yīfu<div>clothes</div>	B1-L9-Shopping
+件	jiàn<div>- measure word for clothes</div>	B1-L9-Shopping
+衬衫	chènshān<div>shirt</div>	B1-L9-Shopping
+颜色	yánsè<div>color</div>	B1-L9-Shopping
+黄	huáng<div>yellow</div>	B1-L9-Shopping
+红	hóng<div>red</div>	B1-L9-Shopping
+穿	chuān<div>to wear, to put on</div>	B1-L9-Shopping
+裤子	kùzi<div>pants</div>	B1-L9-Shopping
+中	zhōng<div>medium, middle</div>	B1-L9-Shopping
+便宜	piányi<div>cheap, inexpensive</div>	B1-L9-Shopping
+如果	rúguǒ<div>if</div>	B1-L9-Shopping
+长短	chángduǎn<div>length</div>	B1-L9-Shopping
+长	cháng<div>long</div>	B1-L9-Shopping
+短	duǎn<div>short</div>	B1-L9-Shopping
+合适	héshì<div>suitable</div>	B1-L9-Shopping
+不用	búyòng<div>need not</div>	B1-L9-Shopping
+一共	yígòng<div>altogether</div>	B1-L9-Shopping
+多少	duōshao<div>how much/how many</div>	B1-L9-Shopping
+钱	qián<div>money</div>	B1-L9-Shopping
+块	kuài<div>- measure word for basic Chinese money unit</div>	B1-L9-Shopping
+毛	máo<div>- measure word for 1/10th of a 块 （equivalent of a dime)</div>	B1-L9-Shopping
+分	fēn<div>- measure word for 1/100 of a 块 （equal to a cent)</div>	B1-L9-Shopping
+百	bǎi<div>hundred</div>	B1-L9-Shopping
+找（钱）	zhǎo(qián)<div>to giüe change</div>	B1-L9-Shopping
+双	shuāng<div>- measure word for a pair</div>	B1-L9-Shopping
+鞋	xié<div>shoes</div>	B1-L9-Shopping
+换	huàn<div>to exchange, to change</div>	B1-L9-Shopping
+一样	yíyàng<div>same, alike</div>	B1-L9-Shopping
+虽然	suīrán<div>although</div>	B1-L9-Shopping
+大小	dàsiǎo<div>size</div>	B1-L9-Shopping
+咖啡色	kāfēisè<div>coffee color</div>	B1-L9-Shopping
+种	zhǒng<div>- measure word for kinds, sorts, types</div>	B1-L9-Shopping
+黑	hēi<div>black</div>	B1-L9-Shopping
+样子	yàngzi<div>style</div>	B1-L9-Shopping
+挺	tǐng<div>very, rather</div>	B1-L9-Shopping
+它	tā<div>it</div>	B1-L9-Shopping
+这儿	zhèr<div>here</div>	B1-L9-Shopping
+刷卡	shuākǎ<div>to pay with credit card</div>	B1-L9-Shopping
+刷	shuā<div>to brush, to swipe</div>	B1-L9-Shopping
+卡	kǎ<div>card (e.g., credit card)</div>	B1-L9-Shopping
+收	shōu<div>to receive, to accept</div>	B1-L9-Shopping
+信用卡	xìnyòngkǎ<div>credit card</div>	B1-L9-Shopping
+不过	búguò<div>however, but</div>	B1-L9-Shopping
+付钱	fùqián<div>to pay money</div>	B1-L9-Shopping
+付	fù<div>to pay</div>	B1-L9-Shopping
+寒假	hánjià<div>winter vacation</div>	B1-L10-Transportation
+飞机	fēijī<div>airplane</div>	B1-L10-Transportation
+飞	fēi<div>to fly</div>	B1-L10-Transportation
+机	jī<div>machine</div>	B1-L10-Transportation
+票	piào<div>ticket</div>	B1-L10-Transportation
+（飞）机场	(fēi)jīchǎng<div>airport</div>	B1-L10-Transportation
+公共汽车	gōnggòngqìchē<div>bus</div>	B1-L10-Transportation
+公共	gōnggòng<div>public</div>	B1-L10-Transportation
+汽车	qìchē<div>automobile</div>	B1-L10-Transportation
+车	chē<div>vehicle, car</div>	B1-L10-Transportation
+或者	huòzhě<div>or</div>	B1-L10-Transportation
+地铁	dìtiě<div>subway (train system)</div>	B1-L10-Transportation
+走	zǒu<div>- to walk to go by way or walking</div>	B1-L10-Transportation
+先	xiān<div>first</div>	B1-L10-Transportation
+路	lù<div>road, route</div>	B1-L10-Transportation
+站	zhàn<div>- measure word for bus stops, train stops, etc.</div>	B1-L10-Transportation
+下车	xiàchē<div>to get off (bus, train, etc.)</div>	B1-L10-Transportation
+然后	ránhòu<div>then</div>	B1-L10-Transportation
+绿	lǜ<div>green</div>	B1-L10-Transportation
+线	xiàn<div>line (e.g., of people)</div>	B1-L10-Transportation
+最后	zuìhòu<div>final, last</div>	B1-L10-Transportation
+蓝	lán<div>blue</div>	B1-L10-Transportation
+麻烦	máfan<div>troublesome</div>	B1-L10-Transportation
+打车	dǎchē<div>to take taxi</div>	B1-L10-Transportation
+出租汽车	zhūzūqìchē<div>taxi</div>	B1-L10-Transportation
+出租	zhūzū<div>to rent out, to let</div>	B1-L10-Transportation
+租	zū<div>to rent</div>	B1-L10-Transportation
+开车	kāichē<div>to drive a car</div>	B1-L10-Transportation
+送	sòng<div>to see off or out, to take (someone somewhere)</div>	B1-L10-Transportation
+电子邮件	diànzǐyóujiàn<div>email</div>	B1-L10-Transportation
+电子	diànzǐ<div>electron</div>	B1-L10-Transportation
+让	ráng<div>to allow or cause (somebody to do something)</div>	B1-L10-Transportation
+花	huā<div>to spend</div>	B1-L10-Transportation
+不好意思	bùhǎoyìsi<div>to feel embarrassed</div>	B1-L10-Transportation
+出去	chūqu<div>to go out</div>	B1-L10-Transportation
+每	měi<div>every, each</div>	B1-L10-Transportation
+城市	chéngshì<div>city</div>	B1-L10-Transportation
+特别	tèbié<div>especially</div>	B1-L10-Transportation
+高速公路	gāosùgōnglù<div>highway</div>	B1-L10-Transportation
+高速	gāosù<div>high speed</div>	B1-L10-Transportation
+公路	gōnglù<div>highway, public road</div>	B1-L10-Transportation
+紧张	jǐnzhāng<div>nervous, anxious</div>	B1-L10-Transportation
+自己	zìjǐ<div>oneself, by yourself</div>	B1-L10-Transportation
+手机	shǒujī<div>cell phone</div>	B1-L10-Transportation
+发短信	fāduǎnxìn<div>to send a SMS, to send a short message</div>	B1-L10-Transportation
+新年	xīnnián<div>new year</div>	B1-L10-Transportation
+快乐	kuàilè<div>happy</div>	B1-L10-Transportation
