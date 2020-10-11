@@ -179,7 +179,7 @@
 问题	wèntí<div>- question</div>	B1-L6-Making-Appointments
 开会	kāihuì<div>to have a meeting</div>	B1-L6-Making-Appointments
 开	kāi<div>- to open or hold (e.g., meeting, party)</div><div>- to drive, to operate</div>	B1-L10-Transportation B1-L6-Making-Appointments
-会	huì<div>- meeting (noun)</div><div>- can, know how to</div>	B1-L6-Making-Appointments B1-L8-School-Life
+会	huì<div>- meeting (noun)</div><div>- can, know how to</div><div>- will</div>	B1-L6-Making-Appointments B1-L8-School-Life B2-L11-Weather C
 上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
 节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
 课	kè<div>class; course; lesson</div>	B1-L6-Making-Appointments
@@ -238,7 +238,7 @@
 第	"dì<div>- prefix used for numbering (e.g., ""first instance"" is dì一次）</div>"	B1-L7-Studying-Chinese
 语法	yǔfǎ<div>grammar</div>	B1-L7-Studying-Chinese
 容易	róngyì<div>easy</div>	B1-L7-Studying-Chinese
-生词	shēngcí<div>vocabulary</div>	B1-L7-Studying-Chinese
+生词	shēngcí<div>vocabulary (specifically in textbook, a word not yet studied)</div>	B1-L7-Studying-Chinese
 汉字	Hànzì<div>Chinese characters</div>	B1-L7-Studying-Chinese
 难	nán<div>difficult</div>	B1-L7-Studying-Chinese
 平常	píngcháng<div>usually</div>	B1-L7-Studying-Chinese
@@ -287,7 +287,7 @@
 近	jìn<div>close, near</div>	B1-L8-School-Life
 学期	xuéqī<div>school term, semester, quarter</div>	B1-L8-School-Life
 除了	chúle<div>in addition to, besides</div>	B1-L8-School-Life
-以外	yǐwài<div>- other than, apart from, except for, beyond</div><div>-- used with 除了as 除了。。。以外</div>	B1-L8-School-Life
+以外	yǐwài<div>- other than, apart from, except for, beyond</div><div>-- used with 除了as 除了。。。yǐwài</div>	B1-L8-School-Life
 专业	zhuānyè<div>- major (in college)</div><div>- specialty</div><div>- professional</div>	B1-L8-School-Life
 后来	hòulái<div>later</div>	B1-L8-School-Life
 音乐会	yīnyuèhuì<div>concert</div>	B1-L8-School-Life
@@ -301,8 +301,8 @@
 东西	dōngxi<div>things, objects</div>	B1-L9-Shopping
 售货员	shòuhuòyuán<div>shop assistant, salesclerk</div>	B1-L9-Shopping
 衣服	yīfu<div>clothes</div>	B1-L9-Shopping
-件	jiàn<div>- measure word for clothes</div>	B1-L9-Shopping
-衬衫	chènshān<div>shirt</div>	B1-L9-Shopping
+件	jiàn<div>- measure word for clothes for upper body</div>	B1-L9-Shopping
+衬衫	chènshān<div>button-down shirt</div>	B1-L9-Shopping
 颜色	yánsè<div>color</div>	B1-L9-Shopping
 黄	huáng<div>yellow</div>	B1-L9-Shopping
 红	hóng<div>red</div>	B1-L9-Shopping
@@ -323,13 +323,13 @@
 毛	máo<div>- measure word for 1/10th of a 块 （equivalent of a dime)</div>	B1-L9-Shopping
 分	fēn<div>- measure word for 1/100 of a 块 （equal to a cent)</div>	B1-L9-Shopping
 百	bǎi<div>hundred</div>	B1-L9-Shopping
-找（钱）	zhǎo(qián)<div>to giüe change</div>	B1-L9-Shopping
+找（钱）	zhǎo(qián)<div>to give change</div>	B1-L9-Shopping
 双	shuāng<div>- measure word for a pair</div>	B1-L9-Shopping
 鞋	xié<div>shoes</div>	B1-L9-Shopping
 换	huàn<div>to exchange, to change</div>	B1-L9-Shopping
 一样	yíyàng<div>same, alike</div>	B1-L9-Shopping
 虽然	suīrán<div>although</div>	B1-L9-Shopping
-大小	dàsiǎo<div>size</div>	B1-L9-Shopping
+大小	dàxiǎo<div>size</div>	B1-L9-Shopping
 咖啡色	kāfēisè<div>coffee color</div>	B1-L9-Shopping
 种	zhǒng<div>- measure word for kinds, sorts, types</div>	B1-L9-Shopping
 黑	hēi<div>black</div>	B1-L9-Shopping
@@ -369,8 +369,8 @@
 蓝	lán<div>blue</div>	B1-L10-Transportation
 麻烦	máfan<div>troublesome</div>	B1-L10-Transportation
 打车	dǎchē<div>to take taxi</div>	B1-L10-Transportation
-出租汽车	zhūzūqìchē<div>taxi</div>	B1-L10-Transportation
-出租	zhūzū<div>to rent out, to let</div>	B1-L10-Transportation
+出租汽车	chūzūqìchē<div>taxi</div>	B1-L10-Transportation
+出租	chūzū<div>to rent out, to let</div>	B1-L10-Transportation
 租	zū<div>to rent</div>	B1-L10-Transportation
 开车	kāichē<div>to drive a car</div>	B1-L10-Transportation
 送	sòng<div>to see off or out, to take (someone somewhere)</div>	B1-L10-Transportation
