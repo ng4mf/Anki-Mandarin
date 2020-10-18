@@ -168,7 +168,7 @@
 才	cái<div>not until; only then</div>	B1-L5-Visiting-Friends
 回家	huíjiā<div>to return home</div>	B1-L5-Visiting-Friends
 回	huí<div>to return</div>	B1-L5-Visiting-Friends
-地电话	dǎdiànhuà<div>to make a phone call</div>	B1-L6-Making-Appointments
+打电话	dǎdiànhuà<div>to make a phone call</div>	B1-L6-Making-Appointments
 电话	diànhuà<div>telephone</div>	B1-L6-Making-Appointments
 喂	wèi/wéi<div>(on phone) Hi</div>	B1-L6-Making-Appointments
 就	jiù<div>exactly; precisely</div>	B1-L6-Making-Appointments
@@ -179,7 +179,7 @@
 问题	wèntí<div>- question</div>	B1-L6-Making-Appointments
 开会	kāihuì<div>to have a meeting</div>	B1-L6-Making-Appointments
 开	kāi<div>- to open or hold (e.g., meeting, party)</div><div>- to drive, to operate</div>	B1-L10-Transportation B1-L6-Making-Appointments
-会	huì<div>- meeting (noun)</div><div>- can, know how to</div><div>- will</div>	B1-L6-Making-Appointments B1-L8-School-Life B2-L11-Weather C
+会	huì<div>- meeting (noun)</div><div>- can, know how to</div><div>- will</div>	B1-L6-Making-Appointments B1-L8-School-Life B2-L11-Weather
 上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
 节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
 课	kè<div>class; course; lesson</div>	B1-L6-Making-Appointments
@@ -392,3 +392,86 @@
 发短信	fāduǎnxìn<div>to send a SMS, to send a short message</div>	B1-L10-Transportation
 新年	xīnnián<div>new year</div>	B1-L10-Transportation
 快乐	kuàilè<div>happy</div>	B1-L10-Transportation
+天气	tiānqì<div>weather</div>	B2-L11-Weather
+比	bǐ<div>- comparison marking word, used between two compared things</div>	B2-L11-Weather
+下雪	xiàxuě<div>to snow</div>	B2-L11-Weather
+约	yuē<div>to make an appointment</div>	B2-L11-Weather
+公园	gōngyuán<div>park (as in a skate park or Central Park)</div>	B2-L11-Weather
+滑冰	huábīng<div>to ice scate</div>	B2-L11-Weather
+冷	lěng<div>cold (adjective)</div>	B2-L11-Weather
+刚才	gāngcái<div>just now, a moment ago</div>	B2-L11-Weather
+网上	wǎngshang&nbsp;<div>on the Internet</div>	B2-L11-Weather
+预报	yùbào<div>- to forecast (verb)</div><div>- forecast (noun)</div>	B2-L11-Weather
+更	gèng<div>even more</div>	B2-L11-Weather
+不但。。。而且。。。	búdàn...érqiě...<div>not only...but also...</div>	B2-L11-Weather
+暖和	nuǎnhuo<div>warm</div>	B2-L11-Weather
+办	bàn<div>to handle, to do</div>	B2-L11-Weather
+那么	nàme<div>- (indicating degree) so, such [e.g., nàme 多]</div>	B2-L11-Weather
+好玩（儿）	hǎowán(r)<div>fun, amusing, interesting</div>	B2-L11-Weather
+非常	fēicháng<div>very，extremely，exceedingly</div>	B2-L11-Weather
+糟糕	zāogāo<div>in a terrible mess, how terrible</div>	B2-L11-Weather
+下雨	xiàyǔ<div>to rain</div>	B2-L11-Weather
+又	yòu<div>again (indicating recurrence of some action, e.g., 昨天我打球，今天我又去打球)</div>	B2-L11-Weather
+面试	miànshì<div>to interview; an interview</div>	B2-L11-Weather
+回去	huíqu<div>to go back, to return</div>	B2-L11-Weather
+冬天	dōngtiān<div>winter</div>	B2-L11-Weather
+夏天	xiàtiān<div>summer</div>	B2-L11-Weather
+热	rè<div>hot (e.g., hot weather)</div>	B2-L11-Weather
+春天	chūntiān<div>spring (the season)</div>	B2-L11-Weather
+秋天	qiūtiān<div>fall, autumn (the season)</div>	B2-L11-Weather
+舒服	shūfu<div>comfortable</div>	B2-L11-Weather
+加州	Jiāzhōu<div>California</div>	B2-L11-Weather
+饭馆	fànguǎn<div>restaurant</div>	B2-L12-Dining
+好像	hǎoxiàng<div>to seem, to be like</div>	B2-L12-Dining
+位子	wèizi<div>seat</div>	B2-L12-Dining
+服务员	fúwùyuán<div>waiter, attendant</div>	B2-L12-Dining
+服务	fúwù<div>to serüe, to provide service</div>	B2-L12-Dining
+桌子	zhuōzi<div>table</div>	B2-L12-Dining
+点菜	diǎncài<div>to order food</div>	B2-L12-Dining
+盘	pán<div>plate, dish</div>	B2-L12-Dining
+饺子	jiǎozi<div>dumplings (with vegetable or meat filling)</div>	B2-L12-Dining
+素	"sù<div>vegetarian (literally translation is ""plain"")</div>"	B2-L12-Dining
+家常	jiācháng<div>home-style</div>	B2-L12-Dining
+豆腐	dòufu<div>tofu, bean curd</div>	B2-L12-Dining
+放	fàng<div>to put, to place</div>	B2-L12-Dining
+肉	ròu<div>meat</div>	B2-L12-Dining
+碗	wǎn<div>bowl</div>	B2-L12-Dining
+酸辣汤	suānlàtāng<div>hot-and-sour soup</div>	B2-L12-Dining
+酸	suān<div>sour</div>	B2-L12-Dining
+辣	là<div>spicy</div>	B2-L12-Dining
+汤	tāng<div>soup</div>	B2-L12-Dining
+味精	wèijīng<div>monosodium glutamate (MSG)</div>	B2-L12-Dining
+盐	yán<div>salt</div>	B2-L12-Dining
+小白菜	xiǎobáicài<div>baby bok choy</div>	B2-L12-Dining
+刚	gāng<div>just</div>	B2-L12-Dining
+卖完	màiwán<div>to be sold out</div>	B2-L12-Dining
+完	wán<div>finished (e.g., 卖wán)</div>	B2-L12-Dining
+青菜	qīngcài<div>green, leafy vegetable</div>	B2-L12-Dining
+冰茶	bīngchá<div>iced tea</div>	B2-L12-Dining
+冰	bīng<div>ice</div>	B2-L12-Dining
+渴	kě<div>thirsty</div>	B2-L12-Dining
+些	xiē<div>- some, measure word for indefinite amount</div>	B2-L12-Dining
+够	gòu<div>enough</div>	B2-L12-Dining
+哦	è<div>hungry</div>	B2-L12-Dining
+上菜	shàngcài<div>to serve food</div>	B2-L12-Dining
+师傅	shīfu<div>master worker</div>	B2-L12-Dining
+好吃	hǎochī<div>delicious</div>	B2-L12-Dining
+糖醋鱼	tángcùyú<div>sweet-and-sour fish</div>	B2-L12-Dining
+糖	<div>táng</div>sugar	B2-L12-Dining
+醋	cù<div>vinegar</div>	B2-L12-Dining
+甜	tián<div>sweet</div>	B2-L12-Dining
+级	jí<div>extremely</div>	B2-L12-Dining
+红烧	hóngshāo<div>to braise in soy sauce</div>	B2-L12-Dining
+牛肉	niúròu<div>beef</div>	B2-L12-Dining
+牛	niú<div>cow, ox</div>	B2-L12-Dining
+鱼	yú<div>fish</div>	B2-L12-Dining
+凉拌	"liángbàn<div>(of food) cold ""blended"", cold tossed</div>"	B2-L12-Dining
+黄瓜	huánggua<div>cucumber</div>	B2-L12-Dining
+米饭	mǐfàn<div>cooked rice</div>	B2-L12-Dining
+忘	wàng<div>to forget</div>	B2-L12-Dining
+带	dài<div>to bring, to take, to carry, to come with</div>	B2-L12-Dining
+饭卡	fànkǎ<div>meal card</div>	B2-L12-Dining
+清楚	qīngchu<div>clear</div>	B2-L12-Dining
+没关系	méiguānxi<div>it doesn't matter</div>	B2-L12-Dining
+上海	Shànghǎi<div>Shanghai</div>	B2-L12-Dining
+关系	guānxi<div>relation, relationship, to concern, to affect, to have to do with</div>	B2-L12-Dining
