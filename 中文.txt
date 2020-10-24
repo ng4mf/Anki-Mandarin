@@ -284,7 +284,7 @@
 信	xìn<div>- letter (as a correspondence, writing a letter to someone type of letter)</div>	B1-L8-School-Life
 最近	zuìjìn<div>recently</div>	B1-L8-School-Life
 最	zuì<div>- indicates highest degree (e.g., most, greatest, worst, etc.)</div>	B1-L8-School-Life
-近	jìn<div>close, near</div>	B1-L8-School-Life
+近	jìn<div>close, near</div>	B1-L8-School-Life B2-L13-Asking-Directions
 学期	xuéqī<div>school term, semester, quarter</div>	B1-L8-School-Life
 除了	chúle<div>in addition to, besides</div>	B1-L8-School-Life
 以外	yǐwài<div>- other than, apart from, except for, beyond</div><div>-- used with 除了as 除了。。。yǐwài</div>	B1-L8-School-Life
@@ -452,7 +452,7 @@
 渴	kě<div>thirsty</div>	B2-L12-Dining
 些	xiē<div>- some, measure word for indefinite amount</div>	B2-L12-Dining
 够	gòu<div>enough</div>	B2-L12-Dining
-哦	è<div>hungry</div>	B2-L12-Dining
+哦	<div>é</div><div>to chant</div>	B2-L12-Dining
 上菜	shàngcài<div>to serve food</div>	B2-L12-Dining
 师傅	shīfu<div>master worker</div>	B2-L12-Dining
 好吃	hǎochī<div>delicious</div>	B2-L12-Dining
@@ -475,3 +475,68 @@
 没关系	méiguānxi<div>it doesn't matter</div>	B2-L12-Dining
 上海	Shànghǎi<div>Shanghai</div>	B2-L12-Dining
 关系	guānxi<div>relation, relationship, to concern, to affect, to have to do with</div>	B2-L12-Dining
+份	fèn<div>one order of (e.g., food. 来一fèn饺子, 两份samosa）</div>	B2-L12-Dining
+咸	xián<div>salty</div>	B2-L12-Dining
+筷子	kuàizi<div>chopsticks</div>	B2-L12-Dining
+叉子	chāzi<div>fork</div>	B2-L12-Dining
+杯子	bēizi<div>cup</div>	B2-L12-Dining
+勺子	shāozi<div>spoon</div>	B2-L12-Dining
+刀子	dāozi<div>knife</div>	B2-L12-Dining
+书桌	shūzhuō<div>desk</div>	B2-L12-Dining
+饭桌	fànzhuō<div>dining table</div>	B2-L12-Dining
+菜刀	càidāo<div>kitchen knife</div>	B2-L12-Dining
+茶馆	cháguǎn<div>tea house</div>	B2-L12-Dining
+酸雨	suānyǔ<div>acid rain</div>	B2-L12-Dining
+凉鞋	liángxié<div>sandals</div>	B2-L12-Dining
+水牛	shuǐniú<div>buffalo</div>	B2-L12-Dining
+饿	è<div>hungry</div>	B2-L12-Dining
+辣椒	làjiāo<div>chili pepper</div>	B2-L12-Dining
+层	céng<div>layer (e.g., layer of food, layer of stadium, floor of building)</div>	B2-L12-Dining
+土豆	tǔdòu<div>potato</div>	B2-L12-Dining
+街(道)	jiē(dào)<div>street</div>	B2-L12-Dining
+报告	bàogào<div>report, speech, talk (e.g., presentation)</div>	
+声调	shēngdiào<div>tone (e.g., tone of words in&nbsp; tonal language)</div>	
+误	wù<div>mistake, error, to miss, to harm, to delay, mistakenly</div>	
+流利	liúlì<div>fluent (e.g., speaking fluently)</div>	
+设定	shèdìng<div>to set, to set up, to install, setting, preferences</div>	
+被	bèi<div>quilt, by, to coüer, (indicate passiüe-üoice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	
+了解	liǎojiě<div>to understand, to realize, to find out</div>	
+内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	
+其中	qízhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qízhōng 报告<br></div>	
+上	shàng<div>- to go (colloq.)</div>	B2-L13-Asking-Directions
+中心	zhōngxīn<div>center</div>	B2-L13-Asking-Directions
+听说	tīngshuō<div>to be told, to hear of</div>	B2-L13-Asking-Directions
+运动	yùndòng<div>sports</div>	B2-L13-Asking-Directions
+场	chǎng<div>field (e.g., sports field)</div>	B2-L13-Asking-Directions
+旁边	pángbiān<div>side (this side, that side, etc.)</div>	B2-L13-Asking-Directions
+远	yuǎn<div>far</div>	B2-L13-Asking-Directions
+离	lí<div>away from</div>	B2-L13-Asking-Directions
+活动	huódòng<div>actiüity</div>	B2-L13-Asking-Directions
+中间	zhōngjiān<div>middle</div>	B2-L13-Asking-Directions
+书店	shūdiàn<div>bookstore</div>	B2-L13-Asking-Directions
+地方	dìfang<div>place</div>	B2-L13-Asking-Directions
+里边	lǐbian<div>inside</div>	B2-L13-Asking-Directions
+中国城	Zhōngguóchéng<div>Chinatown</div>	B2-L13-Asking-Directions
+城	chéng<div>town, city</div>	B2-L13-Asking-Directions
+过	guo<div>- (post-üerb particle to indicate&nbsp; past experience, e.g. 去guo）</div>	B2-L13-Asking-Directions
+地图	dìtú<div>map</div>	B2-L13-Asking-Directions
+拿	ná<div>to take, to get</div>	B2-L13-Asking-Directions
+次	cì<div>(measure word for frequency)</div><div>e.g., 第一 cì</div>	B2-L13-Asking-Directions
+从	cóng<div>from</div>	B2-L13-Asking-Directions
+一直	yìzhí<div>straight, continuously (adü.)</div>	B2-L13-Asking-Directions
+往	wǎng<div>towards (preposition)</div>	B2-L13-Asking-Directions
+南	nán<div>south (direction)</div>	B2-L13-Asking-Directions
+路口	lùkǒu<div>intersection (of streets or roads or routes, etc.)</div>	B2-L13-Asking-Directions
+西	xī<div>west (direction)</div>	B2-L13-Asking-Directions
+拐	guǎi<div>to turn</div>	B2-L13-Asking-Directions
+哎	āi<div>(exclamatory particle indicating surprise or dissatisfaction)</div>	B2-L13-Asking-Directions
+东	dōng<div>east (direction)</div>	B2-L13-Asking-Directions
+北	běi<div>north (direction)</div>	B2-L13-Asking-Directions
+前	qián<div>forward, ahead</div>	B2-L13-Asking-Directions
+红绿灯	hónglǜdēng<div>traffic light</div>	B2-L13-Asking-Directions
+灯	dēng<div>light (noun)</div>	B2-L13-Asking-Directions
+右	yòu<div>right (side, to the right)</div>	B2-L13-Asking-Directions
+左	zuǒ<div>left (side, to the left)</div>	B2-L13-Asking-Directions
+前面	qiánmiàn<div>ahead, in front of</div>	B2-L13-Asking-Directions
+谷歌	Gǔgē<div>Google</div>	B2-L13-Asking-Directions
+东京	Dōngjīng<div>Tokyo</div>	B2-L13-Asking-Directions
