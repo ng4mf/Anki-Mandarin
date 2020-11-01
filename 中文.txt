@@ -283,7 +283,7 @@
 封	fēng<div>- measure word for letters</div>	B1-L8-School-Life
 信	xìn<div>- letter (as a correspondence, writing a letter to someone type of letter)</div>	B1-L8-School-Life
 最近	zuìjìn<div>recently</div>	B1-L8-School-Life
-最	zuì<div>- indicates highest degree (e.g., most, greatest, worst, etc.)</div>	B1-L8-School-Life
+最	zuì<div>- indicates highest degree (e.g., most, greatest, worst, etc.)</div>	B1-L8-School-Life B2-L14-Birthday-Party
 近	jìn<div>close, near</div>	B1-L8-School-Life B2-L13-Asking-Directions
 学期	xuéqī<div>school term, semester, quarter</div>	B1-L8-School-Life
 除了	chúle<div>in addition to, besides</div>	B1-L8-School-Life
@@ -312,7 +312,7 @@
 便宜	piányi<div>cheap, inexpensive</div>	B1-L9-Shopping
 如果	rúguǒ<div>if</div>	B1-L9-Shopping
 长短	chángduǎn<div>length</div>	B1-L9-Shopping
-长	cháng<div>long</div>	B1-L9-Shopping
+长	cháng<div>long</div><div><br></div><div>zhǎng</div><div>to grow, to appear</div>	B1-L9-Shopping B2-L14-Birthday-Party
 短	duǎn<div>short</div>	B1-L9-Shopping
 合适	héshì<div>suitable</div>	B1-L9-Shopping
 不用	búyòng<div>need not</div>	B1-L9-Shopping
@@ -373,11 +373,11 @@
 出租	chūzū<div>to rent out, to let</div>	B1-L10-Transportation
 租	zū<div>to rent</div>	B1-L10-Transportation
 开车	kāichē<div>to drive a car</div>	B1-L10-Transportation
-送	sòng<div>to see off or out, to take (someone somewhere)</div>	B1-L10-Transportation
+送	sòng<div>- to see off or out, to take (someone somewhere)</div><div>- to give as a gift</div>	B1-L10-Transportation B2-L14-Birthday-Party
 电子邮件	diànzǐyóujiàn<div>email</div>	B1-L10-Transportation
 电子	diànzǐ<div>electron</div>	B1-L10-Transportation
 让	ráng<div>to allow or cause (somebody to do something)</div>	B1-L10-Transportation
-花	huā<div>to spend</div>	B1-L10-Transportation
+花	huā<div>- to spend</div><div>- flower (noun)</div>	B1-L10-Transportation B2-L14-Birthday-Party
 不好意思	bùhǎoyìsi<div>to feel embarrassed</div>	B1-L10-Transportation
 出去	chūqu<div>to go out</div>	B1-L10-Transportation
 每	měi<div>every, each</div>	B1-L10-Transportation
@@ -502,7 +502,7 @@
 被	bèi<div>quilt, by, to coüer, (indicate passiüe-üoice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	
 了解	liǎojiě<div>to understand, to realize, to find out</div>	
 内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	
-其中	qízhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qízhōng 报告<br></div>	
+期中	qízhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qízhōng 报告<br></div>	
 上	shàng<div>- to go (colloq.)</div>	B2-L13-Asking-Directions
 中心	zhōngxīn<div>center</div>	B2-L13-Asking-Directions
 听说	tīngshuō<div>to be told, to hear of</div>	B2-L13-Asking-Directions
@@ -518,7 +518,7 @@
 里边	lǐbian<div>inside</div>	B2-L13-Asking-Directions
 中国城	Zhōngguóchéng<div>Chinatown</div>	B2-L13-Asking-Directions
 城	chéng<div>town, city</div>	B2-L13-Asking-Directions
-过	guo<div>- (post-üerb particle to indicate&nbsp; past experience, e.g. 去guo）</div>	B2-L13-Asking-Directions
+过	guo<div>- (post-verb particle to indicate&nbsp; past experience, e.g. 去guo）</div><div>- to cross</div><div><br></div><div>guò</div><div>to live (a life), to observe (a holiday), to celebrate (a festival), to pass</div>	B2-L13-Asking-Directions B2-L14-Birthday-Party
 地图	dìtú<div>map</div>	B2-L13-Asking-Directions
 拿	ná<div>to take, to get</div>	B2-L13-Asking-Directions
 次	cì<div>(measure word for frequency)</div><div>e.g., 第一 cì</div>	B2-L13-Asking-Directions
@@ -540,3 +540,43 @@
 前面	qiánmiàn<div>ahead, in front of</div>	B2-L13-Asking-Directions
 谷歌	Gǔgē<div>Google</div>	B2-L13-Asking-Directions
 东京	Dōngjīng<div>Tokyo</div>	B2-L13-Asking-Directions
+运动中心	yùndòngzhōngxīn<div>sports center</div>	B2-L13-Asking-Directions
+车床	chēchuáng<div>lathe (noun)</div>	
+舞会	wǔhuì<div>dance party, ball</div>	B2-L14-Birthday-Party
+表姐	biǎojiě<div>older female cousin</div>	B2-L14-Birthday-Party
+中学	zhōngxué<div>middle school, secondary school</div>	B2-L14-Birthday-Party
+礼物	lǐwù<div>gift</div>	B2-L14-Birthday-Party
+本	běn<div>(measure word for books)</div>	B2-L14-Birthday-Party
+饮料	yǐnliào<div>beverage</div>	B2-L14-Birthday-Party
+水果	shuǐguǒ<div>fruit</div>	B2-L14-Birthday-Party
+把	bǎ<div>(measure word for things with handle or handfuls of things)</div>	B2-L14-Birthday-Party
+爱	ài<div>to love; to like; to be fond of</div>	B2-L14-Birthday-Party
+苹果	píngguǒ<div>apple</div>	B2-L14-Birthday-Party
+梨	lí<div>pear (noun; a type fruit)</div>	B2-L14-Birthday-Party
+西瓜	xīgua<div>watermelon</div>	B2-L14-Birthday-Party
+住	zhù<div>to live (in a certain place)</div>	B2-L14-Birthday-Party
+重	zhòng<div>heavy, serious (adjective)</div>	B2-L14-Birthday-Party
+接	jiē<div>to catch, to meet, to welcome</div>	B2-L14-Birthday-Party
+楼	lóu<div>multi-story building, floor of a multi-level building</div>	B2-L14-Birthday-Party
+钟头	zhōngtóu<div>hour (noun)</div>	B2-L14-Birthday-Party
+以为	yǐwéi<div>to assume erroneously</div>	B2-L14-Birthday-Party
+聪明	cōngming<div>smart, bright, clever</div>	B2-L14-Birthday-Party
+用功	yònggōng<div>hardworking, diligent, studious</div>	B2-L14-Birthday-Party
+暑期	shǔqī<div>summer term (noun, e.g., for summer classes)</div>	B2-L14-Birthday-Party
+班	bān<div>class (noun)</div>	B2-L14-Birthday-Party
+可爱	kě'ài<div>cute, lovable (adjective)</div>	B2-L14-Birthday-Party
+去年	qùnián<div>last year</div>	B2-L14-Birthday-Party
+属	shǔ<div>to belong to</div>	B2-L14-Birthday-Party
+狗	gǒu<div>dog (noun, type of animal)</div>	B2-L14-Birthday-Party
+脸	liǎn<div>face (noun)</div>	B2-L14-Birthday-Party
+圆	yuán<div>round (adjective)</div>	B2-L14-Birthday-Party
+眼睛	yǎnjing<div>eye (noun, body part)</div>	B2-L14-Birthday-Party
+鼻子	bízi<div>nose (noun, body part)</div>	B2-L14-Birthday-Party
+嘴	zuǐ<div>mouth (noun, body part)</div>	B2-L14-Birthday-Party
+像	xiàng<div>to be like, to look like, to take after</div>	B2-L14-Birthday-Party
+长大	zhǎngdà<div>to grow up</div>	B2-L14-Birthday-Party
+一定	yídìng<div>- certain, definite (adj)</div><div>- certainly, definitely (adv)</div>	B2-L14-Birthday-Party
+蛋糕	dàngāo<div>cake (noun, dessert)</div>	B2-L14-Birthday-Party
+海伦	Hǎilún<div>Helen</div>	B2-L14-Birthday-Party
+汤姆	Tāngmǔ<div>Tom</div>	B2-L14-Birthday-Party
+王红	Wáng Hóng<div>- (personal name for someone in the lesson)</div>	B2-L14-Birthday-Party
