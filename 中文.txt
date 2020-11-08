@@ -181,7 +181,7 @@
 开	kāi<div>- to open or hold (e.g., meeting, party)</div><div>- to drive, to operate</div>	B1-L10-Transportation B1-L6-Making-Appointments
 会	huì<div>- meeting (noun)</div><div>- can, know how to</div><div>- will</div>	B1-L6-Making-Appointments B1-L8-School-Life B2-L11-Weather
 上午	shàngwǔ<div>late morning</div>	B1-L6-Making-Appointments
-节	jié<div>(measure word for class sessions)</div>	B1-L6-Making-Appointments
+节	jié<div>- (measure word for class sessions)</div><div>- holiday or some general celebratory occasion</div>	B1-L6-Making-Appointments B2-L14-Birthday-Party
 课	kè<div>class; course; lesson</div>	B1-L6-Making-Appointments
 年级	niánjí<div>grade (i.e., which year of school)</div>	B1-L6-Making-Appointments
 考试	kǎoshì<div>to give/take a test</div>	B1-L6-Making-Appointments
@@ -364,7 +364,7 @@
 下车	xiàchē<div>to get off (bus, train, etc.)</div>	B1-L10-Transportation
 然后	ránhòu<div>then</div>	B1-L10-Transportation
 绿	lǜ<div>green</div>	B1-L10-Transportation
-线	xiàn<div>line (e.g., of people)</div>	B1-L10-Transportation
+线	xiàn<div>line (e.g., a metro line, red line, blue line, etc.)</div>	B1-L10-Transportation
 最后	zuìhòu<div>final, last</div>	B1-L10-Transportation
 蓝	lán<div>blue</div>	B1-L10-Transportation
 麻烦	máfan<div>troublesome</div>	B1-L10-Transportation
@@ -549,14 +549,14 @@
 本	běn<div>(measure word for books)</div>	B2-L14-Birthday-Party
 饮料	yǐnliào<div>beverage</div>	B2-L14-Birthday-Party
 水果	shuǐguǒ<div>fruit</div>	B2-L14-Birthday-Party
-把	bǎ<div>(measure word for things with handle or handfuls of things)</div>	B2-L14-Birthday-Party
+把	bǎ<div>- (measure word for things with handle or handfuls of things)</div><div>- (indicating disposition, arrangement, or settlement of something) [preposition]</div>	B2-L14-Birthday-Party B2-L15-Seeing-A-Doctor
 爱	ài<div>to love; to like; to be fond of</div>	B2-L14-Birthday-Party
 苹果	píngguǒ<div>apple</div>	B2-L14-Birthday-Party
 梨	lí<div>pear (noun; a type fruit)</div>	B2-L14-Birthday-Party
 西瓜	xīgua<div>watermelon</div>	B2-L14-Birthday-Party
 住	zhù<div>to live (in a certain place)</div>	B2-L14-Birthday-Party
 重	zhòng<div>heavy, serious (adjective)</div>	B2-L14-Birthday-Party
-接	jiē<div>to catch, to meet, to welcome</div>	B2-L14-Birthday-Party
+接	jiē<div>to catch, to meet, to welcome, to pick up (someone)</div>	B2-L14-Birthday-Party
 楼	lóu<div>multi-story building, floor of a multi-level building</div>	B2-L14-Birthday-Party
 钟头	zhōngtóu<div>hour (noun)</div>	B2-L14-Birthday-Party
 以为	yǐwéi<div>to assume erroneously</div>	B2-L14-Birthday-Party
@@ -580,3 +580,124 @@
 海伦	Hǎilún<div>Helen</div>	B2-L14-Birthday-Party
 汤姆	Tāngmǔ<div>Tom</div>	B2-L14-Birthday-Party
 王红	Wáng Hóng<div>- (personal name for someone in the lesson)</div>	B2-L14-Birthday-Party
+扑克	pūkè<div>poker</div>	
+<div><div><div><div><div>又菜又爱玩</div></div></div></div></div>	yòucàiyòuàiwān<div>(slang) you're not good at playing (e.g., game), but you love playing anyway</div>	
+幽默	yōumò<div>humor, humorous</div>	
+儿化音	érhuāyīn<div>Speaking style of Beijing where they put an 'r' sound at the end of many words</div>	
+鼓	gǔ<div>drum, to drum, to strike, to rouse, to bulge, to swell</div>	
+成语	chéngyǔ<div>idiom, proüerb, saying</div>	
+伙伴	huǒbàn<div>partner, companion, comrade</div>	
+万圣节	wànshèngjié<div>Halloween</div>	B2-L14-Birthday-Party
+感恩节	gǎn'ēnjié<div>Thanksgiving</div>	B2-L14-Birthday-Party
+圣诞节	shèngdànjié<div>Christmas</div>	B2-L14-Birthday-Party
+开演唱会	kāiyǎnchànghuì<div>have a pop music concert</div>	B2-L14-Birthday-Party
+开派对	kāipàiduì<div>have a party</div>	B2-L14-Birthday-Party
+表兄弟姐妹	biǎoxiōngdìjiěmèi<div>cousins with different family name</div>	B2-L14-Birthday-Party
+排灯节	Páidēngjié<div>Diwali</div>	B2-L14-Birthday-Party
+眉毛	méimáo<div>eyebrow</div>	B2-L14-Birthday-Party
+方	fāng<div>square-shaped</div>	B2-L14-Birthday-Party
+马马虎虎	mǎmahūhū<div>careless, casual, vague, not-so-bad, so-so, tolerable, fair</div><div><br></div><div>*from mdbg.net</div>	B2-L14-Birthday-Party
+鼠	shǔ<div>mouse</div>	B2-L14-Birthday-Party
+虎	hǔ<div>tiger</div>	B2-L14-Birthday-Party
+兔	tù<div>rabbit</div>	B2-L14-Birthday-Party
+龙	lóng<div>dragon</div>	B2-L14-Birthday-Party
+蛇	shé<div>snake</div>	B2-L14-Birthday-Party
+马	mǎ<div>horse</div>	B2-L14-Birthday-Party
+羊	yáng<div>goat</div>	B2-L14-Birthday-Party
+猴	hóu<div>monkey</div>	B2-L14-Birthday-Party
+鸡	jī<div>fowl, chicken</div>	B2-L14-Birthday-Party
+猪	zhū<div>pig (animal)</div>	B2-L14-Birthday-Party
+芒果	mángguǒ<div>mango</div>	B2-L14-Birthday-Party
+香蕉	xiāngjiāo<div>banana</div>	B2-L14-Birthday-Party
+菠萝	bōluó<div>pineapple</div>	B2-L14-Birthday-Party
+葡萄	pútao<div>grape (a fruit, but not grapefruit)</div>	B2-L14-Birthday-Party
+干净	gānjìng<div>clean，neat （adj）</div>	B2-L14-Birthday-Party
+整肃	zhěngsù<div>strict&nbsp;/&nbsp;serious&nbsp;/&nbsp;solemn&nbsp;/&nbsp;dignified&nbsp;/&nbsp;to tidy up&nbsp;/&nbsp;to clean up&nbsp;/&nbsp;to purge&nbsp;/&nbsp;to adjust<br></div><div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
+脏	<div>zāng<br></div>dirty, filthy (e.g., room is dirty)<div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
+山莓	shānméi<div>raspberry</div>	B2-L14-Birthday-Party
+烂	làn<div>- to rot or decompose</div><div>- rotten, messy, soft, mushy</div>	B2-L14-Birthday-Party
+橙子	chéngzi<div>orange (the fruit)</div>	B2-L14-Birthday-Party
+橙	chéng<div>orange tree, orange color</div>	B2-L14-Birthday-Party
+橙汁	chéngzhī<div>orange juice</div>	B2-L14-Birthday-Party
+曾祖父	zēngzǔfù<div>paternal great grandfather</div>	B2-L14-Birthday-Party
+曾外祖父	zēngwàizǔfù<div>maternal great grandfather</div>	B2-L14-Birthday-Party
+曾祖母	zēngzǔmǔ<div>paternal great grandmother</div>	B2-L14-Birthday-Party
+曾外祖母	zēngwàizǔmǔ<div>maternal great grandmother</div>	B2-L14-Birthday-Party
+大选	dàxuǎn<div>general election</div>	
+选择	xuǎnzé<div>- to select or pick,&nbsp;</div><div>- choice, option</div>	
+超过<br>	chāoguò<div>to surpass or exceed</div>	
+选票	xuǎnpiào<div>vote, ballot</div>	
+段子	duànzi<div>- folk art item of storytelling / performed dialogue, a sketch</div><div>- short joke</div>	
+<div><div><div><div><div>例子</div></div></div></div></div>	lìzi<div>- an example or instance</div>	
+<div><div><div><div><div>感谢舍友的不杀之恩</div></div></div></div></div>	gǎnxiè shèyǒu de bùshā'zhī'ēn<div>- colloquial way of saying thank you to roommates for not murdering you because of their kindness (i.e., thank you for putting up with me as a roommate)</div>	
+感谢	gǎnxiè<div>thanks, express thanks, grateful, gratitude</div>	
+舍友	shèyǒu<div>dormitory roommate</div>	
+杀	shā<div>- to kill, murder, attack, weaken</div><div>- (used after verb) extremely</div>	
+恩	ēn<div>favor, grace, kindness</div>	
+澡堂	zǎotáng<div>public baths</div>	
+公共澡堂	gōnggòngzǎotáng<div>common baths (e.g., in a dorm)</div>	
+排队	páiduì<div>to line up</div>	
+上吊	shàngdiào<div>to hang oneself</div>	
+师范	shīfàn<div>teacher-training, pedagological, normal (for school, like Beijing Normal University)</div>	
+常春藤	chángchūnténg<div>ivy (used for the plant and for the Ivy League)</div>	
+表兄弟	biǎoxiōngdì<div>maternal male cousins</div>	
+<div>表亲</div>	biǎoqīn<div>maternal cousin</div>	
+舅舅	jiùjiu<div>maternal uncle，मामा</div>	
+<div><div><div><div><div>舅妈</div></div></div></div></div>	jiùmā<div>maternal uncle's wife, मामी</div>	
+<div><div><div><div><div>大爷</div></div></div></div></div>	dàye<div>father's older brother (ताउजी), uncle, respectful word for older man (tricky to use because of second definition)</div><div><br></div><div>dàyé</div><div>arrogant idler, self-centered show-off; used in insulting manner as in 你dàyé的</div>	
+<div><div><div><div><div>相声</div></div></div></div></div>	xiàngsheng<div>comic dialogue, sketch, crosstalk</div>	
+说唱	shuōchàng<div>- (musical) rapping</div>	
+天津	Tiānjīn<div>- a municipality in northern China</div>	
+路痴	lùchī<div>person with poor sense of direction</div><div>* mdbg.net</div>	
+熔炉	rónglú<div>smelting furnace, forge</div>	
+题材	tícái<div>- subject matter, topic</div>	
+寄生虫	jìshēngchóng<div>- parasite (biology)</div><div>- freeloader</div>	
+兽	shòu<div>- bestial, beastly</div><div>- animal, beast</div>	
+寄生	jìshēng<div>- parasitic, parasitism, to live in/on another as parasite or by taking advantage of others</div><div><br></div><div>* mdbg.net</div>	
+<div><div><div><div><div>卷福</div></div></div></div></div>	juǎnfú<div>Benedict Cumberbatch (name is related to his curly hair)</div>	
+卷	juǎn<div>- (measure word for small rolled things like money or film)</div><div>- to roll up, to sweep up, to carry</div><div><br></div><div>juàn</div><div>- scroll, book, volume, chapter, exam paper</div><div>- (measure word for books, paintings)</div><div><br></div><div>*mdbg.net</div>	
+福	fú<div>- good fortune, happiness, or luck</div><div>- abbreüiation for Fujian</div><div>- a surname</div><div><br></div><div>*mdbg.net</div>	
+自然卷	zìránjuǎn<div>naturally curly hair</div>	
+超	chāo<div>- to exceed, overtake, surpass, pass, cross, or transcend</div><div>- (prefix) ultra-, super-</div><div><br></div><div>*mdbg.net</div>	
+病人	bìngrén<div>patient (i.e., doctor's patient)</div>	B2-L15-Seeing-A-Doctor
+病	bìng<div>- illness</div><div>- to get sick</div>	B2-L15-Seeing-A-Doctor
+医院	yīyuàn<div>hospital</div>	B2-L15-Seeing-A-Doctor
+看病	kànbìng<div>to see a doctor</div>	B2-L15-Seeing-A-Doctor
+肚子	dùzi<div>belly, abdomen, stomach</div>	B2-L15-Seeing-A-Doctor
+疼死	téngsǐ<div>really painful</div>	B2-L15-Seeing-A-Doctor
+疼	téng<div>aching</div>	B2-L15-Seeing-A-Doctor
+死	sǐ<div>- to die</div><div>- (complementary word indicating extreme degree)</div>	B2-L15-Seeing-A-Doctor
+夜里	yèli<div>at night</div>	B2-L15-Seeing-A-Doctor
+好几	hǎojǐ<div>quite a few</div>	B2-L15-Seeing-A-Doctor
+厕所	cèsuǒ<div>restroom, toilet</div>	B2-L15-Seeing-A-Doctor
+冰箱	bīngxiāng<div>refrigerator</div>	B2-L15-Seeing-A-Doctor
+发烧	fāshāo<div>to have a fever</div>	B2-L15-Seeing-A-Doctor
+躺下	tǎngxia<div>to lie down</div>	B2-L15-Seeing-A-Doctor
+躺	tǎng<div>to lie or recline</div>	B2-L15-Seeing-A-Doctor
+检查	jiǎnchá<div>to examine</div>	B2-L15-Seeing-A-Doctor
+吃坏	chīhuài<div>to get sick from eating bad food</div>	B2-L15-Seeing-A-Doctor
+坏	huài<div>bad (adjectiüe)</div>	B2-L15-Seeing-A-Doctor
+打针	dǎzhēn<div>to get an injection</div>	B2-L15-Seeing-A-Doctor
+针	zhēn<div>needle (noun)</div>	B2-L15-Seeing-A-Doctor
+药	yào<div>medicine</div>	B2-L15-Seeing-A-Doctor
+片	piàn<div>(measure word for tablets, slices, etc.)</div>	B2-L15-Seeing-A-Doctor
+遍	biàn<div>(measure word for complete courses of an action or instances of an action, like a course of medicine)</div>	B2-L15-Seeing-A-Doctor
+最好	zuìhǎo<div>had better</div>	B2-L15-Seeing-A-Doctor
+小时	xiǎoshí<div>hour</div>	B2-L15-Seeing-A-Doctor
+办法	bànfǎ<div>method, way (of doing something)</div>	B2-L15-Seeing-A-Doctor
+生病	shēngbìng<div>to get sick</div>	B2-L15-Seeing-A-Doctor
+感冒	gǎnmào<div>to haüe a cold</div>	B2-L15-Seeing-A-Doctor
+身体	shēntǐ<div>body, health</div>	B2-L15-Seeing-A-Doctor
+痒	yǎng<div>itchy</div>	B2-L15-Seeing-A-Doctor
+过敏	guòmǐn<div>to be allergic to</div>	B2-L15-Seeing-A-Doctor
+药店	yàodiàn<div>pharmacy</div>	B2-L15-Seeing-A-Doctor
+健康	jiànkāng<div>- healthy</div><div>- health</div>	B2-L15-Seeing-A-Doctor
+保险	bǎoxiǎn<div>- insurance [noun]</div><div>- secure [adjective]</div>	B2-L15-Seeing-A-Doctor
+赶快	gǎnkuài<div>- right away, quickly, in a hurry</div>	B2-L15-Seeing-A-Doctor
+要不然	yàobùrán<div>otherwise</div>	B2-L15-Seeing-A-Doctor
+越来越	yuèláiyuè<div>more and more</div>	B2-L15-Seeing-A-Doctor
+上次	shàngcì<div>last time</div>	B2-L15-Seeing-A-Doctor
+休息	xiūxi<div>to take a break, to rest</div>	B2-L15-Seeing-A-Doctor
+懒	lǎn<div>lazy</div>	B2-L15-Seeing-A-Doctor
+再说	zàishuō<div>moreover</div>	B2-L15-Seeing-A-Doctor
+乱	luàn<div>randomly, arbitrarily, messily</div>	B2-L15-Seeing-A-Doctor
