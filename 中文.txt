@@ -25,7 +25,7 @@
 哥哥	gēge<div>older brother</div>	B1-L2-Family
 两	<div>liǎng</div>two, a couple of (used for objects, as opposed to 二）	B1-L2-Family
 妹妹	mèimei<div>younger sister</div>	B1-L2-Family
-和	hé<div>and</div>	B1-L2-Family
+和	hé<div>and (can only be used to connect two nouns)</div>	B1-L2-Family
 大姐	dàjiě<div>eldest/oldest sister</div>	B1-L2-Family
 二姐	èrjiě<div>second oldest sister</div>	B1-L2-Family
 做	zuò<div>to do</div>	B1-L2-Family
@@ -48,7 +48,7 @@
 为什么	wèishénme<div>why</div>	B1-L3-Time-and-Date
 为	wèi<div>for</div>	B1-L3-Time-and-Date
 因为	yīnwèi<div>because</div>	B1-L3-Time-and-Date
-还	hái<div>also, too, as well</div>	B1-L3-Time-and-Date
+还	hái<div>also, too, as well</div><div><br></div><div>huán</div><div>to return (something)</div>	B1-L3-Time-and-Date B2-L17-Renting-An-Apartment
 同学	tóngxué<div>classmate</div>	B1-L3-Time-and-Date
 认识	rènshi<div>to recognize, to know (a person)</div>	B1-L3-Time-and-Date
 朋友	péngyou<div>friend</div>	B1-L3-Time-and-Date
@@ -58,7 +58,7 @@
 球	qiú<div>ball</div>	B1-L4-Hobbies
 看	kàn<div>to watch, to look, to read</div>	B1-L4-Hobbies
 电视	diànshì<div>TV</div>	B1-L4-Hobbies
-电	diàn<div>electricity</div>	B1-L4-Hobbies
+电	diàn<div>electricity</div>	B1-L4-Hobbies B2-L16-Dating
 视	shì<div>vision</div>	B1-L4-Hobbies
 唱歌(儿）	chànggē(r)<div>to sing (a song)</div>	B1-L4-Hobbies
 唱	chàng<div>to sing</div>	B1-L4-Hobbies
@@ -87,7 +87,7 @@
 久	jiǔ<div>long (in time)</div>	B1-L4-Hobbies
 不错	búcuò<div>not bad, fairly good</div>	B1-L4-Hobbies
 错	cuò<div>wrong</div>	B1-L4-Hobbies
-想	xiǎng<div>to want to, to want</div>	B1-L4-Hobbies
+想	xiǎng<div>- to want to, to want</div><div>- to think</div>	B1-L4-Hobbies B2-L16-Dating
 觉得	juéde<div>to feel, to think</div>	B1-L4-Hobbies
 有意思	yǒuyìsi<div>interesting</div>	B1-L4-Hobbies
 意思	yìsi<div>meaning (noun)</div>	B1-L4-Hobbies
@@ -109,7 +109,7 @@
 年	nián<div>- year</div>	B1-L3-Time-and-Date
 多	duō<div>- how many</div><div>- how much</div><div>- many</div><div>- much</div>	B1-L3-Time-and-Date B1-L7-Studying-Chinese
 大	dà<div>- big</div><div>- old</div>	B1-L3-Time-and-Date
-岁	suì<div>- years old (i.e., describing age)</div>	B1-L3-Time-and-Date
+岁	suì<div>- years old (i.e., describing age for children)</div>	B1-L3-Time-and-Date
 吃	chī<div>to eat</div>	B1-L3-Time-and-Date
 饭	fàn<div>meal</div>	B1-L3-Time-and-Date
 怎么样	zěnmeyàng<div>- how is that?</div><div>- is that okay?</div><div>- how are you?</div>	B1-L3-Time-and-Date
@@ -125,7 +125,7 @@
 晚上	wǎnshang<div>- evening or night</div>	B1-L3-Time-and-Date
 见	jiàn<div>to see</div>	B1-L3-Time-and-Date
 再见	zàijiàn<div>- bye, until we see each other again</div>	B1-L3-Time-and-Date
-再	zài<div>again</div>	B1-L3-Time-and-Date B1-L9-Shopping
+再	zài<div>again (but used for a future event, as opposed to 又）</div>	B1-L3-Time-and-Date B1-L9-Shopping
 英国	Yīngguó<div>United Kingdom</div>	B1-L3-Time-and-Date
 印度	Yìndù<div>India</div>	B1-L3-Time-and-Date
 德国	Déguó<div>Germany</div>	B1-L3-Time-and-Date
@@ -171,7 +171,7 @@
 打电话	dǎdiànhuà<div>to make a phone call</div>	B1-L6-Making-Appointments
 电话	diànhuà<div>telephone</div>	B1-L6-Making-Appointments
 喂	wèi/wéi<div>(on phone) Hi</div>	B1-L6-Making-Appointments
-就	jiù<div>exactly; precisely</div>	B1-L6-Making-Appointments
+就	jiù<div>- exactly; precisely</div><div>- just; only (indicating a small number)</div>	B1-L6-Making-Appointments B2-L16-Dating
 您	nín<div>- more respecful and formal 你</div>	B1-L6-Making-Appointments
 位	wèi<div>- (polite measure word for people)</div>	B1-L6-Making-Appointments
 下午	xiàwǔ<div>- afternoon</div>	B1-L6-Making-Appointments
@@ -370,7 +370,7 @@
 麻烦	máfan<div>troublesome</div>	B1-L10-Transportation
 打车	dǎchē<div>to take taxi</div>	B1-L10-Transportation
 出租汽车	chūzūqìchē<div>taxi</div>	B1-L10-Transportation
-出租	chūzū<div>to rent out, to let</div>	B1-L10-Transportation
+出租	chūzū<div>to rent out, to let</div>	B1-L10-Transportation B2-L17-Renting-An-Apartment
 租	zū<div>to rent</div>	B1-L10-Transportation
 开车	kāichē<div>to drive a car</div>	B1-L10-Transportation
 送	sòng<div>- to see off or out, to take (someone somewhere)</div><div>- to give as a gift</div>	B1-L10-Transportation B2-L14-Birthday-Party
@@ -482,8 +482,8 @@
 杯子	bēizi<div>cup</div>	B2-L12-Dining
 勺子	shāozi<div>spoon</div>	B2-L12-Dining
 刀子	dāozi<div>knife</div>	B2-L12-Dining
-书桌	shūzhuō<div>desk</div>	B2-L12-Dining
-饭桌	fànzhuō<div>dining table</div>	B2-L12-Dining
+书桌	shūzhuō<div>desk</div>	B2-L12-Dining B2-L17-Renting-An-Apartment
+饭桌	fànzhuō<div>dining table</div>	B2-L12-Dining B2-L17-Renting-An-Apartment C
 菜刀	càidāo<div>kitchen knife</div>	B2-L12-Dining
 茶馆	cháguǎn<div>tea house</div>	B2-L12-Dining
 酸雨	suānyǔ<div>acid rain</div>	B2-L12-Dining
@@ -494,15 +494,15 @@
 层	céng<div>layer (e.g., layer of food, layer of stadium, floor of building)</div>	B2-L12-Dining
 土豆	tǔdòu<div>potato</div>	B2-L12-Dining
 街(道)	jiē(dào)<div>street</div>	B2-L12-Dining
-报告	bàogào<div>report, speech, talk (e.g., presentation)</div>	
-声调	shēngdiào<div>tone (e.g., tone of words in&nbsp; tonal language)</div>	
-误	wù<div>mistake, error, to miss, to harm, to delay, mistakenly</div>	
-流利	liúlì<div>fluent (e.g., speaking fluently)</div>	
-设定	shèdìng<div>to set, to set up, to install, setting, preferences</div>	
-被	bèi<div>quilt, by, to coüer, (indicate passiüe-üoice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	
-了解	liǎojiě<div>to understand, to realize, to find out</div>	
-内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	
-期中	qízhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qízhōng 报告<br></div>	
+报告	bàogào<div>report, speech, talk (e.g., presentation)</div>	Encountered
+声调	shēngdiào<div>tone (e.g., tone of words in&nbsp; tonal language)</div>	Encountered
+误	wù<div>mistake, error, to miss, to harm, to delay, mistakenly</div>	Encountered
+流利	liúlì<div>fluent (e.g., speaking fluently)</div>	Encountered
+设定	shèdìng<div>to set, to set up, to install, setting, preferences</div>	Encountered
+被	bèi<div>quilt, by, to coüer, (indicate passiüe-üoice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	Encountered
+了解	liǎojiě<div>to understand, to realize, to find out</div>	Encountered
+内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	Encountered
+期中	qīzhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qīzhōng 报告<br></div>	Encountered
 上	shàng<div>- to go (colloq.)</div>	B2-L13-Asking-Directions
 中心	zhōngxīn<div>center</div>	B2-L13-Asking-Directions
 听说	tīngshuō<div>to be told, to hear of</div>	B2-L13-Asking-Directions
@@ -541,7 +541,7 @@
 谷歌	Gǔgē<div>Google</div>	B2-L13-Asking-Directions
 东京	Dōngjīng<div>Tokyo</div>	B2-L13-Asking-Directions
 运动中心	yùndòngzhōngxīn<div>sports center</div>	B2-L13-Asking-Directions
-车床	chēchuáng<div>lathe (noun)</div>	
+车床	chēchuáng<div>lathe (noun)</div>	Encountered
 舞会	wǔhuì<div>dance party, ball</div>	B2-L14-Birthday-Party
 表姐	biǎojiě<div>older female cousin</div>	B2-L14-Birthday-Party
 中学	zhōngxué<div>middle school, secondary school</div>	B2-L14-Birthday-Party
@@ -580,13 +580,13 @@
 海伦	Hǎilún<div>Helen</div>	B2-L14-Birthday-Party
 汤姆	Tāngmǔ<div>Tom</div>	B2-L14-Birthday-Party
 王红	Wáng Hóng<div>- (personal name for someone in the lesson)</div>	B2-L14-Birthday-Party
-扑克	pūkè<div>poker</div>	
-<div><div><div><div><div>又菜又爱玩</div></div></div></div></div>	yòucàiyòuàiwān<div>(slang) you're not good at playing (e.g., game), but you love playing anyway</div>	
-幽默	yōumò<div>humor, humorous</div>	
-儿化音	érhuāyīn<div>Speaking style of Beijing where they put an 'r' sound at the end of many words</div>	
-鼓	gǔ<div>drum, to drum, to strike, to rouse, to bulge, to swell</div>	
-成语	chéngyǔ<div>idiom, proüerb, saying</div>	
-伙伴	huǒbàn<div>partner, companion, comrade</div>	
+扑克	pūkè<div>poker</div>	Encountered
+<div><div><div><div><div>又菜又爱玩</div></div></div></div></div>	yòucàiyòuàiwān<div>(slang) you're not good at playing (e.g., game), but you love playing anyway</div>	Encountered
+幽默	yōumò<div>humor, humorous</div>	Encountered
+儿化音	érhuāyīn<div>Speaking style of Beijing where they put an 'r' sound at the end of many words</div>	Encountered
+鼓	gǔ<div>drum, to drum, to strike, to rouse, to bulge, to swell</div>	Encountered
+成语	chéngyǔ<div>idiom, proüerb, saying</div>	Encountered
+伙伴	huǒbàn<div>partner, companion, comrade</div>	Encountered
 万圣节	wànshèngjié<div>Halloween</div>	B2-L14-Birthday-Party
 感恩节	gǎn'ēnjié<div>Thanksgiving</div>	B2-L14-Birthday-Party
 圣诞节	shèngdànjié<div>Christmas</div>	B2-L14-Birthday-Party
@@ -611,7 +611,7 @@
 香蕉	xiāngjiāo<div>banana</div>	B2-L14-Birthday-Party
 菠萝	bōluó<div>pineapple</div>	B2-L14-Birthday-Party
 葡萄	pútao<div>grape (a fruit, but not grapefruit)</div>	B2-L14-Birthday-Party
-干净	gānjìng<div>clean，neat （adj）</div>	B2-L14-Birthday-Party
+干净	gānjìng<div>clean，neat （adj）</div>	B2-L14-Birthday-Party B2-L17-Renting-An-Apartment
 整肃	zhěngsù<div>strict&nbsp;/&nbsp;serious&nbsp;/&nbsp;solemn&nbsp;/&nbsp;dignified&nbsp;/&nbsp;to tidy up&nbsp;/&nbsp;to clean up&nbsp;/&nbsp;to purge&nbsp;/&nbsp;to adjust<br></div><div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
 脏	<div>zāng<br></div>dirty, filthy (e.g., room is dirty)<div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
 山莓	shānméi<div>raspberry</div>	B2-L14-Birthday-Party
@@ -623,42 +623,42 @@
 曾外祖父	zēngwàizǔfù<div>maternal great grandfather</div>	B2-L14-Birthday-Party
 曾祖母	zēngzǔmǔ<div>paternal great grandmother</div>	B2-L14-Birthday-Party
 曾外祖母	zēngwàizǔmǔ<div>maternal great grandmother</div>	B2-L14-Birthday-Party
-大选	dàxuǎn<div>general election</div>	
-选择	xuǎnzé<div>- to select or pick,&nbsp;</div><div>- choice, option</div>	
-超过<br>	chāoguò<div>to surpass or exceed</div>	
-选票	xuǎnpiào<div>vote, ballot</div>	
-段子	duànzi<div>- folk art item of storytelling / performed dialogue, a sketch</div><div>- short joke</div>	
-<div><div><div><div><div>例子</div></div></div></div></div>	lìzi<div>- an example or instance</div>	
-<div><div><div><div><div>感谢舍友的不杀之恩</div></div></div></div></div>	gǎnxiè shèyǒu de bùshā'zhī'ēn<div>- colloquial way of saying thank you to roommates for not murdering you because of their kindness (i.e., thank you for putting up with me as a roommate)</div>	
-感谢	gǎnxiè<div>thanks, express thanks, grateful, gratitude</div>	
-舍友	shèyǒu<div>dormitory roommate</div>	
-杀	shā<div>- to kill, murder, attack, weaken</div><div>- (used after verb) extremely</div>	
-恩	ēn<div>favor, grace, kindness</div>	
-澡堂	zǎotáng<div>public baths</div>	
-公共澡堂	gōnggòngzǎotáng<div>common baths (e.g., in a dorm)</div>	
-排队	páiduì<div>to line up</div>	
-上吊	shàngdiào<div>to hang oneself</div>	
-师范	shīfàn<div>teacher-training, pedagological, normal (for school, like Beijing Normal University)</div>	
-常春藤	chángchūnténg<div>ivy (used for the plant and for the Ivy League)</div>	
-表兄弟	biǎoxiōngdì<div>maternal male cousins</div>	
-<div>表亲</div>	biǎoqīn<div>maternal cousin</div>	
-舅舅	jiùjiu<div>maternal uncle，मामा</div>	
-<div><div><div><div><div>舅妈</div></div></div></div></div>	jiùmā<div>maternal uncle's wife, मामी</div>	
-<div><div><div><div><div>大爷</div></div></div></div></div>	dàye<div>father's older brother (ताउजी), uncle, respectful word for older man (tricky to use because of second definition)</div><div><br></div><div>dàyé</div><div>arrogant idler, self-centered show-off; used in insulting manner as in 你dàyé的</div>	
-<div><div><div><div><div>相声</div></div></div></div></div>	xiàngsheng<div>comic dialogue, sketch, crosstalk</div>	
-说唱	shuōchàng<div>- (musical) rapping</div>	
-天津	Tiānjīn<div>- a municipality in northern China</div>	
-路痴	lùchī<div>person with poor sense of direction</div><div>* mdbg.net</div>	
-熔炉	rónglú<div>smelting furnace, forge</div>	
-题材	tícái<div>- subject matter, topic</div>	
-寄生虫	jìshēngchóng<div>- parasite (biology)</div><div>- freeloader</div>	
-兽	shòu<div>- bestial, beastly</div><div>- animal, beast</div>	
-寄生	jìshēng<div>- parasitic, parasitism, to live in/on another as parasite or by taking advantage of others</div><div><br></div><div>* mdbg.net</div>	
-<div><div><div><div><div>卷福</div></div></div></div></div>	juǎnfú<div>Benedict Cumberbatch (name is related to his curly hair)</div>	
-卷	juǎn<div>- (measure word for small rolled things like money or film)</div><div>- to roll up, to sweep up, to carry</div><div><br></div><div>juàn</div><div>- scroll, book, volume, chapter, exam paper</div><div>- (measure word for books, paintings)</div><div><br></div><div>*mdbg.net</div>	
-福	fú<div>- good fortune, happiness, or luck</div><div>- abbreüiation for Fujian</div><div>- a surname</div><div><br></div><div>*mdbg.net</div>	
-自然卷	zìránjuǎn<div>naturally curly hair</div>	
-超	chāo<div>- to exceed, overtake, surpass, pass, cross, or transcend</div><div>- (prefix) ultra-, super-</div><div><br></div><div>*mdbg.net</div>	
+大选	dàxuǎn<div>general election</div>	Encountered
+选择	xuǎnzé<div>- to select or pick,&nbsp;</div><div>- choice, option</div>	Encountered
+超过<br>	chāoguò<div>to surpass or exceed</div>	Encountered
+选票	xuǎnpiào<div>vote, ballot</div>	Encountered
+段子	duànzi<div>- folk art item of storytelling / performed dialogue, a sketch</div><div>- short joke</div>	Encountered
+<div><div><div><div><div>例子</div></div></div></div></div>	lìzi<div>- an example or instance</div>	Encountered
+<div><div><div><div><div>感谢舍友的不杀之恩</div></div></div></div></div>	gǎnxiè shèyǒu de bùshā'zhī'ēn<div>- colloquial way of saying thank you to roommates for not murdering you because of their kindness (i.e., thank you for putting up with me as a roommate)</div>	Encountered
+感谢	gǎnxiè<div>thanks, express thanks, grateful, gratitude</div>	Encountered
+舍友	shèyǒu<div>dormitory roommate</div>	Encountered
+杀	shā<div>- to kill, murder, attack, weaken</div><div>- (used after verb) extremely</div>	Encountered
+恩	ēn<div>favor, grace, kindness</div>	Encountered
+澡堂	zǎotáng<div>public baths</div>	Encountered
+公共澡堂	gōnggòngzǎotáng<div>common baths (e.g., in a dorm)</div>	Encountered
+排队	páiduì<div>to line up</div>	Encountered
+上吊	shàngdiào<div>to hang oneself</div>	Encountered
+师范	shīfàn<div>teacher-training, pedagological, normal (for school, like Beijing Normal University)</div>	Encountered
+常春藤	chángchūnténg<div>ivy (used for the plant and for the Ivy League)</div>	Encountered
+表兄弟	biǎoxiōngdì<div>maternal male cousins</div>	Encountered
+<div>表亲</div>	biǎoqīn<div>maternal cousin</div>	Encountered
+舅舅	jiùjiu<div>maternal uncle，मामा</div>	Encountered
+<div><div><div><div><div>舅妈</div></div></div></div></div>	jiùmā<div>maternal uncle's wife, मामी</div>	Encountered
+<div><div><div><div><div>大爷</div></div></div></div></div>	dàye<div>father's older brother (ताउजी), uncle, respectful word for older man (tricky to use because of second definition)</div><div><br></div><div>dàyé</div><div>arrogant idler, self-centered show-off; used in insulting manner as in 你dàyé的</div>	Encountered
+<div><div><div><div><div>相声</div></div></div></div></div>	xiàngsheng<div>comic dialogue, sketch, crosstalk</div>	Encountered
+说唱	shuōchàng<div>- (musical) rapping</div>	Encountered
+天津	Tiānjīn<div>- a municipality in northern China</div>	Encountered
+路痴	lùchī<div>person with poor sense of direction</div><div>* mdbg.net</div>	Encountered
+熔炉	rónglú<div>smelting furnace, forge</div>	Encountered
+题材	tícái<div>- subject matter, topic</div>	Encountered
+寄生虫	jìshēngchóng<div>- parasite (biology)</div><div>- freeloader</div>	Encountered
+兽	shòu<div>- bestial, beastly</div><div>- animal, beast</div>	Encountered
+寄生	jìshēng<div>- parasitic, parasitism, to live in/on another as parasite or by taking advantage of others</div><div><br></div><div>* mdbg.net</div>	Encountered
+<div><div><div><div><div>卷福</div></div></div></div></div>	juǎnfú<div>Benedict Cumberbatch (name is related to his curly hair)</div>	Encountered
+卷	juǎn<div>- (measure word for small rolled things like money or film)</div><div>- to roll up, to sweep up, to carry</div><div><br></div><div>juàn</div><div>- scroll, book, volume, chapter, exam paper</div><div>- (measure word for books, paintings)</div><div><br></div><div>*mdbg.net</div>	Encountered
+福	fú<div>- good fortune, happiness, or luck</div><div>- abbreüiation for Fujian</div><div>- a surname</div><div><br></div><div>*mdbg.net</div>	Encountered
+自然卷	zìránjuǎn<div>naturally curly hair</div>	Encountered
+超	chāo<div>- to exceed, overtake, surpass, pass, cross, or transcend</div><div>- (prefix) ultra-, super-</div><div><br></div><div>*mdbg.net</div>	Encountered
 病人	bìngrén<div>patient (i.e., doctor's patient)</div>	B2-L15-Seeing-A-Doctor
 病	bìng<div>- illness</div><div>- to get sick</div>	B2-L15-Seeing-A-Doctor
 医院	yīyuàn<div>hospital</div>	B2-L15-Seeing-A-Doctor
@@ -701,3 +701,86 @@
 懒	lǎn<div>lazy</div>	B2-L15-Seeing-A-Doctor
 再说	zàishuō<div>moreover</div>	B2-L15-Seeing-A-Doctor
 乱	luàn<div>randomly, arbitrarily, messily</div>	B2-L15-Seeing-A-Doctor
+折扣	zhékòu<div>discount</div>	B2-L15-Seeing-A-Doctor
+单身狗	"dānshēngǒu<div>single person (Internet slang, literally ""single dog"")</div>"	B2-L15-Seeing-A-Doctor
+单身	dānshēn<div>unmarried/single</div>	B2-L15-Seeing-A-Doctor
+花粉	huāfěn<div>pollen (e.g., plant pollen)</div>	B2-L15-Seeing-A-Doctor
+咳嗽	késou<div>to cough</div>	B2-L15-Seeing-A-Doctor
+流鼻涕	liúbítì<div>to have a runny nose</div>	B2-L15-Seeing-A-Doctor
+打喷嚏	dǎ pēntì<div>to sneeze</div>	B2-L15-Seeing-A-Doctor
+巧克力	qiǎokèlì<div>chocolate</div>	B2-L15-Seeing-A-Doctor
+宝宝	bǎobao<div>baby</div>	B2-L15-Seeing-A-Doctor
+拉肚子	lādùzi<div>to have diarrhea (colloquial)</div>	B2-L15-Seeing-A-Doctor
+兴趣	xìngqù<div>- interest (desire to know about something, thing which one is interested in)</div><div>- hobby</div>	B2-L15-Seeing-A-Doctor B2-L17-Renting-An-Apartment
+流感季	liúgǎnjì<div>flu season</div>	B2-L15-Seeing-A-Doctor
+音量	yīnliàng<div>sound volume</div>	B2-L15-Seeing-A-Doctor
+热闹	rènao<div>bustling with noise and excitement, lively</div><div><br></div><div>*mdbg.net</div>	B2-L15-Seeing-A-Doctor
+马上	mǎshàng<div>- right away, immediately (赶快）</div><div>- on a horse</div>	B2-L15-Seeing-A-Doctor
+味道	wèidao<div>taste (as a noun, as 我喜欢这种的wèidao)</div>	B2-L15-Seeing-A-Doctor
+吃起来	chīqǐlái<div>to taste or start eating (verb)</div>	B2-L15-Seeing-A-Doctor
+书包	shūbāo<div>bag (noun - e.g., my bag of things)</div>	B2-L15-Seeing-A-Doctor
+钱包	qiánbāo<div>wallet （noun)</div>	B2-L15-Seeing-A-Doctor
+用坏	yònghuài<div>to break/wear out while using (e.g., 把手机yònghuài了）</div>	B2-L15-Seeing-A-Doctor
+院	yuàn<div>courtyard, institution</div><div><br></div><div>*mdbg.net</div>	B2-L15-Seeing-A-Doctor
+减肥	jiǎnféi<div>to lose weight</div>	B2-L18-Sports
+下载	xiàzǎi<div>download (e.g., from Internet)</div>	B2-L18-Sports
+星星	xīngxīng<div>star(s) [the ones in the sky]</div>	B2-L18-Sports
+空着手	kōngzheshǒu<div>empty-handed</div>	B2-L18-Sports
+压坏	yāhuài<div>to crush</div>	B2-L18-Sports
+压	yā<div>- to press, to push down, to keep under control</div><div>- pressure</div>	B2-L18-Sports
+压死	yāsǐ<div>to crush to death</div>	B2-L18-Sports
+弄脏	nòngzāng<div>to make dirty, to smear, to defile</div><div>*mdbg.net</div>	B2-L18-Sports
+弄乱	nòngluàn<div>to mess up, to put into disorder, to meddle with, to confuse</div><div>* mdbg.net</div>	B2-L18-Sports
+同	tóng<div>same (adj)</div>	B2-L16-Dating
+印象	yìnxiàng<div>impression (i.e., make a good or bad impression)</div>	B2-L16-Dating
+成	chéng<div>to become</div><div><br></div><div>他们chéng了好朋友</div>	B2-L16-Dating
+演	yǎn<div>to show (a film), to perform</div><div><br></div><div>这个周末学校 yǎn 一个电影</div>	B2-L16-Dating
+费	fèi<div>- to spend or to take [effort] (verb)</div><div>- fee, expenses (noun)</div><div><br></div><div>我 fèi 了很大的力气才买到</div>	B2-L16-Dating
+力气	lìqi<div>strength, effort (noun)</div><div><br></div><div>我费了很大的 lìqi 才买到</div>	B2-L16-Dating
+俩	"liǎ<div>colloq. way of saying ""two"" objects (liǎngge)</div>"	B2-L16-Dating
+后天	hòutiān<div>the day after tomorrow; परसुं; परसों</div>	B2-L16-Dating
+一言为定	yìyánwéidìng<div>that settles it; that's settled; it's decided</div>	B2-L16-Dating
+记得	jìde<div>to remember</div>	B2-L16-Dating
+记	jì<div>to record</div>	B2-L16-Dating
+想起来	xiǎng qi lai<div>to remember; to recall</div>	B2-L16-Dating
+号码	hàomǎ<div>number (noun)</div><div><br></div><div>e.g., 电hàomǎ = phone number</div>	B2-L16-Dating
+搬	bān<div>to move (e.g., to move homes)</div><div><br></div><div>- 我要宿舍 bān 出去</div><div>- 我 bān 家</div>	B2-L16-Dating
+打扫	dǎsǎo<div>to clean up (a room, apartment, house)</div>	B2-L16-Dating
+扫	sǎo<div>to sweep</div>	B2-L16-Dating
+整理	zhěnglǐ<div>to put in order</div><div><br></div><div>e.g., zhěnglǐ 房间</div>	B2-L16-Dating
+房间	fángjiān<div>a room (e.g., dorm room, room in house)</div>	B2-L16-Dating
+旅行	lǚxíng<div>to travel</div>	B2-L16-Dating
+吵	chǎo<div>- to quarrel</div><div>- noisy</div>	B2-L17-Renting-An-Apartment
+连。。。都/也。。。	lián...dōu/yě...<div>- even (preposition)</div><div>Used as an intensifier</div><div><br></div><div>- 那个孩子很聪明，lián韩语都会说。</div><div>- 我的房间里 lián 一件家具也没有。</div>	B2-L17-Renting-An-Apartment
+做饭	zuòfàn<div>to cook or prepare a meal</div>	B2-L17-Renting-An-Apartment
+报纸	bàozhǐ<div>newspaper</div>	B2-L17-Renting-An-Apartment
+广告	guǎnggào<div>advertisement</div>	B2-L17-Renting-An-Apartment
+附近	fùjìn<div>vicinity; neighborhood; nearby area</div>	B2-L17-Renting-An-Apartment
+套	tào<div>- (measure word for things that come in a set / sets)</div>	B2-L17-Renting-An-Apartment
+公寓	gōngyù<div>apartment</div>	B2-L17-Renting-An-Apartment
+走路	zǒulù<div>to walk (verb object)</div>	B2-L17-Renting-An-Apartment
+分钟	fēnzhōng<div>a minute (of time)</div>	B2-L17-Renting-An-Apartment
+卧室	wòshì<div>bedroom</div>	B2-L17-Renting-An-Apartment
+厨房	chúfáng<div>kitchen</div>	B2-L17-Renting-An-Apartment
+卫生间	wèishēngjiān<div>bathroom</div>	B2-L17-Renting-An-Apartment
+客厅	kètīng<div>living room</div>	B2-L17-Renting-An-Apartment
+家具	jiājù<div>furniture</div>	B2-L17-Renting-An-Apartment
+可能	kěnéng<div>may; possible (mv/adj)</div>	B2-L17-Renting-An-Apartment
+一房一听	yìfángyìtīng<div>one bedroom and one living room</div>	B2-L17-Renting-An-Apartment
+椅子	yǐzi<div>chair</div>	B2-L17-Renting-An-Apartment
+书架	shūjià<div>bookcase, bookshelf</div>	B2-L17-Renting-An-Apartment
+那里	nàli<div>there</div>	B2-L17-Renting-An-Apartment
+安静	ānjìng<div>quiet (adj)</div>	B2-L17-Renting-An-Apartment
+房租	fángzū<div>rent (noun)</div><div><br></div><div>每个鱼月 fángzū 多少钱?</div>	B2-L17-Renting-An-Apartment
+元	yuán<div>(measure word for basic Chinese monetary unit)</div>	B2-L17-Renting-An-Apartment
+美元	Měiyuán<div>American dollar (USD)</div>	B2-L17-Renting-An-Apartment
+人民币	Rénmínbì<div>Chinese currency, RMB</div>	B2-L17-Renting-An-Apartment
+人民	rénmín<div>the people (noun)</div>	B2-L17-Renting-An-Apartment
+币	bì<div>currency (noun)</div>	B2-L17-Renting-An-Apartment
+差不多	chàbuduō<div>- almost, nearly (adverb)</div><div>- similar (adjective)</div>	B2-L17-Renting-An-Apartment
+押金	yājīn<div>security deposit</div>	B2-L17-Renting-An-Apartment
+当	dāng<div>to serve as, to be</div><div><br></div><div>要多付一个月的房租 dāng 押金</div>	B2-L17-Renting-An-Apartment
+另外	lìngwài<div>furthermore; in addition (conjunction)</div>	B2-L17-Renting-An-Apartment
+准	zhǔn<div>to allow, to be allowed</div>	B2-L17-Renting-An-Apartment
+养	yǎng<div>to raise (e.g., a pet)</div><div><br></div><div>你想 yǎng 什么宠物？</div>	B2-L17-Renting-An-Apartment
+宠物	chǒngwù<div>pet [i.e., an animal as a pet] (noun)</div>	B2-L17-Renting-An-Apartment
