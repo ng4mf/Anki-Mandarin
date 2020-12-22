@@ -13,9 +13,9 @@ This repository will be updated over time to include more of the vocabulary from
 ## Labeling of Tags in the Decks
 
 Labels are according to the following format:
-B1 --> Integrated Chinese, Book 1
-B2 --> Integrated Chinese, Book 2
-B3 --> A New Chinese, Revised Edition
+* B1 --> Integrated Chinese, Book 1
+* B2 --> Integrated Chinese, Book 2
+* B3 --> A New Chinese, Revised Edition
 
 Lessons are numbered according to the respective textbook and characters are tagged as "B2-L1-Lesson-Name", indicating Book 2, Lesson 1, Lesson Name.
 
