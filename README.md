@@ -10,6 +10,17 @@ The apkg version should, at least, include two versions: one with front side bei
 
 This repository will be updated over time to include more of the vocabulary from the linked textbooks.
 
+## Labeling of Tags in the Decks
+
+Labels are according to the following format:
+* B1 --> Integrated Chinese, Book 1
+* B2 --> Integrated Chinese, Book 2
+* B3 --> A New China, Revised Edition
+
+Lessons are numbered according to the respective textbook and characters are tagged as "B2-L1-Lesson-Name", indicating Book 2, Lesson 1, Lesson Name.
+
+There is a separate tag called "Encountered" which are words not necessarily in the textbooks, but encountered in talking/writing or otherwise engaging with Mandarin speakers, text, or video. Words not in the text but presented as supplemental material to a text are tagged with the lesson they were supplemental material for.
+
 ## Merging future updates
 ### Option 1
 When you first install the deck, rename it to something else. Then, when you wish to install an update, import the updated deck with it's original name. Go to Browse, located near the top-center of the UI. Here, you can see all the cards. Click on the deck you just imported. Select all the new cards you want to import to your renamed deck. Right click and then select "Change deck".
