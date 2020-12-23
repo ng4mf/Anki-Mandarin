@@ -483,7 +483,7 @@
 勺子	shāozi<div>spoon</div>	B2-L12-Dining
 刀子	dāozi<div>knife</div>	B2-L12-Dining
 书桌	shūzhuō<div>desk</div>	B2-L12-Dining B2-L17-Renting-An-Apartment
-饭桌	fànzhuō<div>dining table</div>	B2-L12-Dining B2-L17-Renting-An-Apartment C
+饭桌	fànzhuō<div>dining table</div>	B2-L12-Dining B2-L17-Renting-An-Apartment
 菜刀	càidāo<div>kitchen knife</div>	B2-L12-Dining
 茶馆	cháguǎn<div>tea house</div>	B2-L12-Dining
 酸雨	suānyǔ<div>acid rain</div>	B2-L12-Dining
@@ -499,7 +499,7 @@
 误	wù<div>mistake, error, to miss, to harm, to delay, mistakenly</div>	Encountered
 流利	liúlì<div>fluent (e.g., speaking fluently)</div>	Encountered
 设定	shèdìng<div>to set, to set up, to install, setting, preferences</div>	Encountered
-被	bèi<div>quilt, by, to coüer, (indicate passiüe-üoice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	Encountered
+被	bèi<div>quilt, by, to cover, (indicate passive-voice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	B2-L18-Sports Encountered
 了解	liǎojiě<div>to understand, to realize, to find out</div>	Encountered
 内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	Encountered
 期中	qīzhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qīzhōng 报告<br></div>	Encountered
@@ -784,3 +784,34 @@
 准	zhǔn<div>to allow, to be allowed</div>	B2-L17-Renting-An-Apartment
 养	yǎng<div>to raise (e.g., a pet)</div><div><br></div><div>你想 yǎng 什么宠物？</div>	B2-L17-Renting-An-Apartment
 宠物	chǒngwù<div>pet [i.e., an animal as a pet] (noun)</div>	B2-L17-Renting-An-Apartment
+当然	dāngrán<div>of course (adverb)</div><div><br></div><div>你平常吃那么多，dāngrán 越来越胖了</div>	L18-Sports
+胖	pàng<div>fat (adjective)</div>	L18-Sports
+怕	pà<div>to fear, to be afraid of (verb)</div>	L18-Sports
+简单	jiǎndān<div>simple (adjective)</div>	L18-Sports
+跑步	pǎobù<div>to jog (verb-object)</div>	L18-Sports
+跑	pǎo<div>to run (verb)</div>	L18-Sports
+难受	nánshòu<div>hard to bear, uncomfortable</div><div>[separate the nán and shòu for logical separation, based on grammar point in lesson]</div>	L18-Sports
+网球	wǎngqiú<div>tennis [the sport] (noun)</div>	L18-Sports
+拍	pāi<div>racket (noun)</div>	L18-Sports
+篮球	lánqiú<div>basketball (noun)</div>	L18-Sports
+游泳	yóuyǒng<div>to swim (verb-object)</div>	L18-Sports
+危险	wēixiǎn<div>dangerous (adjective)</div>	L18-Sports
+淹死	yānsǐ<div>to drown (verb complement)</div>	L18-Sports
+愿意	yuànyì<div>to be willing (modal verb)</div>	L18-Sports
+上大学	shàng dàxué<div>to attend college / university (verb object)</div>	L18-Sports
+为了	wèile<div>for the sake of (preposition)</div>	L18-Sports
+提高	tígāo<div>to improve, to raise, to heighten (verb)</div>	L18-Sports
+水平	shuǐpíng<div>level, standard (noun)</div>	L18-Sports
+足球	zúqiú<div>soccer, football (noun)</div>	L18-Sports
+比赛	bǐsài<div>- game, match, competition (noun)</div><div>- to compete (verb)</div>	L18-Sports
+国际	guójì<div>international (adjective)</div>	L18-Sports
+美式	Měishì<div>American-style (adjective)</div>	L18-Sports
+应该	yīnggāi<div>should, ought to (modal verb)</div>	L18-Sports
+脚	jiǎo<div>foot (noun)</div>	L18-Sports
+踢	tī<div>to kick (verb)</div>	L18-Sports
+手	shǒu<div>hand [body part] (noun)</div>	L18-Sports
+抱	bào<div>to hold or carry in arms (verb)</div>	L18-Sports
+担心	dānxīn<div>to worry (verb object)</div>	L18-Sports
+棒	bàng<div>fantastic, super [colloquial] (adjective)</div>	L18-Sports
+运动服	yùndòngfú<div>sportswear, athletic clothing (noun)</div>	L18-Sports
+半天	bàntiān<div>half a day, a long time</div>	L18-Sports
