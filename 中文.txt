@@ -371,7 +371,7 @@
 打车	dǎchē<div>to take taxi</div>	B1-L10-Transportation
 出租汽车	chūzūqìchē<div>taxi</div>	B1-L10-Transportation
 出租	chūzū<div>to rent out, to let</div>	B1-L10-Transportation B2-L17-Renting-An-Apartment
-租	zū<div>to rent</div>	B1-L10-Transportation
+租	zū<div>to rent (verb)</div>	B1-L10-Transportation B2-L19-Travel
 开车	kāichē<div>to drive a car</div>	B1-L10-Transportation
 送	sòng<div>- to see off or out, to take (someone somewhere)</div><div>- to give as a gift</div>	B1-L10-Transportation B2-L14-Birthday-Party
 电子邮件	diànzǐyóujiàn<div>email</div>	B1-L10-Transportation
@@ -433,7 +433,7 @@
 素	"sù<div>vegetarian (literally translation is ""plain"")</div>"	B2-L12-Dining
 家常	jiācháng<div>home-style</div>	B2-L12-Dining
 豆腐	dòufu<div>tofu, bean curd</div>	B2-L12-Dining
-放	fàng<div>to put, to place</div>	B2-L12-Dining
+放	fàng<div>- to put, to place</div><div>- to let go, to set free</div>	B2-L12-Dining B2-L19-Travel
 肉	ròu<div>meat</div>	B2-L12-Dining
 碗	wǎn<div>bowl</div>	B2-L12-Dining
 酸辣汤	suānlàtāng<div>hot-and-sour soup</div>	B2-L12-Dining
@@ -475,7 +475,7 @@
 没关系	méiguānxi<div>it doesn't matter</div>	B2-L12-Dining
 上海	Shànghǎi<div>Shanghai</div>	B2-L12-Dining
 关系	guānxi<div>relation, relationship, to concern, to affect, to have to do with</div>	B2-L12-Dining
-份	fèn<div>one order of (e.g., food. 来一fèn饺子, 两份samosa）</div>	B2-L12-Dining
+份	fèn<div>- one order of (e.g., food. 来一fèn饺子, 两份samosa</div>	B2-L12-Dining B2-L19-Travel
 咸	xián<div>salty</div>	B2-L12-Dining
 筷子	kuàizi<div>chopsticks</div>	B2-L12-Dining
 叉子	chāzi<div>fork</div>	B2-L12-Dining
@@ -715,7 +715,7 @@
 流感季	liúgǎnjì<div>flu season</div>	B2-L15-Seeing-A-Doctor
 音量	yīnliàng<div>sound volume</div>	B2-L15-Seeing-A-Doctor
 热闹	rènao<div>bustling with noise and excitement, lively</div><div><br></div><div>*mdbg.net</div>	B2-L15-Seeing-A-Doctor
-马上	mǎshàng<div>- right away, immediately (赶快）</div><div>- on a horse</div>	B2-L15-Seeing-A-Doctor
+马上	mǎshàng<div>- right away, immediately (赶快）</div><div>- on a horse</div>	B2-L15-Seeing-A-Doctor B2-L19-Travel
 味道	wèidao<div>taste (as a noun, as 我喜欢这种的wèidao)</div>	B2-L15-Seeing-A-Doctor
 吃起来	chīqǐlái<div>to taste or start eating (verb)</div>	B2-L15-Seeing-A-Doctor
 书包	shūbāo<div>bag (noun - e.g., my bag of things)</div>	B2-L15-Seeing-A-Doctor
@@ -815,3 +815,40 @@
 棒	bàng<div>fantastic, super [colloquial] (adjective)</div>	L18-Sports
 运动服	yùndòngfú<div>sportswear, athletic clothing (noun)</div>	L18-Sports
 半天	bàntiān<div>half a day, a long time</div>	L18-Sports
+放假	fàngjià<div>to go on vacation, to have time off</div>	B2-L19-Travel
+假	jià<div>vacation, holiday (noun)</div>	B2-L19-Travel
+公司	gōngsī<div>- company [i.e., enterprise engaged in some business] (noun)</div>	B2-L19-Travel
+实习	shíxí<div>to intern (verb)</div>	B2-L19-Travel
+打工	dǎgōng<div>to work at a temporary job [often part-time] (verb-object)</div>	B2-L19-Travel
+计划	jìhuà<div>- plan (noun)</div><div>- to plan (verb)</div>	B2-L19-Travel
+暑假	shǔjià<div>summer vacation (noun)</div>	B2-L19-Travel
+打算	dǎsuàn<div>- to plan (verb)</div><div>- plan (noun)</div>	B2-L19-Travel
+父母	fùmǔ<div>parents [literally, father mother] (noun)</div>	B2-L19-Travel
+首都	shǒudū<div>capital city (noun)</div>	B2-L19-Travel
+政治	zhèngzhì<div>politics (noun)</div>	B2-L19-Travel
+文化	wénhuà<div>culture (noun)</div>	B2-L19-Travel
+名胜古迹	míngshèng gǔjì<div>famous scenic spots and historic sites</div>	B2-L19-Travel
+有名	yǒumíng<div>famous, well-known (adjective)</div>	B2-L19-Travel
+导游	dǎoyóu<div>tour guide (noun)</div>	B2-L19-Travel
+护照	hùzhào<div>passport (noun)</div>	B2-L19-Travel
+签证	qiānzhèng<div>visa (noun)</div>	B2-L19-Travel
+旅行社	lǚxíngshè<div>travel agency (noun)</div>	B2-L19-Travel
+订	dìng<div>to reserve or book [hotel room, ticket, etc.] (verb)</div>	B2-L19-Travel
+长城	Chāngchéng<div>Great Wall (proper noun)</div>	B2-L19-Travel
+香港	Xiānggǎng<div>Hong Kong (proper noun)</div>	B2-L19-Travel
+台北	Táiběi<div>Taipei [the city] (proper noun)</div>	B2-L19-Travel
+初	chū<div>beginning (noun)</div>	B2-L19-Travel
+单程	dānchéng<div>one-way trip (noun)</div>	B2-L19-Travel
+往返	wǎngfǎn<div>make a round trip, go there and back (verb)</div>	B2-L19-Travel
+航空	hángkōng<div>aviation (noun)</div>	B2-L19-Travel
+查	chá<div>to check, to look into (verb)</div>	B2-L19-Travel
+航班	hángbān<div>scheduled flight (noun)</div>	B2-L19-Travel
+千	qiān<div>one thousand</div>	B2-L19-Travel
+直飞	zhífēi<div>fly directly</div>	B2-L19-Travel
+打折	dǎzhé<div>to sell at a discount, to give a discount (verb-object)</div>	B2-L19-Travel
+转机	zhuǎnjī<div>to change planes (verb-object)</div>	B2-L19-Travel
+靠	kào<div>to lean on, to lean against, to be next to (verb)</div>	B2-L19-Travel
+窗户	chuānghu<div>window (noun)</div>	B2-L19-Travel
+走道	zǒudào<div>aisle (noun)</div>	B2-L19-Travel
+素餐	sùcān<div>vegetarian meal (noun)</div>	B2-L19-Travel
+旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel
