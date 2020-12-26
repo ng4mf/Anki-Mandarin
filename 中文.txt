@@ -21,7 +21,7 @@
 高	gāo<div>- tall, high</div><div>- also a family name</div>	B1-L2-Family
 家	jiā<div>family, home</div>	B1-L2-Family
 几	jǐ<div>how many, some, a few</div>	B1-L2-Family
-口	kǒu<div>- measure word for num. family members</div>- measure word for bites of food<div>- mouth<br></div>	B1-L2-Family
+口	kǒu<div>- measure word for num. family members</div>- measure word for bites of food<div>- mouth<br></div>	B1-L2-Family B2-L20-At-The-Airport
 哥哥	gēge<div>older brother</div>	B1-L2-Family
 两	<div>liǎng</div>two, a couple of (used for objects, as opposed to 二）	B1-L2-Family
 妹妹	mèimei<div>younger sister</div>	B1-L2-Family
@@ -658,7 +658,7 @@
 卷	juǎn<div>- (measure word for small rolled things like money or film)</div><div>- to roll up, to sweep up, to carry</div><div><br></div><div>juàn</div><div>- scroll, book, volume, chapter, exam paper</div><div>- (measure word for books, paintings)</div><div><br></div><div>*mdbg.net</div>	Encountered
 福	fú<div>- good fortune, happiness, or luck</div><div>- abbreüiation for Fujian</div><div>- a surname</div><div><br></div><div>*mdbg.net</div>	Encountered
 自然卷	zìránjuǎn<div>naturally curly hair</div>	Encountered
-超	chāo<div>- to exceed, overtake, surpass, pass, cross, or transcend</div><div>- (prefix) ultra-, super-</div><div><br></div><div>*mdbg.net</div>	Encountered
+超	chāo<div>- to exceed, overtake, surpass, pass, cross, or transcend</div><div>- (prefix) ultra-, super-</div><div><br></div><div>*mdbg.net</div>	B2-L20-At-The-Airport Encountered
 病人	bìngrén<div>patient (i.e., doctor's patient)</div>	B2-L15-Seeing-A-Doctor
 病	bìng<div>- illness</div><div>- to get sick</div>	B2-L15-Seeing-A-Doctor
 医院	yīyuàn<div>hospital</div>	B2-L15-Seeing-A-Doctor
@@ -852,3 +852,33 @@
 走道	zǒudào<div>aisle (noun)</div>	B2-L19-Travel
 素餐	sùcān<div>vegetarian meal (noun)</div>	B2-L19-Travel
 旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel
+行李	xíngli<div>luggage (noun)</div>	B2-L20-At-The-Airport
+托运	tuōyùn<div>to check [luggage] (verb)</div>	B2-L20-At-The-Airport
+包	bāo<div>bag, sack, bundle, package (noun)</div>	B2-L20-At-The-Airport
+箱子	xiāngzi<div>suitcase, box (noun)</div>	B2-L20-At-The-Airport
+超重	chāozhòng<div>to be verweight [of luggage, freight, etc.] (verb)</div>	B2-L20-At-The-Airport
+登机牌	dēngjīpái<div>boarding pass (noun)</div>	B2-L20-At-The-Airport
+牌	pái<div>plate, tablet, card (noun)</div>	B2-L20-At-The-Airport
+登机口	dēngjīkǒu<div>boarding gate [e.g., for airplane] (noun)</div>	B2-L20-At-The-Airport
+哭	kù<div>to cry, to weep (verb)</div>	B2-L20-At-The-Airport
+地	de<div>sentence particle to link adverbial and verb [in English, the 'ly' ending is similar] (particle)</div>	B2-L20-At-The-Airport
+照顾	zhàogu<div>to look after, to care for, to attend to (verb)</div>	B2-L20-At-The-Airport
+起飞	qǐfēi<div>to take off [for an airplane] (verb)</div>	B2-L20-At-The-Airport
+小心	xiǎoxīn<div>to be careful (verb)</div>	B2-L20-At-The-Airport
+一路聘干	yílù píng'ān<div>have a good trip, bon voyage</div>	B2-L20-At-The-Airport
+叔叔	shūshu<div>uncle [चाचा, काका, father's younger brother] (noun)</div>	B2-L20-At-The-Airport
+阿姨	āyí<div>मासी, mother's sister (noun)</div>	B2-L20-At-The-Airport
+欢迎	huānyíng<div>to welcome (verb)</div>	B2-L20-At-The-Airport
+瘦	shòu<div>thin, skinny, lean (adjective)</div>	B2-L20-At-The-Airport
+爷爷	yéye<div>दादा, paternal grandfather</div>	B2-L20-At-The-Airport
+奶奶	nǎinai<div>दादी, paternal grandmother</div>	B2-L20-At-The-Airport
+烤鸭	kǎoyā<div>roast duck (noun)</div>	B2-L20-At-The-Airport
+首都机场	Shǒudū Jīchǎng<div>Capital Airport [i.e., the Beijing capital airport]</div>	B2-L20-At-The-Airport
+外公	wàigōng<div>नाना, maternal grandfather [said in south]</div>	B2-L20-At-The-Airport
+外婆	wàipó<div>नानी, maternal grandmother</div>	B2-L20-At-The-Airport
+伯伯	bóbo<div>ताउजी, father's older brother</div>	B2-L20-At-The-Airport
+大妈	dàmā<div>ताइजी, father's older brother's wife</div>	B2-L20-At-The-Airport
+婶婶	shěnshen<div>चाची, father's younger brother's wife</div>	B2-L20-At-The-Airport
+姑姑	gūgu<div>बुआ, father's sister</div>	B2-L20-At-The-Airport
+姑父	gūfù<div>फुफासा, father's sister's husband</div>	B2-L20-At-The-Airport
+姨父	<div>yiífu</div>मासोसा, mother's sister's husband	B2-L20-At-The-Airport
