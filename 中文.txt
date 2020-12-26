@@ -876,8 +876,8 @@
 首都机场	Shǒudū Jīchǎng<div>Capital Airport [i.e., the Beijing capital airport]</div>	B2-L20-At-The-Airport
 外公	wàigōng<div>नाना, maternal grandfather [said in south]</div>	B2-L20-At-The-Airport
 外婆	wàipó<div>नानी, maternal grandmother</div>	B2-L20-At-The-Airport
-伯伯	bóbo<div>ताउजी, father's older brother</div>	B2-L20-At-The-Airport
-大妈	dàmā<div>ताइजी, father's older brother's wife</div>	B2-L20-At-The-Airport
+伯伯	bóbo<div>ताऊजी, father's older brother</div>	B2-L20-At-The-Airport
+大妈	dàmā<div>ताईजी, father's older brother's wife</div>	B2-L20-At-The-Airport
 婶婶	shěnshen<div>चाची, father's younger brother's wife</div>	B2-L20-At-The-Airport
 姑姑	gūgu<div>बुआ, father's sister</div>	B2-L20-At-The-Airport
 姑父	gūfù<div>फुफासा, father's sister's husband</div>	B2-L20-At-The-Airport
