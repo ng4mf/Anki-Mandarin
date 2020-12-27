@@ -777,7 +777,7 @@
 人民币	Rénmínbì<div>Chinese currency, RMB</div>	B2-L17-Renting-An-Apartment
 人民	rénmín<div>the people (noun)</div>	B2-L17-Renting-An-Apartment
 币	bì<div>currency (noun)</div>	B2-L17-Renting-An-Apartment
-差不多	chàbuduō<div>- almost, nearly (adverb)</div><div>- similar (adjective)</div>	B2-L17-Renting-An-Apartment
+差不多	chàbuduō<div>- almost, nearly (adverb)</div><div>- similar (adjective)</div>	B2-L17-Renting-An-Apartment B3-L1
 押金	yājīn<div>security deposit</div>	B2-L17-Renting-An-Apartment
 当	dāng<div>to serve as, to be</div><div><br></div><div>要多付一个月的房租 dāng 押金</div>	B2-L17-Renting-An-Apartment
 另外	lìngwài<div>furthermore; in addition (conjunction)</div>	B2-L17-Renting-An-Apartment
@@ -804,14 +804,14 @@
 水平	shuǐpíng<div>level, standard (noun)</div>	L18-Sports
 足球	zúqiú<div>soccer, football (noun)</div>	L18-Sports
 比赛	bǐsài<div>- game, match, competition (noun)</div><div>- to compete (verb)</div>	L18-Sports
-国际	guójì<div>international (adjective)</div>	L18-Sports
+国际	guójì<div>international (adjective)</div>	B2-L18-Sports B3-L1
 美式	Měishì<div>American-style (adjective)</div>	L18-Sports
 应该	yīnggāi<div>should, ought to (modal verb)</div>	L18-Sports
 脚	jiǎo<div>foot (noun)</div>	L18-Sports
 踢	tī<div>to kick (verb)</div>	L18-Sports
 手	shǒu<div>hand [body part] (noun)</div>	L18-Sports
 抱	bào<div>to hold or carry in arms (verb)</div>	L18-Sports
-担心	dānxīn<div>to worry (verb object)</div>	L18-Sports
+担心	dānxīn<div>to worry (verb object)</div>	B2-L18-Sports B3-L1
 棒	bàng<div>fantastic, super [colloquial] (adjective)</div>	L18-Sports
 运动服	yùndòngfú<div>sportswear, athletic clothing (noun)</div>	L18-Sports
 半天	bàntiān<div>half a day, a long time</div>	L18-Sports
@@ -824,7 +824,7 @@
 暑假	shǔjià<div>summer vacation (noun)</div>	B2-L19-Travel
 打算	dǎsuàn<div>- to plan (verb)</div><div>- plan (noun)</div>	B2-L19-Travel
 父母	fùmǔ<div>parents [literally, father mother] (noun)</div>	B2-L19-Travel
-首都	shǒudū<div>capital city (noun)</div>	B2-L19-Travel
+首都	shǒudū<div>capital city (noun)</div>	B2-L19-Travel B3-L1
 政治	zhèngzhì<div>politics (noun)</div>	B2-L19-Travel
 文化	wénhuà<div>culture (noun)</div>	B2-L19-Travel
 名胜古迹	míngshèng gǔjì<div>famous scenic spots and historic sites</div>	B2-L19-Travel
@@ -841,7 +841,7 @@
 单程	dānchéng<div>one-way trip (noun)</div>	B2-L19-Travel
 往返	wǎngfǎn<div>make a round trip, go there and back (verb)</div>	B2-L19-Travel
 航空	hángkōng<div>aviation (noun)</div>	B2-L19-Travel
-查	chá<div>to check, to look into (verb)</div>	B2-L19-Travel
+查	chá<div>to check, to look into (verb)</div>	B2-L19-Travel B3-L1
 航班	hángbān<div>scheduled flight (noun)</div>	B2-L19-Travel
 千	qiān<div>one thousand</div>	B2-L19-Travel
 直飞	zhífēi<div>fly directly</div>	B2-L19-Travel
@@ -852,7 +852,7 @@
 走道	zǒudào<div>aisle (noun)</div>	B2-L19-Travel
 素餐	sùcān<div>vegetarian meal (noun)</div>	B2-L19-Travel
 旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel
-行李	xíngli<div>luggage (noun)</div>	B2-L20-At-The-Airport
+行李	xíngli<div>luggage (noun)</div>	B2-L20-At-The-Airport B3-L1
 托运	tuōyùn<div>to check [luggage] (verb)</div>	B2-L20-At-The-Airport
 包	bāo<div>bag, sack, bundle, package (noun)</div>	B2-L20-At-The-Airport
 箱子	xiāngzi<div>suitcase, box (noun)</div>	B2-L20-At-The-Airport
@@ -882,3 +882,37 @@
 姑姑	gūgu<div>बुआ, father's sister</div>	B2-L20-At-The-Airport
 姑父	gūfù<div>फुफासा, father's sister's husband</div>	B2-L20-At-The-Airport
 姨父	<div>yiífu</div>मासोसा, mother's sister's husband	B2-L20-At-The-Airport
+<div><div><div><div>你的笑点好低</div></div></div></div>	- someone who laughs too easily<div>- someone who is easygoing, kind</div>	Encountered
+嫂嫂	sǎosao<div>भाभी, elder brother's wife</div>	B2-L20-At-The-Airport
+姐夫	jiěfu<div>जीजाजी, older sister's husband</div>	B2-L20-At-The-Airport
+弟妹	dìmèi<div>भयोजी, younger brother's wife</div>	B2-L20-At-The-Airport
+妹夫	<div>mèifu</div>बहनोईसा, younger sister's husband	B2-L20-At-The-Airport
+堂哥	tánggē<div>छोटा चचेरा भाई, father's brother's son older than you</div>	B2-L20-At-The-Airport
+堂弟	tángdì<div>छोटा चचेरा भाई, father's brother's son younger than you</div>	B2-L20-At-The-Airport
+堂姐	tángjiě<div>बङी चचेरी बहन, father's brother's daughter older than you</div>	B2-L20-At-The-Airport
+堂妹	tángmèi<div>छोटी चचेरी बहन, father's brother's daughter younger than you</div>	B2-L20-At-The-Airport
+表哥	biǎogē<div>non-same-family-name older cousin brother</div>	B2-L20-At-The-Airport
+表弟	biǎodì<div>non-same-family-name younger cousin brother</div>	B2-L20-At-The-Airport
+表妹	biǎomèi<div>non-same-family-name younger cousin sister</div>	B2-L20-At-The-Airport
+儿媳妇	érxífu<div>बहू, son's wife</div>	B2-L20-At-The-Airport
+女婿	nǚxu<div>दामाद, जमाइ, daughter's husband</div>	B2-L20-At-The-Airport
+孙子	sūnzi<div>पोता, son's son</div>	B2-L20-At-The-Airport
+孙女	sūnnǚ<div>पोती, son's daughter</div>	B2-L20-At-The-Airport
+外孙	wàisūn<div>दोहितो, daughter's son</div>	B2-L20-At-The-Airport
+外孙女	wàisūnnǚ<div>दोहिती, daughter's daughter</div>	B2-L20-At-The-Airport
+准时	zhǔnshí<div>punctually, on time (adj/adv)</div>	B3-L1
+降落	jiàngluò<div>land, descend (verb)</div>	B3-L1
+外事处	wàishìchù<div>foreign affairs office (noun)</div>	B3-L1
+派	pài<div>dispatch, send (verb)</div>	B3-L1
+通过	tōngguò<div>pass, pass through, go through (verb)</div>	B3-L1
+海关	hǎiguān<div>customs [e.g., at airport] (noun)</div>	B3-L1
+花花公子	Huāhuā gōngzǐ<div>Playboy [the magazine/company] (proper noun)</div>	B3-L1
+据说	jùshuō<div>it is said, they say (adverb)</div>	B3-L1
+杂志	zázhì<div>magazine [printed booklet] (noun)</div>	B3-L1
+严	yán<div>strict, severe, stern (adjective)</div>	B3-L1
+好在	hǎozài<div>luckily, fortunately (adverb)</div>	B3-L1
+根本	gēnběn<div>utterly, completely, at all [always used for negative connotation] (adverb)</div>	B3-L1
+打开	dǎ//kāi<div>open (verb-complement)</div>	B3-L1
+坐上	zuò//.shàng<div>get on [a vehicle] (verb-complement)</div>	B3-L1
+部	bù<div>measure word for cars or movies (measure word)</div>	B3-L1
+大巴	dàbā<div>large bus (noun)</div>	B3-L1
