@@ -273,7 +273,7 @@
 餐厅	<div>cāntīng</div>dining room, cafeteria	B1-L8-School-Life
 午饭	wǔfàn<div>lunch</div>	B1-L8-School-Life
 上网	shàngwǎng<div>to surf Internet，to go online</div>	B1-L8-School-Life
-宿舍	sùshè<div>dormitory</div>	B1-L8-School-Life
+宿舍	sùshè<div>dormitory</div>	B1-L8-School-Life B3-L1
 那儿	nǎr<div>there</div>	B1-L8-School-Life
 正在	zhèngzài<div>in the middle (of doing something)</div>	B1-L8-School-Life
 以前	yǐqián<div>before</div>	B1-L8-School-Life
@@ -342,7 +342,7 @@
 卡	kǎ<div>card (e.g., credit card)</div>	B1-L9-Shopping
 收	shōu<div>to receive, to accept</div>	B1-L9-Shopping
 信用卡	xìnyòngkǎ<div>credit card</div>	B1-L9-Shopping
-不过	búguò<div>however, but</div>	B1-L9-Shopping
+不过	búguò<div>however, but</div>	B1-L9-Shopping B3-L1
 付钱	fùqián<div>to pay money</div>	B1-L9-Shopping
 付	fù<div>to pay</div>	B1-L9-Shopping
 寒假	hánjià<div>winter vacation</div>	B1-L10-Transportation
@@ -383,7 +383,7 @@
 每	měi<div>every, each</div>	B1-L10-Transportation
 城市	chéngshì<div>city</div>	B1-L10-Transportation
 特别	tèbié<div>especially</div>	B1-L10-Transportation
-高速公路	gāosùgōnglù<div>highway</div>	B1-L10-Transportation
+高速公路	gāosùgōnglù<div>highway</div>	B1-L10-Transportation B3-L1
 高速	gāosù<div>high speed</div>	B1-L10-Transportation
 公路	gōnglù<div>highway, public road</div>	B1-L10-Transportation
 紧张	jǐnzhāng<div>nervous, anxious</div>	B1-L10-Transportation
@@ -419,7 +419,7 @@
 热	rè<div>hot (e.g., hot weather)</div>	B2-L11-Weather
 春天	chūntiān<div>spring (the season)</div>	B2-L11-Weather
 秋天	qiūtiān<div>fall, autumn (the season)</div>	B2-L11-Weather
-舒服	shūfu<div>comfortable</div>	B2-L11-Weather
+舒服	shūfu<div>comfortable</div>	B2-L11-Weather B3-L1
 加州	Jiāzhōu<div>California</div>	B2-L11-Weather
 饭馆	fànguǎn<div>restaurant</div>	B2-L12-Dining
 好像	hǎoxiàng<div>to seem, to be like</div>	B2-L12-Dining
@@ -474,7 +474,7 @@
 清楚	qīngchu<div>clear</div>	B2-L12-Dining
 没关系	méiguānxi<div>it doesn't matter</div>	B2-L12-Dining
 上海	Shànghǎi<div>Shanghai</div>	B2-L12-Dining
-关系	guānxi<div>relation, relationship, to concern, to affect, to have to do with</div>	B2-L12-Dining
+关系	guānxi<div>relation, relationship, to concern, to affect, to have to do with</div>	B2-L12-Dining B3-L1
 份	fèn<div>- one order of (e.g., food. 来一fèn饺子, 两份samosa</div>	B2-L12-Dining B2-L19-Travel
 咸	xián<div>salty</div>	B2-L12-Dining
 筷子	kuàizi<div>chopsticks</div>	B2-L12-Dining
@@ -523,7 +523,7 @@
 拿	ná<div>to take, to get</div>	B2-L13-Asking-Directions
 次	cì<div>(measure word for frequency)</div><div>e.g., 第一 cì</div>	B2-L13-Asking-Directions
 从	cóng<div>from</div>	B2-L13-Asking-Directions
-一直	yìzhí<div>straight, continuously (adü.)</div>	B2-L13-Asking-Directions
+一直	yìzhí<div>straight, continuously (adü.)</div>	B2-L13-Asking-Directions B3-L1
 往	wǎng<div>towards (preposition)</div>	B2-L13-Asking-Directions
 南	nán<div>south (direction)</div>	B2-L13-Asking-Directions
 路口	lùkǒu<div>intersection (of streets or roads or routes, etc.)</div>	B2-L13-Asking-Directions
@@ -674,7 +674,7 @@
 发烧	fāshāo<div>to have a fever</div>	B2-L15-Seeing-A-Doctor
 躺下	tǎngxia<div>to lie down</div>	B2-L15-Seeing-A-Doctor
 躺	tǎng<div>to lie or recline</div>	B2-L15-Seeing-A-Doctor
-检查	jiǎnchá<div>to examine</div>	B2-L15-Seeing-A-Doctor
+检查	jiǎnchá<div>to examine</div>	B2-L15-Seeing-A-Doctor B3-L1
 吃坏	chīhuài<div>to get sick from eating bad food</div>	B2-L15-Seeing-A-Doctor
 坏	huài<div>bad (adjectiüe)</div>	B2-L15-Seeing-A-Doctor
 打针	dǎzhēn<div>to get an injection</div>	B2-L15-Seeing-A-Doctor
@@ -732,7 +732,7 @@
 弄脏	nòngzāng<div>to make dirty, to smear, to defile</div><div>*mdbg.net</div>	B2-L18-Sports
 弄乱	nòngluàn<div>to mess up, to put into disorder, to meddle with, to confuse</div><div>* mdbg.net</div>	B2-L18-Sports
 同	tóng<div>same (adj)</div>	B2-L16-Dating
-印象	yìnxiàng<div>impression (i.e., make a good or bad impression)</div>	B2-L16-Dating
+印象	yìnxiàng<div>impression (i.e., make a good or bad impression)</div>	B2-L16-Dating B3-L1
 成	chéng<div>to become</div><div><br></div><div>他们chéng了好朋友</div>	B2-L16-Dating
 演	yǎn<div>to show (a film), to perform</div><div><br></div><div>这个周末学校 yǎn 一个电影</div>	B2-L16-Dating
 费	fèi<div>- to spend or to take [effort] (verb)</div><div>- fee, expenses (noun)</div><div><br></div><div>我 fèi 了很大的力气才买到</div>	B2-L16-Dating
@@ -916,3 +916,20 @@
 坐上	zuò//.shàng<div>get on [a vehicle] (verb-complement)</div>	B3-L1
 部	bù<div>measure word for cars or movies (measure word)</div>	B3-L1
 大巴	dàbā<div>large bus (noun)</div>	B3-L1
+松	sōng<div>loose; slack (adjective)</div>	B3-L1
+城里	chénglǐ<div>within the city; downtown (place word)</div>	B3-L1
+宽	kuān<div>wide, broad (adjective)</div>	B3-L1
+平	píng<div>flat, smooth, level (adj)</div>	B3-L1
+现代化	xiàndàihuà<div>- moden (adj)</div><div>- modernization (noun)</div>	B3-L1
+想象	xiǎngxiàng<div>- imagine (verb)</div><div>- imagination (noun)</div>	B3-L1
+古老	gǔlǎo<div>anciant, age-old (adj)</div>	B3-L1
+兴奋	xīngfèn<div>excited (adj)</div>	B3-L1
+时差	shíchā<div>jet lag; time difference (noun)</div>	B3-L1
+睡着	shuì//zháo<div>fall asleep (verb-complement)</div>	B3-L1
+一切	yíqiè<div>all, every, everything [usually followed by 都] (noun)</div>	B3-L2
+顺利	shùnlì<div>smooth, successful (adj)</div>	B3-L2
+放心	fàng//xīn<div>set one's mind at rest, to feel at east or relieved (verb-object)</div>	B3-L2
+单人间	dānrénjiān<div>single room [e.g., at hotel] (noun)</div>	B3-L2
+双人间	shuāng rén jiān<div>double room [e.g., a hotel room] (noun)</div>	B3-L2
+同屋	tóngwū<div>roommate (noun)</div>	B3-L2
+谈得来	tán .de lái<div>- get along well (verb complement)</div><div>- negative: tán 不 lái</div><div><br></div><div>我跟她很 tán .de lái。</div>	B3-L2
