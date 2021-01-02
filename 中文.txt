@@ -510,7 +510,7 @@
 场	chǎng<div>field (e.g., sports field)</div>	B2-L13-Asking-Directions
 旁边	pángbiān<div>side (this side, that side, etc.)</div>	B2-L13-Asking-Directions
 远	yuǎn<div>far</div>	B2-L13-Asking-Directions
-离	lí<div>away from</div>	B2-L13-Asking-Directions
+离	lí<div>away from</div>	B2-L13-Asking-Directions B3-L2
 活动	huódòng<div>actiüity</div>	B2-L13-Asking-Directions
 中间	zhōngjiān<div>middle</div>	B2-L13-Asking-Directions
 书店	shūdiàn<div>bookstore</div>	B2-L13-Asking-Directions
@@ -624,7 +624,7 @@
 曾祖母	zēngzǔmǔ<div>paternal great grandmother</div>	B2-L14-Birthday-Party
 曾外祖母	zēngwàizǔmǔ<div>maternal great grandmother</div>	B2-L14-Birthday-Party
 大选	dàxuǎn<div>general election</div>	Encountered
-选择	xuǎnzé<div>- to select or pick,&nbsp;</div><div>- choice, option</div>	Encountered
+选择	xuǎnzé<div>- to select or pick,&nbsp;</div><div>- choice, option</div>	Encountered leech
 超过<br>	chāoguò<div>to surpass or exceed</div>	Encountered
 选票	xuǎnpiào<div>vote, ballot</div>	Encountered
 段子	duànzi<div>- folk art item of storytelling / performed dialogue, a sketch</div><div>- short joke</div>	Encountered
@@ -851,7 +851,7 @@
 窗户	chuānghu<div>window (noun)</div>	B2-L19-Travel
 走道	zǒudào<div>aisle (noun)</div>	B2-L19-Travel
 素餐	sùcān<div>vegetarian meal (noun)</div>	B2-L19-Travel
-旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel
+旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel B3-L2
 行李	xíngli<div>luggage (noun)</div>	B2-L20-At-The-Airport B3-L1
 托运	tuōyùn<div>to check [luggage] (verb)</div>	B2-L20-At-The-Airport
 包	bāo<div>bag, sack, bundle, package (noun)</div>	B2-L20-At-The-Airport
@@ -933,3 +933,22 @@
 双人间	shuāng rén jiān<div>double room [e.g., a hotel room] (noun)</div>	B3-L2
 同屋	tóngwū<div>roommate (noun)</div>	B3-L2
 谈得来	tán .de lái<div>- get along well (verb complement)</div><div>- negative: tán 不 lái</div><div><br></div><div>我跟她很 tán .de lái。</div>	B3-L2
+空调	kōngtiáo<div>air-conditioning (noun)</div>	B3-L2
+浴室	yùshì<div>bathroom, washroom (noun)</div>	B3-L2
+条件	tiáojiàn<div>condition [the state of something] (noun)</div><div><br></div><div>宿舍的 tiáojiàn 非常好</div>	B3-L2
+麻	.ma<div>(a modal particle)</div>	B3-L2
+毛巾	máojīn<div>towel (noun)</div>	B3-L2
+床铺	chuángpù<div>bedding (noun)</div>	B3-L2
+简直	jiǎnzhí<div>simply, virtually (adverb)</div><div><br></div><div>jiǎnzhí 太好了</div>	B3-L2
+惯坏	guàn//huài<div>spoil (verb-complement)</div>	B3-L2
+校园	xiàoyuán<div>campus [for school] (noun)</div>	B3-L2
+安全	ānquán<div>safe (adj)</div>	B3-L2
+。。。得很	dehěn<div>very</div><div><br></div><div>好dehěn, 方便dehěn</div>	B3-L2
+而且	érqiě<div>and, as well as, furthermore (conjunction)</div>	B3-L2
+留学生	liúxuéshēng<div>foreign student (noun)</div>	B3-L2
+食堂	shítáng<div>dining hall (noun)</div>	B3-L2
+借口	jièkǒu<div>excuse (noun)</div>	B3-L2
+努力	nǔlì<div>with great effort (adv/adj)</div><div><br></div><div>- 特别 nǔlì</div><div>- nǔlì 工作</div>	B3-L2
+方面	fāngmiàn<div>respect, aspect, side (noun)</div>	B3-L2
+注意	zhùyì<div>pay attention to (verb)</div>	B3-L2
+长途	chángtú<div>long distance (adj)</div><div><br></div><div>- chángtú电话</div><div>- chángtú车</div>	B3-L2
