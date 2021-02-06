@@ -274,7 +274,7 @@
 午饭	wǔfàn<div>lunch</div>	B1-L8-School-Life
 上网	shàngwǎng<div>to surf Internet，to go online</div>	B1-L8-School-Life
 宿舍	sùshè<div>dormitory</div>	B1-L8-School-Life B3-L1
-那儿	nǎr<div>there</div>	B1-L8-School-Life
+那儿	nàr<div>there</div>	B1-L8-School-Life
 正在	zhèngzài<div>in the middle (of doing something)</div>	B1-L8-School-Life
 以前	yǐqián<div>before</div>	B1-L8-School-Life
 告诉	gàosu<div>to tell</div>	B1-L8-School-Life
@@ -425,7 +425,7 @@
 好像	hǎoxiàng<div>to seem, to be like</div>	B2-L12-Dining
 位子	wèizi<div>seat</div>	B2-L12-Dining
 服务员	fúwùyuán<div>waiter, attendant</div>	B2-L12-Dining
-服务	fúwù<div>to serüe, to provide service</div>	B2-L12-Dining
+服务	fúwù<div>to serve, to provide service</div>	B2-L12-Dining
 桌子	zhuōzi<div>table</div>	B2-L12-Dining
 点菜	diǎncài<div>to order food</div>	B2-L12-Dining
 盘	pán<div>plate, dish</div>	B2-L12-Dining
@@ -500,18 +500,18 @@
 流利	liúlì<div>fluent (e.g., speaking fluently)</div>	Encountered
 设定	shèdìng<div>to set, to set up, to install, setting, preferences</div>	Encountered
 被	bèi<div>quilt, by, to cover, (indicate passive-voice clause), to meet with</div><div><br></div><div>e.g., 你的PPT也设定得很好，让你想说的话更容易 bèi 别人了解。</div>	B2-L18-Sports Encountered
-了解	liǎojiě<div>to understand, to realize, to find out</div>	Encountered
+了解	liǎojiě<div>to understand, to realize, to find out</div>	Encountered leech
 内容	nèiróng<div>content, substance, details</div><div><br></div><div>虽然你的报告有点儿短，可是 nèiróng 很好<br></div>	Encountered
 期中	qīzhōng<div>among, in, included among these, interim</div><div><br></div><div>你的 qīzhōng 报告<br></div>	Encountered
 上	shàng<div>- to go (colloq.)</div>	B2-L13-Asking-Directions
-中心	zhōngxīn<div>center</div>	B2-L13-Asking-Directions
+中心	zhōngxīn<div>center [e.g. REC center]</div>	B2-L13-Asking-Directions
 听说	tīngshuō<div>to be told, to hear of</div>	B2-L13-Asking-Directions
 运动	yùndòng<div>sports</div>	B2-L13-Asking-Directions
 场	chǎng<div>field (e.g., sports field)</div>	B2-L13-Asking-Directions
 旁边	pángbiān<div>side (this side, that side, etc.)</div>	B2-L13-Asking-Directions
 远	yuǎn<div>far</div>	B2-L13-Asking-Directions
 离	lí<div>away from</div>	B2-L13-Asking-Directions B3-L2
-活动	huódòng<div>actiüity</div>	B2-L13-Asking-Directions
+活动	huódòng<div>activity</div>	B2-L13-Asking-Directions
 中间	zhōngjiān<div>middle</div>	B2-L13-Asking-Directions
 书店	shūdiàn<div>bookstore</div>	B2-L13-Asking-Directions
 地方	dìfang<div>place</div>	B2-L13-Asking-Directions
@@ -585,11 +585,11 @@
 幽默	yōumò<div>humor, humorous</div>	Encountered
 儿化音	érhuāyīn<div>Speaking style of Beijing where they put an 'r' sound at the end of many words</div>	Encountered
 鼓	gǔ<div>drum, to drum, to strike, to rouse, to bulge, to swell</div>	Encountered
-成语	chéngyǔ<div>idiom, proüerb, saying</div>	Encountered
+成语	chéngyǔ<div>idiom, proverb, saying</div>	Encountered
 伙伴	huǒbàn<div>partner, companion, comrade</div>	Encountered
 万圣节	wànshèngjié<div>Halloween</div>	B2-L14-Birthday-Party
 感恩节	gǎn'ēnjié<div>Thanksgiving</div>	B2-L14-Birthday-Party
-圣诞节	shèngdànjié<div>Christmas</div>	B2-L14-Birthday-Party
+圣诞节	shèngdànjié<div>Christmas</div>	B2-L14-Birthday-Party leech
 开演唱会	kāiyǎnchànghuì<div>have a pop music concert</div>	B2-L14-Birthday-Party
 开派对	kāipàiduì<div>have a party</div>	B2-L14-Birthday-Party
 表兄弟姐妹	biǎoxiōngdìjiěmèi<div>cousins with different family name</div>	B2-L14-Birthday-Party
@@ -611,7 +611,7 @@
 香蕉	xiāngjiāo<div>banana</div>	B2-L14-Birthday-Party
 菠萝	bōluó<div>pineapple</div>	B2-L14-Birthday-Party
 葡萄	pútao<div>grape (a fruit, but not grapefruit)</div>	B2-L14-Birthday-Party
-干净	gānjìng<div>clean，neat （adj）</div>	B2-L14-Birthday-Party B2-L17-Renting-An-Apartment
+干净	gānjìng<div>clean，neat （adj）</div>	B2-L14-Birthday-Party B2-L17-Renting-An-Apartment leech
 整肃	zhěngsù<div>strict&nbsp;/&nbsp;serious&nbsp;/&nbsp;solemn&nbsp;/&nbsp;dignified&nbsp;/&nbsp;to tidy up&nbsp;/&nbsp;to clean up&nbsp;/&nbsp;to purge&nbsp;/&nbsp;to adjust<br></div><div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
 脏	<div>zāng<br></div>dirty, filthy (e.g., room is dirty)<div><br></div><div>*mdbg.net</div>	B2-L14-Birthday-Party
 山莓	shānméi<div>raspberry</div>	B2-L14-Birthday-Party
@@ -686,7 +686,7 @@
 小时	xiǎoshí<div>hour</div>	B2-L15-Seeing-A-Doctor
 办法	bànfǎ<div>method, way (of doing something)</div>	B2-L15-Seeing-A-Doctor
 生病	shēngbìng<div>to get sick</div>	B2-L15-Seeing-A-Doctor
-感冒	gǎnmào<div>to haüe a cold</div>	B2-L15-Seeing-A-Doctor
+感冒	gǎnmào<div>to have a cold</div>	B2-L15-Seeing-A-Doctor
 身体	shēntǐ<div>body, health</div>	B2-L15-Seeing-A-Doctor
 痒	yǎng<div>itchy</div>	B2-L15-Seeing-A-Doctor
 过敏	guòmǐn<div>to be allergic to</div>	B2-L15-Seeing-A-Doctor
@@ -766,7 +766,7 @@
 客厅	kètīng<div>living room</div>	B2-L17-Renting-An-Apartment
 家具	jiājù<div>furniture</div>	B2-L17-Renting-An-Apartment
 可能	kěnéng<div>may; possible (mv/adj)</div>	B2-L17-Renting-An-Apartment
-一房一听	yìfángyìtīng<div>one bedroom and one living room</div>	B2-L17-Renting-An-Apartment
+一房一厅	yìfángyìtīng<div>one bedroom and one living room</div>	B2-L17-Renting-An-Apartment
 椅子	yǐzi<div>chair</div>	B2-L17-Renting-An-Apartment
 书架	shūjià<div>bookcase, bookshelf</div>	B2-L17-Renting-An-Apartment
 那里	nàli<div>there</div>	B2-L17-Renting-An-Apartment
@@ -784,37 +784,37 @@
 准	zhǔn<div>to allow, to be allowed</div>	B2-L17-Renting-An-Apartment
 养	yǎng<div>to raise (e.g., a pet)</div><div><br></div><div>你想 yǎng 什么宠物？</div>	B2-L17-Renting-An-Apartment
 宠物	chǒngwù<div>pet [i.e., an animal as a pet] (noun)</div>	B2-L17-Renting-An-Apartment
-当然	dāngrán<div>of course (adverb)</div><div><br></div><div>你平常吃那么多，dāngrán 越来越胖了</div>	L18-Sports
-胖	pàng<div>fat (adjective)</div>	L18-Sports
-怕	pà<div>to fear, to be afraid of (verb)</div>	L18-Sports
-简单	jiǎndān<div>simple (adjective)</div>	L18-Sports
-跑步	pǎobù<div>to jog (verb-object)</div>	L18-Sports
-跑	pǎo<div>to run (verb)</div>	L18-Sports
-难受	nánshòu<div>hard to bear, uncomfortable</div><div>[separate the nán and shòu for logical separation, based on grammar point in lesson]</div>	L18-Sports
-网球	wǎngqiú<div>tennis [the sport] (noun)</div>	L18-Sports
-拍	pāi<div>racket (noun)</div>	L18-Sports
-篮球	lánqiú<div>basketball (noun)</div>	L18-Sports
-游泳	yóuyǒng<div>to swim (verb-object)</div>	L18-Sports
-危险	wēixiǎn<div>dangerous (adjective)</div>	L18-Sports
-淹死	yānsǐ<div>to drown (verb complement)</div>	L18-Sports
-愿意	yuànyì<div>to be willing (modal verb)</div>	L18-Sports
-上大学	shàng dàxué<div>to attend college / university (verb object)</div>	L18-Sports
-为了	wèile<div>for the sake of (preposition)</div>	L18-Sports
-提高	tígāo<div>to improve, to raise, to heighten (verb)</div>	L18-Sports
-水平	shuǐpíng<div>level, standard (noun)</div>	L18-Sports
-足球	zúqiú<div>soccer, football (noun)</div>	L18-Sports
-比赛	bǐsài<div>- game, match, competition (noun)</div><div>- to compete (verb)</div>	L18-Sports
+当然	dāngrán<div>of course (adverb)</div><div><br></div><div>你平常吃那么多，dāngrán 越来越胖了</div>	B2-L18-Sports
+胖	pàng<div>fat (adjective)</div>	B2-L18-Sports
+怕	pà<div>to fear, to be afraid of (verb)</div>	B2-L18-Sports
+简单	jiǎndān<div>simple (adjective)</div>	B2-L18-Sports
+跑步	pǎobù<div>to jog (verb-object)</div>	B2-L18-Sports
+跑	pǎo<div>to run (verb)</div>	B2-L18-Sports
+难受	nánshòu<div>hard to bear, uncomfortable</div><div>[separate the nán and shòu for logical separation, based on grammar point in lesson]</div>	B2-L18-Sports
+网球	wǎngqiú<div>tennis [the sport] (noun)</div>	B2-L18-Sports
+拍	pāi<div>racket (noun)</div>	B2-L18-Sports
+篮球	lánqiú<div>basketball (noun)</div>	B2-L18-Sports
+游泳	yóuyǒng<div>to swim (verb-object)</div>	B2-L18-Sports
+危险	wēixiǎn<div>dangerous (adjective)</div>	B2-L18-Sports
+淹死	yānsǐ<div>to drown (verb complement)</div>	B2-L18-Sports
+愿意	yuànyì<div>to be willing (modal verb)</div>	B2-L18-Sports
+上大学	shàng dàxué<div>to attend college / university (verb object)</div>	B2-L18-Sports
+为了	wèile<div>for the sake of (preposition)</div>	B2-L18-Sports
+提高	tígāo<div>to improve, to raise, to heighten (verb)</div>	B2-L18-Sports
+水平	shuǐpíng<div>level, standard (noun)</div>	B2-L18-Sports
+足球	zúqiú<div>soccer, football (noun)</div>	B2-L18-Sports
+比赛	bǐsài<div>- game, match, competition (noun)</div><div>- to compete (verb)</div>	B2-L18-Sports
 国际	guójì<div>international (adjective)</div>	B2-L18-Sports B3-L1
-美式	Měishì<div>American-style (adjective)</div>	L18-Sports
-应该	yīnggāi<div>should, ought to (modal verb)</div>	L18-Sports
-脚	jiǎo<div>foot (noun)</div>	L18-Sports
-踢	tī<div>to kick (verb)</div>	L18-Sports
-手	shǒu<div>hand [body part] (noun)</div>	L18-Sports
-抱	bào<div>to hold or carry in arms (verb)</div>	L18-Sports
+美式	Měishì<div>American-style (adjective)</div>	B2-L18-Sports
+应该	yīnggāi<div>should, ought to (modal verb)</div>	B2-L18-Sports
+脚	jiǎo<div>foot (noun)</div>	B2-L18-Sports
+踢	tī<div>to kick (verb)</div>	B2-L18-Sports
+手	shǒu<div>hand [body part] (noun)</div>	B2-L18-Sports
+抱	bào<div>to hold or carry in arms (verb)</div>	B2-L18-Sports
 担心	dānxīn<div>to worry (verb object)</div>	B2-L18-Sports B3-L1
-棒	bàng<div>fantastic, super [colloquial] (adjective)</div>	L18-Sports
-运动服	yùndòngfú<div>sportswear, athletic clothing (noun)</div>	L18-Sports
-半天	bàntiān<div>half a day, a long time</div>	L18-Sports
+棒	bàng<div>fantastic, super [colloquial] (adjective)</div>	B2-L18-Sports
+运动服	yùndòngfú<div>sportswear, athletic clothing (noun)</div>	B2-L18-Sports
+半天	bàntiān<div>half a day, a long time</div>	B2-L18-Sports
 放假	fàngjià<div>to go on vacation, to have time off</div>	B2-L19-Travel
 假	jià<div>vacation, holiday (noun)</div>	B2-L19-Travel
 公司	gōngsī<div>- company [i.e., enterprise engaged in some business] (noun)</div>	B2-L19-Travel
@@ -853,10 +853,10 @@
 素餐	sùcān<div>vegetarian meal (noun)</div>	B2-L19-Travel
 旅馆	lǚguǎn<div>hotel (noun)</div>	B2-L19-Travel B3-L2
 行李	xíngli<div>luggage (noun)</div>	B2-L20-At-The-Airport B3-L1
-托运	tuōyùn<div>to check [luggage] (verb)</div>	B2-L20-At-The-Airport
+托运	tuōyùn<div>to check through [luggage] (verb)</div>	B2-L20-At-The-Airport
 包	bāo<div>bag, sack, bundle, package (noun)</div>	B2-L20-At-The-Airport
 箱子	xiāngzi<div>suitcase, box (noun)</div>	B2-L20-At-The-Airport
-超重	chāozhòng<div>to be verweight [of luggage, freight, etc.] (verb)</div>	B2-L20-At-The-Airport
+超重	chāozhòng<div>to be overweight [of luggage, freight, etc.] (verb)</div>	B2-L20-At-The-Airport
 登机牌	dēngjīpái<div>boarding pass (noun)</div>	B2-L20-At-The-Airport
 牌	pái<div>plate, tablet, card (noun)</div>	B2-L20-At-The-Airport
 登机口	dēngjīkǒu<div>boarding gate [e.g., for airplane] (noun)</div>	B2-L20-At-The-Airport
@@ -881,13 +881,13 @@
 婶婶	shěnshen<div>चाची, father's younger brother's wife</div>	B2-L20-At-The-Airport
 姑姑	gūgu<div>बुआ, father's sister</div>	B2-L20-At-The-Airport
 姑父	gūfù<div>फुफासा, father's sister's husband</div>	B2-L20-At-The-Airport
-姨父	<div>yiífu</div>मासोसा, mother's sister's husband	B2-L20-At-The-Airport
-<div><div><div><div>你的笑点好低</div></div></div></div>	- someone who laughs too easily<div>- someone who is easygoing, kind</div>	Encountered
+姨父	<div>yífu</div>मासोसा, mother's sister's husband	B2-L20-At-The-Airport
+<div><div><div><div>你的笑点好低</div></div></div></div>	<div>Nǐ de xiào diǎn hǎo dī<br></div>- someone who laughs too easily<div>- someone who is easygoing, kind</div>	Encountered
 嫂嫂	sǎosao<div>भाभी, elder brother's wife</div>	B2-L20-At-The-Airport
 姐夫	jiěfu<div>जीजाजी, older sister's husband</div>	B2-L20-At-The-Airport
 弟妹	dìmèi<div>भयोजी, younger brother's wife</div>	B2-L20-At-The-Airport
 妹夫	<div>mèifu</div>बहनोईसा, younger sister's husband	B2-L20-At-The-Airport
-堂哥	tánggē<div>छोटा चचेरा भाई, father's brother's son older than you</div>	B2-L20-At-The-Airport
+堂哥	tánggē<div>बङा चचेरा भाई, father's brother's son older than you</div>	B2-L20-At-The-Airport
 堂弟	tángdì<div>छोटा चचेरा भाई, father's brother's son younger than you</div>	B2-L20-At-The-Airport
 堂姐	tángjiě<div>बङी चचेरी बहन, father's brother's daughter older than you</div>	B2-L20-At-The-Airport
 堂妹	tángmèi<div>छोटी चचेरी बहन, father's brother's daughter younger than you</div>	B2-L20-At-The-Airport
@@ -903,10 +903,10 @@
 准时	zhǔnshí<div>punctually, on time (adj/adv)</div>	B3-L1
 降落	jiàngluò<div>land, descend (verb)</div>	B3-L1
 外事处	wàishìchù<div>foreign affairs office (noun)</div>	B3-L1
-派	pài<div>dispatch, send (verb)</div>	B3-L1
+派	pài<div>dispatch, send [a person to do something] (verb)</div><div><br></div><div>学校派他来飞机接我们。</div>	B3-L1
 通过	tōngguò<div>pass, pass through, go through (verb)</div>	B3-L1
 海关	hǎiguān<div>customs [e.g., at airport] (noun)</div>	B3-L1
-花花公子	Huāhuā gōngzǐ<div>Playboy [the magazine/company] (proper noun)</div>	B3-L1
+花花公子	Huāhuā gōngzǐ<div>- Playboy [the magazine/company] (proper noun)</div><div>- playboy [type of person] (noun)</div>	B3-L1
 据说	jùshuō<div>it is said, they say (adverb)</div>	B3-L1
 杂志	zázhì<div>magazine [printed booklet] (noun)</div>	B3-L1
 严	yán<div>strict, severe, stern (adjective)</div>	B3-L1
@@ -922,13 +922,13 @@
 平	píng<div>flat, smooth, level (adj)</div>	B3-L1
 现代化	xiàndàihuà<div>- moden (adj)</div><div>- modernization (noun)</div>	B3-L1
 想象	xiǎngxiàng<div>- imagine (verb)</div><div>- imagination (noun)</div>	B3-L1
-古老	gǔlǎo<div>anciant, age-old (adj)</div>	B3-L1
+古老	gǔlǎo<div>ancient, age-old (adj)</div>	B3-L1
 兴奋	xīngfèn<div>excited (adj)</div>	B3-L1
 时差	shíchā<div>jet lag; time difference (noun)</div>	B3-L1
 睡着	shuì//zháo<div>fall asleep (verb-complement)</div>	B3-L1
 一切	yíqiè<div>all, every, everything [usually followed by 都] (noun)</div>	B3-L2
 顺利	shùnlì<div>smooth, successful (adj)</div>	B3-L2
-放心	fàng//xīn<div>set one's mind at rest, to feel at east or relieved (verb-object)</div>	B3-L2
+放心	fàng//xīn<div>set one's mind at rest, to feel at east or relieved (verb-object)</div>	B3-L1 B3-L2
 单人间	dānrénjiān<div>single room [e.g., at hotel] (noun)</div>	B3-L2
 双人间	shuāng rén jiān<div>double room [e.g., a hotel room] (noun)</div>	B3-L2
 同屋	tóngwū<div>roommate (noun)</div>	B3-L2
@@ -936,7 +936,7 @@
 空调	kōngtiáo<div>air-conditioning (noun)</div>	B3-L2
 浴室	yùshì<div>bathroom, washroom (noun)</div>	B3-L2
 条件	tiáojiàn<div>condition [the state of something] (noun)</div><div><br></div><div>宿舍的 tiáojiàn 非常好</div>	B3-L2
-麻	.ma<div>(a modal particle)</div>	B3-L2
+嘛	.ma<div>(a modal particle)</div>	B3-L2
 毛巾	máojīn<div>towel (noun)</div>	B3-L2
 床铺	chuángpù<div>bedding (noun)</div>	B3-L2
 简直	jiǎnzhí<div>simply, virtually (adverb)</div><div><br></div><div>jiǎnzhí 太好了</div>	B3-L2
@@ -952,3 +952,61 @@
 方面	fāngmiàn<div>respect, aspect, side (noun)</div>	B3-L2
 注意	zhùyì<div>pay attention to (verb)</div>	B3-L2
 长途	chángtú<div>long distance (adj)</div><div><br></div><div>- chángtú电话</div><div>- chángtú车</div>	B3-L2
+BM女孩	"nǚhái<br><div>Brand known for small size, fashionable to be slender enough to wear it, hence ""BM girl""</div>"	Encountered
+瑜伽	yújiā<div>Yoga</div>	Encountered
+腰	yāo<br><div>waist&nbsp;/&nbsp;lower back&nbsp;/&nbsp;pocket&nbsp;/&nbsp;middle&nbsp;/&nbsp;loins<br></div><div><br></div><div>*mdbg.net</div>	Encountered
+扭到腰了	niǔ dào&nbsp;yāo&nbsp;le<div>hurt lower back</div>	Encountered
+蛙泳	wāyǒng<div><div>breaststroke (swimming)</div></div>	Encountered
+自由泳	zìyóuyǒng<div><div>freestyle swimming</div></div>	Encountered
+蝶泳	diéyǒng<div><div>butterfly stroke (swimming)</div></div>	Encountered
+<div><div><div><div>狗爬式</div></div></div></div>	gǒupáshì<div>dog paddle (swimming style)<br></div>	Encountered
+我都说了两次了	<div>I have already said this twice</div>	Encountered Grammar-Example
+了账	liǎo zhàng<div>settle a bill</div>	Encountered
+了结	liǎojié<div><div>to settle&nbsp;/&nbsp;to finish&nbsp;/&nbsp;to conclude&nbsp;/&nbsp;to wind up</div><br></div><div>*mdbg.net</div>	Encountered
+<div><div><div><div>一了百了</div></div></div></div>	yìliǎobǎiliǎo<div><div>once the main problem is solved, all troubles are solved&nbsp;/&nbsp;death ends all one's troubles</div><br></div><div>*mdbg.net</div>	Encountered
+<div><div><div><div>苟富贵，勿相忘</div></div></div></div>	Gǒu fùguì, wù xiāng wàng<div>- Don't forget me (e.g., when you're rich)</div><div>- Don't forget each other<br></div>	Encountered
+直播带货	Zhíbò dài huò<div>Live delivery (e.g., like a live infomercial)</div>	Encountered
+主播	zhǔbō<div>anchor (TV, live infomercial)<br></div>	Encountered
+名媛	míngyuán<div><div>young lady of note&nbsp;/&nbsp;debutante</div><br></div><div>*mdbg.net</div>	Encountered
+<div><div><div><div>好好学习 天天向上</div></div></div></div>	Hǎo hào xuéxí tiāntiān xiàngshàng<div>study hard, improve every day<br></div>	Encountered
+不朽	bùxiǔ<div>immortal<br></div>	Encountered
+迟到	chídào<div>(arriving) late</div>	B3-L1 B3-L3
+胡说	húshuō<div>to talk nonsense</div>	B3-L1
+站起来	zhànqǐlai<div>to stand up</div>	B3-L1
+巴士	bāshì<div>bus [vehicle] (noun)</div>	B3-L1
+中巴	zhōngbā<div>medium size bus [vehicle] (noun)</div>	B3-L1
+完全	wánquán<div>completely, totally, entirely</div>	B3-L1
+教育部	Jiàoyù Bù<div>Ministry of Education</div>	Encountered
+表示	biǎoshì<div>to express , to state , to indicate , to mean, as per<br></div><div><br></div><div>中国教育部开会 biǎoshì，。。。</div>	Encountered
+年底	nián dǐ<div>year-end</div>	Encountered
+合不来，合得来	hébulái, hédelái<div>do not get along well, get along well [with some person(s)]</div>	B3-L2
+有钱	yǒuqián<div>wealthy (adj)</div>	B3-L2
+大便	dàbiān<div>feces (noun)</div>	B3-L2
+公主	gōngzhǔ<div>princess (noun)</div>	B3-L2
+早起	zǎoqǐ<div>get up early (verb)</div>	B3-L3
+习惯	xíguàn<div>- be accustomed to, be used to (verb)</div><div>- habit, custom (noun)</div>	B3-L3
+从来没(verb)过	cóngláiméi(verb)guò<div>have never (verb)ed before</div>	B3-L3
+不用说	búyòngshuō<div>not to mention, needless to say (conjunction)</div>	B3-L3
+晚睡	wǎnshuì<div>go to bed late (verb)</div>	B3-L3
+困难	kùnnán<div>- difficult (adj)</div><div>- difficulty (noun)</div>	B3-L3
+早晨	zǎo.chen<div>morning (noun)</div>	B3-L3
+头脑	tóunǎo<div>brains, mind [not used for physical brain] (noun)</div>	B3-L3
+需要	xūyào<div>- need, want, require (verb)</div><div>- a need, a want, a requirement (noun)</div>	B3-L3
+醒	xǐng<div>wake up, sober up (verb)</div>	B3-L3
+却	què<div>but, yet, however (adverb)</div>	B3-L3
+整天	zhěngtiān<div>the whole day, all day long (adverb)</div>	B3-L3
+(adjective)的要命	(adjective) de yàomìng<div>awfully, extremely [in ref. to the adjective]</div>	B3-L3
+发现	fāxiàn<div>find, discover (verb)</div>	B3-L3
+一般来说	yìbān lái shuō<div>generally speaking (adverb)</div>	B3-L3
+经常	jīngcháng<div>often, frequently (adverb)</div>	B3-L3
+多半	duōbàn<div>mostly (adverb)</div>	B3-L3
+提供	tígōng<div>offer, provide, supply (verb)</div>	B3-L3
+本来	běnlái<div>originally, at first (adverb)</div>	B3-L3
+总是	zǒngshì<div>always (adverb)</div>	B3-L3
+不得不	bùdébù<div>have no choice but to, have to (adverb)</div>	B3-L3
+改	gǎi<div>change, alter, correct (verb)</div>	B3-L3
+认为	rènwéi<div>think, consider, hold (verb)</div>	B3-L3
+事情	shì.qing<div>thing (noun)</div>	B3-L3
+学会	xué//huì<div>learn (verb-complement)</div>	B3-L3
+角度	jiǎodù<div>angle, point of view (noun)</div>	B3-L3
+好处	hǎo.chu<div>benefit, gain, profit, advantage (noun)</div>	B3-L3
