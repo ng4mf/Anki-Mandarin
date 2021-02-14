@@ -234,7 +234,7 @@
 真	zhēn<div>really</div>	B1-L7-Studying-Chinese
 哪里	<div>nǎli</div>where	B1-L7-Studying-Chinese
 预习	yùxí<div>to preview</div>	B1-L7-Studying-Chinese
-学	xué<div>to study</div>	B1-L7-Studying-Chinese
+学	xué<div>- to study (verb)</div><div>- imitate, mimic (verb)</div>	B1-L7-Studying-Chinese B3-L6
 第	"dì<div>- prefix used for numbering (e.g., ""first instance"" is dì一次）</div>"	B1-L7-Studying-Chinese
 语法	yǔfǎ<div>grammar</div>	B1-L7-Studying-Chinese
 容易	róngyì<div>easy</div>	B1-L7-Studying-Chinese
@@ -280,7 +280,7 @@
 告诉	gàosu<div>to tell</div>	B1-L8-School-Life
 已经	yǐjīng<div>already</div>	B1-L8-School-Life
 知道	zhīdao<div>to know</div>	B1-L8-School-Life
-封	fēng<div>- measure word for letters</div>	B1-L8-School-Life
+封	fēng<div>- measure word for letters</div><div>- to seal</div>	B1-L8-School-Life B3-L3
 信	xìn<div>- letter (as a correspondence, writing a letter to someone type of letter)</div>	B1-L8-School-Life
 最近	zuìjìn<div>recently</div>	B1-L8-School-Life
 最	zuì<div>- indicates highest degree (e.g., most, greatest, worst, etc.)</div>	B1-L8-School-Life B2-L14-Birthday-Party
@@ -952,7 +952,7 @@
 方面	fāngmiàn<div>respect, aspect, side (noun)</div>	B3-L2
 注意	zhùyì<div>pay attention to (verb)</div>	B3-L2
 长途	chángtú<div>long distance (adj)</div><div><br></div><div>- chángtú电话</div><div>- chángtú车</div>	B3-L2
-BM女孩	"nǚhái<br><div>Brand known for small size, fashionable to be slender enough to wear it, hence ""BM girl""</div>"	Encountered
+BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slender enough to wear it, hence ""BM girl""</div>"	Encountered
 瑜伽	yújiā<div>Yoga</div>	Encountered
 腰	yāo<br><div>waist&nbsp;/&nbsp;lower back&nbsp;/&nbsp;pocket&nbsp;/&nbsp;middle&nbsp;/&nbsp;loins<br></div><div><br></div><div>*mdbg.net</div>	Encountered
 扭到腰了	niǔ dào&nbsp;yāo&nbsp;le<div>hurt lower back</div>	Encountered
@@ -1010,3 +1010,61 @@ BM女孩	"nǚhái<br><div>Brand known for small size, fashionable to be slender 
 学会	xué//huì<div>learn (verb-complement)</div>	B3-L3
 角度	jiǎodù<div>angle, point of view (noun)</div>	B3-L3
 好处	hǎo.chu<div>benefit, gain, profit, advantage (noun)</div>	B3-L3
+许	xǔ<div>- to allow, to permit, to praise</div><div>- somewhat, perhaps</div>	B3-L3
+许多	xǔduō<div>a lot of</div>	B3-L3
+结冰	jiébīng<div>to freeze</div>	Encountered
+公里	gōnglǐ<div>kilometer</div>	Encountered
+黄河	huánghé<div>Yellow River</div>	Encountered
+下游	xiàyóu<div>downstream, lower reaches [of river], lower lever, lower echelon</div>	Encountered
+段	duàn<div>paragraph, section, segment, stage [of process] (noun)</div>	Encountered
+出现	chūxiàn<div>to appear, arise, emerge (verb)</div>	Encountered
+灾	zāi<div>disaster, calamity (noun)</div>	Encountered
+将	jiāng<div>- will, shall, to use, to take, to checkmate</div><div><br></div><div>jiàng</div><div>- general, commander-in-chief [of military]</div><div>- to command or lead</div><div><br></div><div>qiāng</div><div>- to desire, invite, or request</div>	Encountered
+根据	gēnjù<div>- according to, based on</div><div>- basis or foundation (noun)</div>	Encountered
+情况	qíngkuàng<div>circumstance, state of things, or situation (noun)</div>	Encountered
+经过	jīngguò<div>- to pass or go through (verb)</div><div>- process, course (noun)</div>	Encountered
+自治区	zìzhìqū<div>autonomous region (noun)</div>	Encountered
+省	shěng<div>province [in a country] (noun)</div>	Encountered
+逆心	nìxīn<div>unfavorable, undesired</div>	
+设想	shèxiǎng<div>- to imagine, assume, evisage (verb)</div><div>- tentative plan (noun)</div>	Encountered
+期限	qīxiàn<div>time limit, deadline, allotted time (noun)</div>	Encountered
+亮	liàng<div>- bright, clear</div><div>- to shine, show, or reveal</div>	Encountered
+总机	zǒngjī<div>central exchange, telephone exchange or switchboard (noun)</div>	Encountered
+午觉	wǔjiào<div>afternoon nap (noun)</div>	B3-L6
+白天	báitiān<div>daytime, day (noun)</div>	B3-L6
+浪费	làngfèi<div>waste, squander, extravagant</div><div><br></div><div>làngfèi时间，làngfèi钱</div>	B3-L6
+精神	jīng.shen<div>vigor, vitality, spirit (noun)</div>	B3-L6
+有精神	yǒu jīng.shen<div>vigorous (adjective)</div>	B3-L6
+怪不得	guài.bu.de<div>no wonder, so that's why (conjunction)</div>	B3-L6
+大多	dàduō<div>for the most part, mostly (adverb)</div>	B3-L6
+少	shǎo<div>less, few (adjective)</div>	B3-L6
+受罪	shòu//zuì<div>endure hardships, tortures, etc.; have a rough time (verb-object)</div>	B3-L6
+受	shòu<div>receive, suffer (verb)</div>	B3-L6
+罪	zuì<div>sin, hardship (noun)</div>	B3-L6
+自来水	zìláishuǐ<div>tap water (noun)</div>	B3-L6
+直接	zhíjiē<div>directly (adverb)</div>	B3-L6
+凉	liáng<div>cold, cool (adjective)</div>	B3-L6
+开水	kāishuǐ<div>boiled water (noun)</div>	B3-L6
+矿泉水	kuàngquánshuǐ<div>mineral water (noun)</div>	B3-L6
+矿泉	kuàngquán<div>mineral spring (noun)</div>	B3-L6
+热水瓶	rèshuǐpíng<div>thermos bottle</div>	B3-L6
+有时	yǒushí<div>sometimes, at times, now and then (adverb)</div>	B3-L6
+泡茶	pào//chá<div>make tea (verb object)</div>	B3-L6
+泡	pào<div>brew (verb)</div>	B3-L6
+没想到	méi xiǎngdào<div>unexpectedly (adverb)</div>	B3-L6
+各(noun)	gè<div>each, every (adjective)</div><div><br></div><div>gè人有gè人的想法</div>	B3-L6
+原因	yuányīn<div>reason, cause (noun)</div>	B3-L6
+坚持	jiānchí<div>insist on, persist in (verb)</div>	B3-L6
+原来	yuánlái<div>original, former (adjective)</div>	B3-L6
+生活	shēnghuó<div>life (noun)</div>	B3-L6
+方式	fāngshì<div>pattern, fashion, way (noun)</div>	B3-L6
+向	xiàng<div>from (preposition)</div>	B3-L6
+当地	dāngdì<div>local, in the locality (place word)</div>	B3-L6
+想法	xiǎngfǎ<div>way of thinking, opinion, notion (noun)</div>	B3-L6
+调	tiáo<div>to adjust (verb)</div>	B3-L3
+大概	dàgài<div>probably (adverb)</div>	B3-L3
+通常	tōngcháng<div>usually (adverb)</div>	B3-L3
+课本	kèběn<div>textbook (noun)</div>	B3-L3
+读	dú<div>to read (verb)</div>	B3-L3
+有效	yǒuxiào<div>effective (adjective)</div>	B3-L3
+安眠药	ānmiányào<div>sleeping pill (noun)</div>	B3-L3
