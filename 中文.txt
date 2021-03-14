@@ -120,7 +120,7 @@
 还是	háishi<div>or</div>	B1-L3-Time-and-Date
 可是	kěshì<div>but</div>	B1-L3-Time-and-Date
 我们	wǒmen<div>- we, us</div>	B1-L3-Time-and-Date
-点	diǎn<div>o'clock</div>	B1-L3-Time-and-Date
+点	diǎn<div>- o'clock</div><div>- check [the number] to see if correct, e.g., recount money</div>	B1-L3-Time-and-Date B3-L9
 半	bàn<div>half</div>	B1-L3-Time-and-Date
 晚上	wǎnshang<div>- evening or night</div>	B1-L3-Time-and-Date
 见	jiàn<div>to see</div>	B1-L3-Time-and-Date
@@ -261,7 +261,7 @@
 累	lèi<div>tired</div>	B1-L8-School-Life
 起床	qǐchuáng<div>to get up</div>	B1-L8-School-Life
 床	chuáng<div>bed</div>	B1-L8-School-Life
-洗澡	<div>xǐzǎo</div>to take bath or shower	B1-L8-School-Life
+洗澡	<div>xǐzǎo</div>to take bath or shower	B1-L8-School-Life leech
 早饭	zǎofàn<div>breakfast</div>	B1-L8-School-Life
 一边	yìbiān<div>simultaneously, at the same time</div>	B1-L8-School-Life
 教室	jiàoshì<div>classroom</div>	B1-L8-School-Life
@@ -308,7 +308,7 @@
 红	hóng<div>red</div>	B1-L9-Shopping
 穿	chuān<div>to wear, to put on</div>	B1-L9-Shopping
 裤子	kùzi<div>pants</div>	B1-L9-Shopping
-中	zhōng<div>medium, middle</div>	B1-L9-Shopping
+中	zhōng<div>- medium, middle</div><div>- while doing something, during</div><div><br></div><div>zhòng</div><div>- to hit [the mark], to win [a prize]</div><div>- to be hit by, to suffer</div>	B1-L9-Shopping News
 便宜	piányi<div>cheap, inexpensive</div>	B1-L9-Shopping
 如果	rúguǒ<div>if</div>	B1-L9-Shopping
 长短	chángduǎn<div>length</div>	B1-L9-Shopping
@@ -345,7 +345,7 @@
 不过	búguò<div>however, but</div>	B1-L9-Shopping B3-L1
 付钱	fùqián<div>to pay money</div>	B1-L9-Shopping
 付	fù<div>to pay</div>	B1-L9-Shopping
-寒假	hánjià<div>winter vacation</div>	B1-L10-Transportation
+寒假	hánjià<div>winter vacation</div>	B1-L10-Transportation leech
 飞机	fēijī<div>airplane</div>	B1-L10-Transportation
 飞	fēi<div>to fly</div>	B1-L10-Transportation
 机	jī<div>machine</div>	B1-L10-Transportation
@@ -572,7 +572,7 @@
 圆	yuán<div>round (adjective)</div>	B2-L14-Birthday-Party
 眼睛	yǎnjing<div>eye (noun, body part)</div>	B2-L14-Birthday-Party
 鼻子	bízi<div>nose (noun, body part)</div>	B2-L14-Birthday-Party
-嘴	zuǐ<div>mouth (noun, body part)</div>	B2-L14-Birthday-Party
+嘴	zuǐ<div>mouth (noun, body part)</div>	B2-L14-Birthday-Party leech
 像	xiàng<div>to be like, to look like, to take after</div>	B2-L14-Birthday-Party
 长大	zhǎngdà<div>to grow up</div>	B2-L14-Birthday-Party
 一定	yídìng<div>- certain, definite (adj)</div><div>- certainly, definitely (adv)</div>	B2-L14-Birthday-Party
@@ -903,8 +903,8 @@
 准时	zhǔnshí<div>punctually, on time (adj/adv)</div>	B3-L1
 降落	jiàngluò<div>land, descend (verb)</div>	B3-L1
 外事处	wàishìchù<div>foreign affairs office (noun)</div>	B3-L1
-派	pài<div>dispatch, send [a person to do something] (verb)</div><div><br></div><div>学校派他来飞机接我们。</div>	B3-L1
-通过	tōngguò<div>pass, pass through, go through (verb)</div>	B3-L1
+派	pài<div>dispatch, send [a person to do something] (verb)</div><div><br></div><div>学校 pài 他来飞机接我们。</div>	B3-L1
+通过	tōngguò<div>- pass, pass through, go through (verb)</div><div>- to adopt or pass [e.g., a bill, inspection] (verb)</div><div>- to switch over (verb)</div>	B3-L1 News
 海关	hǎiguān<div>customs [e.g., at airport] (noun)</div>	B3-L1
 花花公子	Huāhuā gōngzǐ<div>- Playboy [the magazine/company] (proper noun)</div><div>- playboy [type of person] (noun)</div>	B3-L1
 据说	jùshuō<div>it is said, they say (adverb)</div>	B3-L1
@@ -995,7 +995,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 醒	xǐng<div>wake up, sober up (verb)</div>	B3-L3
 却	què<div>but, yet, however (adverb)</div>	B3-L3
 整天	zhěngtiān<div>the whole day, all day long (adverb)</div>	B3-L3
-(adjective)的要命	(adjective) de yàomìng<div>awfully, extremely [in ref. to the adjective]</div>	B3-L3
+(adjective)的要命	(adjective) de yàomìng<div>awfully, extremely [in ref. to the adjective, negative connotation]</div>	B3-L3
 发现	fāxiàn<div>find, discover (verb)</div>	B3-L3
 一般来说	yìbān lái shuō<div>generally speaking (adverb)</div>	B3-L3
 经常	jīngcháng<div>often, frequently (adverb)</div>	B3-L3
@@ -1056,7 +1056,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 原因	yuányīn<div>reason, cause (noun)</div>	B3-L6
 坚持	jiānchí<div>insist on, persist in (verb)</div>	B3-L6
 原来	yuánlái<div>original, former (adjective)</div>	B3-L6
-生活	shēnghuó<div>life (noun)</div>	B3-L6
+生活	shēnghuó<div>- life (noun)</div><div>- live (verb)</div>	B3-L13 B3-L6
 方式	fāngshì<div>pattern, fashion, way (noun)</div>	B3-L6
 向	xiàng<div>from (preposition)</div>	B3-L6
 当地	dāngdì<div>local, in the locality (place word)</div>	B3-L6
@@ -1065,6 +1065,239 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 大概	dàgài<div>probably (adverb)</div>	B3-L3
 通常	tōngcháng<div>usually (adverb)</div>	B3-L3
 课本	kèběn<div>textbook (noun)</div>	B3-L3
-读	dú<div>to read (verb)</div>	B3-L3
+读	dú<div>to read [in academic or work context] (verb)</div>	B3-L3
 有效	yǒuxiào<div>effective (adjective)</div>	B3-L3
 安眠药	ānmiányào<div>sleeping pill (noun)</div>	B3-L3
+戴口罩	dài kǒuzhào<div>wear mask (verb)</div>	B3-L6
+口罩	kǒuzhào<div>mask [for face] (noun)</div>	B3-L6
+并	bìng<div>- to combine or amalgamate</div><div>- and, furthermore, also, simultaneously</div>	B3-L6
+博物馆	bówùguǎn<div>museum (noun)</div>	B3-L6
+心情	xīnqíng<div>mood (noun)</div>	B3-L6
+压力	yālì<div>stress (noun)</div>	B3-L6
+加油	jiāyóu<div>to add fuel, good luck, to become refreshed [due to more energy] (verb)</div>	B3-L6
+生理学	shēnglǐxué<div>physiology (noun)</div>	B3-L6
+阶段	jiēduàn<div>stage, section, phase, period (noun)</div>	B3-L6
+代谢	dàixiè<div>- replacement, substitution (noun)</div><div>- metabolism (noun)</div>	B3-L6
+突然	tūrán<div>sudden, abrupt, unexpected</div>	B3-L6
+世纪	shìjì<div>century [of time] (noun)</div>	News
+非洲	Fēizhōu<div>Africa</div>	News
+象	xiàng<div>- elephant [animal] (noun) || measure word 隻[zhī]|只[zhī]</div><div>- shape, form, appearance (noun)</div><div>- to imitate (verb)</div>	News
+数量	shùliàng<div>amount, quantity (noun)</div>	News
+快速	kuàisù<div>fast, high-speed, rapid</div>	News
+减少	jiǎnshǎo<div>to lessen, decrease, reduce, or lower (verb)</div>	News
+保护	bǎohù<div>to protect, defend, or safeguard (verb)</div>	News
+动物	dòngwù<div>animal (noun) || measure words:隻|只[zhī],群[qún],個|个[gè]</div>	News
+组织	zǔzhī<div>- to organize (verb)</div><div>- organization (noun)</div>	News
+卫星	wèixīng<div>satellite (noun)</div>	News
+图像	túxiàng<div>image, picture, graphic (noun)</div>	News
+太空	tàikōng<div>outer space (noun)</div>	News
+数	shǔ<div>to count (verb)</div>	News
+技术	jìshù<div>technology, technique, skill (noun)</div>	News
+起到	qǐdào<div>to start, launch, initiate, or rise (verb)</div>	News
+作用	zuòyòng<div>- to act on, affect (verb)</div><div>- action, function, result (noun)</div>	News
+南非	Nánfēi<div>South Africa</div>	News
+最先	zuì xiān<div>[the] very first</div>	News
+发回	fā huí<div>to send back, to return (verb)</div>	News
+查看	chákàn<div>to look over, examine, check up, or ferret out (verb)</div>	News
+大约	dàyuē<div>approximately, probably (adverb)</div>	News
+平方	píngfāng<div>square [km, mi, cm, in, etc.]</div>	News
+土地	tǔdì<div>land, soil, territory (noun)</div>	News
+不仅。。。也。。。	bùjǐn...yě...<div><div>not only [this one], not just...but also...</div></div>	News
+准确	zhǔnquè<div>accurate, exact, precise (adjective)</div>	News
+找出	zhǎochū<div>to find, to search out (verb)</div>	News
+成年	chéngnián<div>- to grow to adulthood (verb)</div><div>- fully grown (adjective)</div>	News
+野生	yěshēng<div>wild, undomesticated [e.g., deer, dogs]</div>	News
+一级	yījí<div>first class, category A</div>	News
+主要	zhǔyào<div>main, principal, major, primary (adjective)</div>	News
+村子	cūnzi<div>village (noun)</div>	News
+发生	fāshēng<div>to happen, occur, take place, or break out (verb)</div>	News
+破坏	pòhuài<div>to wreck, break, or destroy (verb)</div>	News
+村民	cūnmín<div>villager (noun)</div>	News
+有助于	yǒuzhùyú<div>to contribute to, to promote (verb)</div>	News
+种类	zhǒnglèi<div>kind, genus, type, category, variety, species (noun)</div>	News
+银行	yínháng<div>bank [the institution] (noun)</div>	B3-L9
+司机	sījī<div>driver [not used for direct addressing, 师傅 for that] (noun)</div>	B3-L9
+王府井	Wangfǔjǐng<div>Most famous business area in Beijing (noun)</div>	B3-L9
+二环	èrhuán<div>Second Ring Road (proper noun)</div>	B3-L9
+堵	dǔ<div>stop up or block [e.g., a road] (verb)</div>	B3-L9
+厉害	lì.hai<div>- terribly, severely (adverb)</div><div>- terrible, severe (adjective)</div>	B3-L9
+堵车	dǔ//chē<div>have a traffic jam (verb-object)</div>	B3-L9
+急	jí<div>worry, make anxious, make impatient (verb)</div>	B3-L9
+。。。死人	...sǐrén<div>extremely;...to death</div><div><br></div><div>气sǐrén</div><div>热sǐrén</div>	B3-L9
+不如	bùrú<div>not equal to, not as good as (verb)</div>	B3-L9
+骑	qí<div>ride [animal or bike] (verb)</div>	B3-L9
+自行车	zìxíngchē<div>bicycle (noun)</div>	B3-L9
+私家车	sījiāchē<div>private car (noun)</div>	B3-L9
+道路	dàolù<div>road, way (noun)</div>	B3-L9
+发展	fāzhǎn<div>- develop (verb)</div><div>- development (noun)</div>	B3-L9
+赶不上	gǎn.bu shàng<div>cannot catch up with (verb-complement)</div>	B3-L9
+增加	zēngjiā<div>add, increase, raise (verb, noun)</div>	B3-L9
+交通	jiāotōng<div>traffic (noun)</div>	B3-L9
+堵塞	dǔsè<div>block up, stop up (verb)</div>	B3-L9
+交通堵塞	jiāotōng dǔsè<div>traffic jam (noun)</div>	B3-L9
+严重	yánzhòng<div>serious [illness, situation] (adjective)</div>	B3-L9
+关门	guān//mén<div>close [e.g., close a store, office, etc. for the day] (verb)</div>	B3-L9
+发票	fāpiào<div>bill, receipt (noun)</div>	B3-L9
+职员	zhíyuán<div>office worker, staff member (noun)</div>	B3-L9
+单子	dān.zi<div>form, list (noun)</div>	B3-L9
+现金	xiànjīn<div>cash (noun)</div>	B3-L9
+支票	zhīpiào<div>check [from a checkbook] (noun)</div>	B3-L9
+签字	qiān//zì<div>sign (verb-object)</div>	B3-L9
+上班	shàngbān<div>start work [at job] (verb)</div>	B3-L9
+下班	xiàbān<div>Get off of work (verb)</div>	B3-L9
+游戏	yóuxì<div>video game (noun)</div>	B3-L9
+盒子	hézi<div>box, case [smaller than 箱子] (noun)</div>	B3-L9
+模特	mótè<div>model [a person who does modeling] (noun)</div>	B3-L9
+虫	chóng<div>worm [the animal] (noun)</div>	B3-L9
+书虫	shūchóng<div>bookworm (noun)</div>	B3-L9
+薪水	xīnshuǐ<div>salary (noun)</div>	B3-L9
+经济	jīngjì<div>economy (noun)</div>	B3-L9
+销量	xiāoliàng<div>sales volume (noun)</div>	B3-L9
+质量	zhìliàng<div>quality [of something like a car] (noun)</div>	B3-L9
+污染	wūrǎn<div>pollution (noun)</div>	B3-L9
+移情	yìqíng<div>pandemic, epidemic situation (noun)</div>	B3-L9
+宁可	nìngkě<div>preferably, would rather (adverb)</div>	B3-L9
+学费	xuéfèi<div>tuition fees (noun)</div>	B3-L9
+您慢走	nínmànzǒu<div>more colloquial way of saying bye [by the host]</div>	B3-L9
+填	tián<div>to fill out [e.g., a form] (verb)</div>	B3-L9
+窗口	chuāngkǒu<div>service window [e.g., at a bank] (noun)</div>	B3-L9
+存钱	cúnqián<div>deposit money (verb)</div>	B3-L9
+取钱	qǔqián<div>withdraw money (verb)</div>	B3-L9
+变化	biànhuà<div>change (noun)</div>	B3-L9
+受欢迎	shòu huānyíng<div>popular (adjective)</div>	B3-L9
+灵活	línghuó<div>flexible, agile (adjective)</div>	B3-L9
+影响	yǐngxiǎng<div>influence (noun)</div>	B3-L9
+文件	wénjiàn<div>document (noun)</div>	B3-L9
+紧急	jǐnjí<div>- urgent (adjective)</div><div>- emergency (noun)</div>	B3-L9
+专门	zhuānmén<div>- specialist (noun)</div><div>- specialized (adjective)</div><div>- customized (adjective)</div>	B3-L9
+&nbsp;到处	dàochù<div>everywhere (adjective)</div>	B3-L9
+竞争	jìngzhēng<div>- to compete (verb)</div><div>- competition (noun)</div>	B3-L9
+激烈	jīliè<div>- intense, fierce [competition, fighting] (adj)</div><div>- acute [pain] (adj)</div><div>- impassioned [opinion] (adj)</div><div>- drastic [course of action] (adj)</div>	B3-L9
+甘肃省	Gānsù Shěng<div>Gansu Province</div>	News
+境内	jìngnèi<div>within borders, domested, internal [to country, province, etc.]</div>	News
+建成	jiànchéng<div>to establish or build (verb)</div>	News
+连接	liánjiē<div>- to link, join, or attach (verb)</div><div>- connection (noun)</div>	News
+新疆	Xīnjiāng<div>Xinjiang region</div>	News
+青海	Qīnghǎi<div>Qinghai region</div>	News
+西藏	Xīzàng<div>Tibet</div>	News
+常年	chángnián<div>all year, average year</div>	News
+风沙	fēngshā<div>sand blown by wind, sandstorm (noun)</div>	News
+及时	jíshí<div>in time, promptly, without delay, timely</div>	News
+清扫	qīngsǎo<div>to tidy up, to mop up (verb)</div>	News
+铁路	tiělù<div>railroad, railway (noun)</div>	News
+沙子	shāzi<div>sand, grit (noun)</div>	News
+正常	zhèngcháng<div>regular, normal, ordinary</div>	News
+尤其	yóuqí<div>especially, particularly (adverb)</div>	News
+大风	dàfēng<div>gale [i.e., a strong wind] (noun)</div>	News
+平均	píngjūn<div>- average&nbsp;</div><div>- on average</div>	News
+温度	wēndù<div>temperature</div>	News
+零下	língxià<div>below zero</div>	News
+以下	yǐxià<div>that level or lower, that amount or less, the following</div>	News
+低	dī<div>low (adj)</div>	News
+停止	tíngzhǐ<div>to stop, halt, or cease (verb)</div>	News
+出发	chūfā<div>to set off, to start [on a journey]</div>	News
+其中	qízhōng<div>among, in, included among these [e.g., group of people]</div>	News
+帽子	màozi<div>- hat, cap</div><div>- label, bad name [figuratively | CL:顶[dǐng] ]</div>	News
+呼出	hūchū<div>to exhale or breathe out</div>	News
+热气	rèqì<div>steam, heat</div>	News
+变成	biànchéng<div>to change into, to turn into, to become</div>	News
+霜	shuāng<div>frost (noun)</div>	News
+满	mǎn<div>- to fill</div><div>- full, filled, packed</div>	News
+汗水	hànshuǐ<div>sweat, perspiration (noun)</div>	News
+棉袄	mián'ǎo<div>cotton-padded jacket (noun)</div>	News
+脱	tuō<div>- to shed, to take off [e.g., a jacket]</div><div>- to escape, to get away from</div>	News
+变硬	biànyìng<div>to stiffen</div>	News
+立	lì<div>to stand, to setup up, to establish</div>	News
+带上	dài shàng<div>to take on, to bring on</div>	News
+保温	bǎowēn<div>- to keep hot</div><div>- heat preservation</div>	News
+普通	pǔ tōng<div>common, ordinary, general, average</div>	News
+冰块	bīng kuài<div>ice cube, ice chunk (noun)</div>	News
+讲价	jiǎng//jià<div>bargain, haggle (verb-object)</div>	B3-L10
+古董	gǔdǒng<div>antique (noun)</div>	B3-L10
+幅	fú<div>(measure word for paintings)</div>	B3-L10
+山水画	shānshuǐhuà<div>landscape painting (noun)</div>	B3-L10
+画	huà<div>- painting (noun)</div><div>- to draw (verb)</div>	B3-L10
+山水	shānshuǐ<div>- water from a mountain</div><div>- mountains and rivers</div><div>- scenery, landscape</div>	B3-L10
+老板	lǎobǎn<div>shopkeeper, boss (noun)</div>	B3-L10
+明代	Míngdài<div>Ming dynasty (1368 - 1544 CE)</div>	B3-L10
+世界	shìjiè<div>world (noun)</div>	B3-L10
+噢	o<div>oh [indicating understanding] (interjection)</div>	B3-L10
+重新	chóngxīn<div>again, anew, afresh (adverb)</div>	B3-L10
+古画	gǔhuà<div>ancient painting (noun)</div>	B3-L10
+到底	dàodǐ<div>after all, exactly (adverb)</div><div><br></div><div>dàodǐ 要多少钱？</div>	B3-L10
+成本	chéngběn<div>cost [of procurement or production] (noun)</div>	B3-L10
+赚钱	zhuàn//qián<div>make money, make a profit (verb-object)</div>	B3-L10
+开玩笑	kāi wánxiào<div>to joke or make fun of (verb-object)</div>	B3-L10
+赔钱	péi//qián<div>lose money [in business transaction] (verb-object)</div>	B3-L10
+穷	qióng<div>poor, poverty-stricken (adjective)</div>	B3-L10
+买不起	mǎi .bu .qǐ<div>cannot afford (verb-complement)</div><div><br></div><div>positive form: 买得起</div>	B3-L10
+人物	rénwù<div>figure, person, character [in a novel, etc.] (noun)</div>	B3-L10
+只好	zhǐhǎo<div>have to, be forced to (adverb)</div>	B3-L10
+逛	guàng<div>stroll, go window-shopping (verb)</div>	B3-L10
+市场	shìchǎng<div>market (noun)</div>	B3-L10
+巧	qiǎo<div>coincidental, fortuitous (adjective)</div>	B3-L10
+哎呀	āiyā<div>Oh!, Ah! [expresses anger, irritation, contempt, or disappointment] (interjection)</div>	B3-L10
+一模一样	yìmú yíyàng<div>exactly alike (exactly alike)</div><div><br></div><div>这个跟那个 yìmú yíyàng</div>	B3-L10
+花钱	huā//qián<div>spend [money] (verb-object)</div>	B3-L10
+上当	shàng//dàng<div>be taken in, be fooled (verb-object)</div><div><br></div><div>你别 shàng 他的 dàng</div>	B3-L10
+老古懂	lǎogǔdǒng<div>old-fashioned person/people (noun)</div>	B3-L10
+文学	wénxué<div>literature (noun)</div>	B3-L10
+朝代	cháodài<div>dynasty [e.g., Chinese imperial dynasties] (noun)</div>	B3-L10
+逛商场	guàng shàngchǎng<div>walk around in a big shopping mall (verb)</div>	B3-L10
+老家	lǎojiā<div>hometown (noun)</div>	B3-L10
+双胞胎	shuāngbāotāi<div>identical twins (noun)</div>	B3-L10
+被骗	bèipiàn<div>be fooled [passive voice]</div>	B3-L10
+[Verb] 不起	"[Verb] bùqǐ<div>""cannot afford [Verb]ing""</div><div><br></div><div>住 bùqǐ 那么贵得饭馆</div><div>上 bùqǐ 大学</div><div>做 bùqǐ 飞机</div>"	B3-L10
+只要 [Money, Time] 就。。。了	zhǐyào[Money, Time] jiù...le<div>With only [Money, Time], [Action, Goal, etc.] is achieved</div><div><br></div><div>这件衬衫本来要一百块，今天打五折，…… zhǐyào五十块jiù行le。</div>	B3-L10 Grammar
+就是 + （不）[Mental Verb]	jiùshì(bù)喜欢/想/要/愿意/希望<div>我不喜欢这幅人物画，我 jiùshì 要这幅山水画。<br></div>	B3-L10 Grammar
+多+一 Measure word +都+ result	With one more, [result]<div><br></div><div>我只有500块钱，多一[ _ ]钱都[ _ ]。<br></div>	B3-L10 Grammar
+情侣	qínglǔ<div>lovers (noun)<br></div><div><br></div><div><br></div>	B3-L10
+才 [+ Verb] + amount	<div>In this context, 才means 'only'</div><div><br></div>他爸爸今年才四十岁。<div>别急，现在才十点。<br></div><div><br></div><div>我才花了一百块！<br></div><div>他才睡了一个钟头<br></div>	B3-L10
+随着	suí zhe<div>along with, in the wake of, following</div>	News
+住宿	zhùsù<div>- to stay at</div><div>- lodging, accomodation</div>	News
+酒店	jiǔdiàn<div>wine shop, pub, hotel, restaurant [literally: alcoholic beverage store]</div>	News
+精品	jīngpǐn<div>quality goods, premium products, fine work [of art] (noun)</div>	News
+民宿	mínsù<div>guesthouse, bed-and-breakfast, homestay (noun)</div>	News
+乡村	xiāngcūn<div>- rustic (adj)</div><div>- village, countryside (noun)</div>	News
+建	jiàn<div>to establish, found, setup, or build (verb)</div>	News
+特色	tèsè<div>characteristic, distinguishing feature or quality (noun)</div>	News
+促进	cùjìn<div>to promote [an idea or cause], advance, or boost</div>	News
+福建	Fújiàn<div>Fujian Province</div>	News
+不仅仅。。。也/还有。。。	<div>Uses jǐn</div><div>- Not only, but also [more colloquial than non-duplicated version]<br></div>	Grammar News
+海边	hǎi biān<div>seaside, coast, seashore, beach</div>	News
+美景	měijǐng<div>beautiful scenery (noun)</div>	News
+远近闻名	yuǎnjìnwénmíng<div>to be known far and wide</div><div><br></div><div>yuǎnjìnwénmíng 的民宿<br></div>	News
+设计师	shèjìshī<div>designer, architect (noun)</div>	News
+家乡	jiā xiāng<div>hometown, native place (noun)</div>	News
+风景	fēngjǐng<div>scenery, landscape (noun)</div>	News
+一般	yī bān<div>- same, ordinary, so-so, common, general</div><div>- generally</div><div>- in general</div>	News
+既有	jì yǒu<div>existing</div>	News
+标准	biāozhǔn<div>standard, norm, criterion (noun)</div>	News
+要求	yāo qiú<div>to request, require, stake a claim, ask, or demand (verb)</div>	News
+不断	bù duàn<div>unceasing, uninterrupted, continuous, constant</div>	News
+游客	yóukè<div>traveler, tourist (noun)</div>	News
+达	dá<div>- to attain, reach, amount to, or communicate (verb)</div><div>- eminent (adjective)</div>	News
+人次	rén cì<div>person-times, visits, classifier for number of people participating</div><div><br></div><div>游客高达30千 réncì</div>	News
+收入	shōurù<div>- to take in</div><div>- income, revenue</div>	News
+不仅如此	bù jǐn rú cǐ<div>not only that, but...</div><div><br></div><div>bù jǐn rú cǐ，民俗还发展了乡村经济</div>	News
+火车	huǒchē<div>train (noun)</div>	B3-L13
+远处	"yuǎnchù<div>""far-place"", distance place (noun)</div>"	B3-L13
+不到	búdào<div>less than; not yet</div><div><br></div><div>búdào 二十岁</div><div>búdào 20块人民币</div>	B3-L13
+居然	jūrán<div>unexpectedly, surprisingly (adverb)</div>	B3-L13
+山西省	Shānxī shěng<div>Shanxi province</div>	B3-L13
+硬座	yìngzuò<div>hard seat [on a train] (noun)</div>	B3-L13
+软卧	ruǎnwò<div>soft bunk [on a train] (noun)</div>	B3-L13
+路上	lù.shang<div>on the way (adverb)</div><div><br></div><div>- lùshang 的人很多</div><div>- 我在回家的 lùshang 看到了一个老朋友。</div>	B3-L13
+特产	tèchǎn<div>special local product (noun)</div>	B3-L13
+尝	cháng<div>taste (verb)</div><div><br></div><div>这个菜很好吃，你 chángcháng</div>	B3-L13
+风味	fēngwèi<div>special flavor, local flavor (noun)</div>	B3-L13
+小吃	xiǎochī<div>snack, refreshment (noun)</div>	B3-L13
+乘客	chéngkè<div>passenger (noun)</div>	B3-L13
+交谈	jiāotán<div>talk with each other, converse, chat (verb)</div>	B3-L13
+交	jiāo<div>make [friends] (verb)</div>	B3-L13
+到。。。为止。。。	dào...wéizhǐ...<div>up to...until...</div>	B3-L13
+目前	mùqián<div>now, at present (time word)</div>	B3-L13
+国内	guónèi<div>internal, domestic (adjective)</div>	B3-L13
+工具	gōngjù<div>tool, instrument (noun)</div>	B3-L13
+机会	jī.huì<div>opportunity, chance (noun)</div>	B3-L13
+观察	guānchá<div>to observe, watch, or survey (verb)</div>	B3-L13
