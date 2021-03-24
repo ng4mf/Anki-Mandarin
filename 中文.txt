@@ -139,7 +139,7 @@
 进来	jìnlai<div>to come in</div>	B1-L5-Visiting-Friends
 来	lái<div>to come</div>	B1-L5-Visiting-Friends
 介绍	jièshào<div>to introduce</div>	B1-L5-Visiting-Friends
-一下	yíxià<div>once, a bit</div>	B1-L5-Visiting-Friends
+。。。一下	yíxià<div>once, a bit</div>	B1-L5-Visiting-Friends
 高兴	gāoxìng<div>happy</div>	B1-L5-Visiting-Friends
 漂亮	piàoliang<div>pretty</div>	B1-L5-Visiting-Friends
 坐	zuò<div>- to sit</div><div>- to travel by</div>	B1-L10-Transportation B1-L5-Visiting-Friends
@@ -1093,7 +1093,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 太空	tàikōng<div>outer space (noun)</div>	News
 数	shǔ<div>to count (verb)</div>	News
 技术	jìshù<div>technology, technique, skill (noun)</div>	News
-起到	qǐdào<div>to start, launch, initiate, or rise (verb)</div>	News
+起到（。。。的）作用	qǐdào(...de)zuòyòng<div><div>to start, launch, initiate, or rise (verb)</div></div>	News
 作用	zuòyòng<div>- to act on, affect (verb)</div><div>- action, function, result (noun)</div>	News
 南非	Nánfēi<div>South Africa</div>	News
 最先	zuì xiān<div>[the] very first</div>	News
@@ -1192,7 +1192,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 平均	píngjūn<div>- average&nbsp;</div><div>- on average</div>	News
 温度	wēndù<div>temperature</div>	News
 零下	língxià<div>below zero</div>	News
-以下	yǐxià<div>that level or lower, that amount or less, the following</div>	News
+以下	yǐxià<div>that level or lower, that amount or less, the following, hereafter</div>	News
 低	dī<div>low (adj)</div>	News
 停止	tíngzhǐ<div>to stop, halt, or cease (verb)</div>	News
 出发	chūfā<div>to set off, to start [on a journey]</div>	News
@@ -1275,7 +1275,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 标准	biāozhǔn<div>standard, norm, criterion (noun)</div>	News
 要求	yāo qiú<div>to request, require, stake a claim, ask, or demand (verb)</div>	News
 不断	bù duàn<div>unceasing, uninterrupted, continuous, constant</div>	News
-游客	yóukè<div>traveler, tourist (noun)</div>	News
+游客	yóukè<div>traveler, tourist (noun)</div>	B3-L14 News
 达	dá<div>- to attain, reach, amount to, or communicate (verb)</div><div>- eminent (adjective)</div>	News
 人次	rén cì<div>person-times, visits, classifier for number of people participating</div><div><br></div><div>游客高达30千 réncì</div>	News
 收入	shōurù<div>- to take in</div><div>- income, revenue</div>	News
@@ -1301,3 +1301,107 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 工具	gōngjù<div>tool, instrument (noun)</div>	B3-L13
 机会	jī.huì<div>opportunity, chance (noun)</div>	B3-L13
 观察	guānchá<div>to observe, watch, or survey (verb)</div>	B3-L13
+参观	cānguān<div>to visit [a place], look around (verb)</div>	B3-L13
+总统	zǒngtǒng<div>president [e.g., of a country] (noun)</div>	B3-L13
+电子竞技	diànzǐjìngjì<div>e-sports</div>	News
+简称	jiǎnchēng<div>abbreviation, short form</div>	News
+亿	yì<div>100 million, १० करोङ</div>	News
+玩家	wánjiā<div>player [of computer games]</div>	News
+总收入	zǒngshōurù<div>gross income (noun)</div>	News
+突破	tūpò<div>to break through, to make a breakthrough (verb)</div><div><br></div><div>总收入 tūpò 200亿快</div>	News
+正	zhēng<div>first month of the lunar year</div><div><br></div><div>zhèng</div><div>just [right], main, upright, straight, correct, positive, greater than zero, principle</div>	News
+吸引	xī yǐn<div>to attract [interest, investment, etc.]</div>	News
+跨过	kuàguó<div>transnational, multinational (adj)</div><div><br></div><div>kuàguó 企业 = multinational company</div>	News
+企业	qǐyè<div>company, firm, enterprise, corporation (noun)</div>	News
+进入	jìnrù<div>to enter, join, or go into (verb)</div><div><br></div><div>跨国企业 jǐnrù 中国电子竞技市场</div>	News
+出版	chū bǎn<div>to publish, come off the press, or put out (verb)</div><div><br></div><div>那个企业 chūbǎn 很多录音</div>	News
+委员会	wěiyuánhuì<div>committee (noun)</div>	News
+共同	gòng tóng<div>- common, joint, collaborative</div><div>- jointly</div><div>- together</div><div><br></div><div>他们 gòngtóng 写书</div>	News
+发表	fābiǎo<div>to issue or publish (verb)</div>	News
+产业	chǎnyè<div>- industry, estate, property</div><div>- industrial</div>	News
+显示	xiǎnxhì<div>to show, illustrate, display, or demonstrate (verb)</div><div><br></div><div>他们发表的报告 xiǎnshì, 。。。</div>	News
+增长	zēng zhǎng<div>to grow or increase (verb)</div><div><br></div><div>市场收入从2019年的10亿元 zēngzhǎng 到2020 年的20亿元</div>	News
+同比	tóng bǐ<div>year on year</div><div><br></div><div>tóngbǐ 增长44%</div>	News
+此外	cǐwài<div>besides, in addition, moreover, furthermore</div>	News
+预测	yùcè<div>to forecast or predict</div><div><br></div><div>据他 yùcè，。。。</div>	News
+持续	chíxù<div>- to continue or persist</div><div>- sustainable, preservation</div>	News
+有望	yǒuwàng<div>hopeful, promising</div>	News
+达到	dá dào<div>to reach, achieve, or attain</div>	News
+日益	rì yì<div>day by day, more and more, increasingly</div>	News
+人气	rénqì<div>popularity, personality, character</div>	News
+与	yú<div>to take part in or participate</div><div><br></div><div>yǔ</div><div>and, to give, together with</div>	News
+规模	guīmó<div>scale, scope, extent (noun)</div>	News
+大量	dàliàng<div>great amount, bulk</div>	News
+国内外	guó nèi wài<div>domestic and international</div>	News
+投资	tóuzī<div>- to invest</div><div>- investment</div>	News
+获得	huò dé<div>to obtain, receive, or get</div>	News
+全球	quánqiú<div>entire, total, global, worldwide</div>	News
+关注	guān zhù<div>- to pay attention to, to follow something closely</div><div>- interest, attention</div>	News
+用品	yòngpǐn<div>articles for use, products, goods</div>	News
+联合	liánhé<div>- to combine, join, or unite</div><div>- aliiance</div>	News
+品牌	pǐnpái<div>brand name, trademark</div>	News
+推出	tuīchū<div>to push out, release, launch, publish, or recommend</div>	News
+设计	shèjì<div>- to design</div><div>- design</div>	News
+包括	bāo kuò<div>to comprise, include, involve, incorporate, or consist of</div>	News
+将来	jiāng lái<div>in the future, future, the future</div>	News
+其他	qítā<div>other, the rest</div>	News
+体验	tǐyàn<div>to experience for oneself</div>	News
+其实	qíshí<div>actually, in fact, really</div>	News
+如今	rú jīn<div>nowadays, now</div>	News
+传统	chuán tǒng<div>tradition, traditional, convention, conventional</div>	News
+业务	yèwù<div>business, professional work, service</div>	News
+行业	hángyè<div>industry, business</div>	News
+开启	kāiqǐ<div>to open, start, or enable</div>	News
+俱乐部	jùlèbù<div>club (noun)</div><div><br></div><div>电子竞技 jùlèbù</div>	News
+成为	chéngwéi<div>to become or turn into</div>	News
+合作	hézuò<div>to cooperate, collaborate, or work together</div>	News
+赞助	zànzhù<div>to support, assist, or sponsor</div><div><br></div><div>zànzhù 过电竟项目</div>	News
+项目	xiàng mù<div>item, project, sports event (noun)</div>	News
+受访	shōufǎng<div>to give an interview, to be interviewed, to respond [to questions, survey, etc.]</div>	News
+符号	fúhào<div>symbol, mark, sign</div><div><br></div><div>文化 fúhào</div>	News
+聚集	jùjí<div>to assemble or gather</div><div><br></div><div>jùjí 了很多人</div>	News
+具有	jùyǒu<div>to have or possess</div>	News
+强大	qiáng dà<div>large, formidable, powerful, strong</div>	News
+消费	xiāo fèi<div>to consume</div>	News
+能力	néng lì<div>capability, capable, able, ability</div>	News
+年轻	nián qīng<div>young</div>	News
+群体	qúntǐ<div>community, colony</div>	News
+因而	yīn ér<div>therefore, as a result, thus</div>	News
+必然	bìrán<div>inevitable, certain, necessity</div>	News
+趋势	qūshì<div>trend, tendency</div>	News
+徐	xú<div>slowly, gently</div>	News
+相关	xiāng guān<div>related, relevant, pertinent, correlated</div>	News
+巨大	jù dà<div>huge, immense, tremendous, gigantic</div>	News
+中外	zhōngwài<div>China and foreign countries</div>	B3-L14
+景点	jǐngdiǎn<div>scenic spot</div>	B3-L14
+门票	ménpiào<div>entrance ticket; admission ticket (noun)</div>	B3-L14
+任何	rènhé<div>any, whichever, whatever</div>	B3-L14
+人山人海	rénshān rénhǎi<div>huge crowds of people (noun)</div>	B3-L14
+古代	gǔdài<div>ancient times (noun)</div>	B3-L14
+建筑	jiànzhù<div>architecture (noun)</div>	B3-L14
+华丽	huálì<div>magnificent, resplendent (adj)</div>	B3-L14
+装饰	zhuāngshì<div>decoration (noun)</div>	B3-L14
+休闲	xiūxián<div>recreational (adj)</div>	B3-L14
+锻炼	duànliàn<div>exercise, engage in physical activity (verb)</div>	B3-L14
+太极拳	tàijíquán<div>[type of] traditional Chinese shadow boxing (noun)</div>	B3-L14
+羽毛球	yǔmáoqiú<div>badminton (noun)</div>	B3-L14
+溜鸟	liǔ//niǎo<div>take a stroll with one's caged bird (verb-object)</div>	B3-L14
+傍晚	bàngwǎn<div>evening, dusk (time word)</div>	B3-L14
+下棋	xià//qí<div>play chess (verb-object)</div>	B3-L14
+乘凉	chéng//liáng<div>relax in a cool place (verb-object)</div>	B3-L14
+恋人	liànrén<div>lovers [used to describe people, not address them, Measure Word 对] (noun)</div><div><br></div><div>一对 liànrén</div>	B3-L14
+谈恋爱	tán liàn'ài<div>date [someone]; be in love</div><div><br></div><div>A跟B tán liàn'ài</div>	B3-L14
+千万	qiānwàn<div>ten million, १ करोङ</div>	B3-L14
+人口	rénkǒu<div>population (noun)</div>	B3-L14
+平时	píngshí<div>ordinarily, normally (adverb)</div>	B3-L14
+忙碌	mánglù<div>busy (adj)</div>	B3-L14
+拥挤	yōngjǐ<div>crowded (adj)</div>	B3-L14
+悠闲	yōuxián<div>relaxed and carefree (adj)</div>	B3-L14
+一面	yímiàn<div>one side, one aspect</div><div><br></div><div>有 A 的 yímiàn，也有 B 的 yímiàn</div>	B3-L14
+闷热	mēnrè<div>hot and suffocating, muggy (adj)</div>	B3-L14
+潮湿	cháoshī<div>humid (adj)</div>	B3-L14
+去处	qùchù<div>place, resort, site (noun)</div>	B3-L14
+故宫	Gùgōng<div>The Palace Museum (proper noun)</div>	B3-L14
+颐和园	Yúhéyuán<div>The Summer Palace (proper noun)</div>	B3-L14
+场所	chǎngsuǒ<div>location</div>	B3-L14
+往往	wǎngwǎng<div>likely</div>	B3-L14
