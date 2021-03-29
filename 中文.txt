@@ -699,7 +699,7 @@
 上次	shàngcì<div>last time</div>	B2-L15-Seeing-A-Doctor
 休息	xiūxi<div>to take a break, to rest</div>	B2-L15-Seeing-A-Doctor
 懒	lǎn<div>lazy</div>	B2-L15-Seeing-A-Doctor
-再说	zàishuō<div>moreover</div>	B2-L15-Seeing-A-Doctor
+再说	zàishuō<div>- moreover</div><div>- put off until sometime later</div>	B2-L15-Seeing-A-Doctor B3-L18
 乱	luàn<div>randomly, arbitrarily, messily</div>	B2-L15-Seeing-A-Doctor
 折扣	zhékòu<div>discount</div>	B2-L15-Seeing-A-Doctor
 单身狗	"dānshēngǒu<div>single person (Internet slang, literally ""single dog"")</div>"	B2-L15-Seeing-A-Doctor
@@ -1187,7 +1187,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 铁路	tiělù<div>railroad, railway (noun)</div>	News
 沙子	shāzi<div>sand, grit (noun)</div>	News
 正常	zhèngcháng<div>regular, normal, ordinary</div>	News
-尤其	yóuqí<div>especially, particularly (adverb)</div>	News
+尤其	yóuqí<div>especially, particularly (adverb)</div>	B3-L18 News
 大风	dàfēng<div>gale [i.e., a strong wind] (noun)</div>	News
 平均	píngjūn<div>- average&nbsp;</div><div>- on average</div>	News
 温度	wēndù<div>temperature</div>	News
@@ -1273,7 +1273,7 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 一般	yī bān<div>- same, ordinary, so-so, common, general</div><div>- generally</div><div>- in general</div>	News
 既有	jì yǒu<div>existing</div>	News
 标准	biāozhǔn<div>standard, norm, criterion (noun)</div>	News
-要求	yāo qiú<div>to request, require, stake a claim, ask, or demand (verb)</div>	News
+要求	yāo qiú<div>to request, require, stake a claim, ask, or demand (verb)</div>	B3-L18 News
 不断	bù duàn<div>unceasing, uninterrupted, continuous, constant</div>	News
 游客	yóukè<div>traveler, tourist (noun)</div>	B3-L14 News
 达	dá<div>- to attain, reach, amount to, or communicate (verb)</div><div>- eminent (adjective)</div>	News
@@ -1405,3 +1405,27 @@ BM女孩	"BM nǚhái<br><div>Brand known for small size, fashionable to be slend
 颐和园	Yúhéyuán<div>The Summer Palace (proper noun)</div>	B3-L14
 场所	chǎngsuǒ<div>location</div>	B3-L14
 往往	wǎngwǎng<div>likely</div>	B3-L14
+到时候	dào shí.hòu<div>until then; until that time</div><div><br></div><div>别紧张，dàoshíhòu 你就知道。。。</div>	B3-L18
+面子	miàn.zi<div>face, dignity [not physical face, but as in 'saving face'] (noun)</div>	B3-L18
+相应	xiāngyìng<div>corresponding; relevant (adj)</div>	B3-L18
+打交道	dǎ jiāodào<div>come into contact with; have dealings with (verb-object)</div>	B3-L18
+对方	duìfāng<div>the other side; the other party (noun)</div>	B3-L18
+给面子	gěi miànzi<div>show due respect for somebody's feelings</div>	B3-L18
+拒绝	jùjué<div>reject (verb)</div>	B3-L18
+意见	yì.jiàn<div>opinion, view (noun)</div>	B3-L18
+比方说	bǐ.fangshuō<div>for instance, for example</div>	B3-L18
+一块	yíkuài<div>together (adv)</div>	B3-L18
+诚实	chéng.shí<div>honest (adj)</div>	B3-L18
+找借口	zhǎo jièkǒu<div>look for an excuse (verb object)</div>	B3-L18
+回答	huídá<div>answer (noun, verb)</div>	B3-L18
+把握	bǎwò<div>assurance, certainty (noun)</div>	B3-L18
+研究	yánjiū<div>consider, discuss, study, research (verb)</div>	B3-L18
+进一步	jìnyíbù<div>go a step further, further (adv)</div>	B3-L18
+一步一步	yíbù yíbù<div>step by step (adv)</div>	B3-L18
+答应	dā.ying<div>agree, promise, answer (verb)</div>	B3-L18
+私事	sīshì<div>private affairs (noun)</div>	B3-L18
+面前	miànqián<div>in the face of, in front of (postposition)</div>	B3-L18
+话题	huàtí<div>topic of conversation (noun)</div>	B3-L18
+诚恳	chéngkěn<div>sincere (adj)</div>	B3-L18
+礼貌	lǐmào<div>courtesy, politeness (noun)</div>	B3-L18
+有礼貌	yǒu lǐmào<div>courteous, polite (adjective)</div>	B3-L18
